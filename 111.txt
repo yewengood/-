@@ -198,7 +198,6 @@ CCTV15,http://120.196.232.38:8088/rrs03.hw.gmcc.net/PLTV/651/224/3221226648/1.m3
 CCTV16,http://120.196.232.15:8088/rrs03.hw.gmcc.net/PLTV/651/224/3221226825/1.m3u8
 CCTV17,http://120.196.232.43:8088/rrs03.hw.gmcc.net/PLTV/651/224/3221226727/1.m3u8
 CCTV5+,http://120.196.232.51:8088/rrs03.hw.gmcc.net/PLTV/651/224/3221226711/1.m3u8
-
 卫视频道,#genre#
 甘肃卫视,http://[2409:8087:74F1:0021::0008]:80/270000001111/1110000322/index.m3u8?IASHttpSessionId=OTT
 甘肃卫视,http://[2409:8087:2001:20:2800:0:df6e:eb1a]/wh7f454c46tw1400573680_-1979013462/ott.mobaibox.com/PLTV/3/224/3221227568/index.m3u8?icpid=3&RTS=1668600490&from=40&popid=40&hms_devid=2116&prioritypopid=40&vqe=3
@@ -407,7 +406,6 @@ CCTV5+,http://120.196.232.51:8088/rrs03.hw.gmcc.net/PLTV/651/224/3221226711/1.m3
 内蒙古卫视,http://[2409:8087:1e03:21::2]:6060/cms001/ch00000090990000001068/index.m3u8
 内蒙古卫视,http://[2409:8087:1e03:21::42]:6610/cms001/ch00000090990000001068/index.m3u8?
 内蒙古卫视,http://[2409:8087:2001:20:2800:0:df6e:eb19]/wh7f454c46tw2228825807_1324573507/ott.mobaibox.com/PLTV/3/224/3221227557/index.m3u8?icpid=3&RTS=1669700829&from=40&popid=40&hms_devid=2113&prioritypopid=40&vqe=3
-
 港·澳·台,#genre#
 凤凰中文,http://[2409:8087:2001:20:2800:0:df6e:eb24]/ott.js.chinamobile.com/PLTV/3/224/3221228527/index.m3u8
 凤凰中文,http://[2409:8087:2001:20:2800:0:df6e:eb24]/ott.mobaibox.com/TVOD/3/224/3221228527/index.m3u8?/TVOD/.smil
@@ -432,7 +430,6 @@ CCTV5+,http://120.196.232.51:8088/rrs03.hw.gmcc.net/PLTV/651/224/3221226711/1.m3
 翡翠台,http://r.jdshipin.com/qClQf
 翡翠台,http://r.jdshipin.com/n90gt
 翡翠台,http://r.jdshipin.com/62WM7
-
 IHOT频道,#genre#
 IHOT爱电竞,http://[2409:8087:7000:20:1000::22]:6060/000000001000/6000000006000230630/index.m3u8?channel-id=wasusyt&Contentid=6000000006000230630&livemode=1&stbId=3
 IHOT爱电竞,http://[2409:8087:7000:20:1000::22]:6060/000000001000/2000000004000000054/index.m3u8?channel-id=hnbblive&Contentid=2000000004000000054&livemode=1&stbId=3
@@ -471,7 +468,6 @@ IHOT爱悬疑,http://[2409:8087:7000:20:1000::22]:6060/000000001000/600000000600
 IHOT爱悬疑,http://[2409:8087:7000:20:1000::22]:6060/000000001000/2000000004000000036/index.m3u8?channel-id=hnbblive&Contentid=2000000004000000036&livemode=1&stbId=3
 IHOT爱院线,http://[2409:8087:7000:20:1000::22]:6060/000000001000/6000000006000030630/index.m3u8?channel-id=wasusyt&Contentid=6000000006000030630&livemode=1&stbId=3
 IHOT爱院线,http://[2409:8087:7000:20:1000::22]:6060/000000001000/2000000004000000034/index.m3u8?channel-id=hnbblive&Contentid=2000000004000000034&livemode=1&stbId=3
-
 NewTV频道,#genre#
 NewTV超级体育,http://[2409:8087:1a01:df::7005]:80/ottrrs.hl.chinamobile.com/PLTV/88888888/224/3221225715/index.m3u8
 NewTV超级体育,http://ottrrs.hl.chinamobile.com/PLTV/88888888/224/3221225715/index.m3u8
