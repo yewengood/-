@@ -37,6 +37,7 @@
 广东珠江,http://ci.emdoor.tech:8080/touchtv.php?pk=1183
 广东珠江,http://zteres.sn.chinamobile.com:6060/000000001000/1000000004000011655/1.m3u8?channel-id=ystenlive&Contentid=1000000004000011655&livemode=1&stbId=3
 广东体育,http://ci.emdoor.tech:8080/touchtv.php?pk=1184
+广东民生,http://8.217.90.28:9999/触电.php?id=gdms
 广东民生,http://ci.emdoor.tech:8080/touchtv.php?pk=1185
 广东新闻,http://ci.emdoor.tech:8080/touchtv.php?pk=1186
 嘉佳卡通,http://ci.emdoor.tech:8080/touchtv.php?pk=1187
