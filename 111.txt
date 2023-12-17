@@ -74,7 +74,7 @@ CCTV16「IPV6」•支持回看,http://[2409:8087:2001:20:2800:0:df6e:eb18]/ott.
 SiTV欢笑剧场4K「IPV6」,http://[2409:8087:7000:20:1000::22]:6060/yinhe/2/ch00000090990000002156/index.m3u8?virtualDomain=yinhe.live_hls.zte.com
 欢笑剧场4K,http://dbiptv.sn.chinamobile.com/PLTV/88888890/224/3221226582/index.m3u8
 广东频道,#genre#
-广东卫视,https://live.goodiptv.club/api/bestv.php?id=gdwshd8m/8000000
+广东卫视,http://[2409:8087:7000:20:1000::22]:6060/yinhe/2/ch00000090990000001058/index.m3u8?virtualDomain=yinhe.live_hls.zte.com
 广东卫视,,https://epg.pw/stream/23718014ee69495ab3ace3cc974c9da1b887a4eef6e698a2afabbbfa8afac0be.m3u8
 广东卫视,https://epg.pw/stream/e4d6fc2ea3696865781c1416441b9f758ae725fa75c57ce25de8db86e3539fcd.m3u8
 广东珠江,http://8.217.90.28:9999/触电.php?id=gdzj
@@ -87,6 +87,7 @@ SiTV欢笑剧场4K「IPV6」,http://[2409:8087:7000:20:1000::22]:6060/yinhe/2/ch
 广东民生,http://180.97.247.27/4403-tx.otvstream.otvcloud.com/otv/skcc/live/channel45/index.m3u8 
 广东4K超高清,http://47.242.38.45:9999/触电.php?id=gdzy 
 广东4K超高清,https://epg.pw/stream/e8b28ec61f7a94aee321cb57b38b6ed69638f0489cb004dae3417ba2de8ef4dd.ctv
+大湾区卫视,http://[2409:8087:7000:20:1000::22]:6060/yinhe/2/ch00000090990000001305/index.m3u8?virtualDomain=yinhe.live_hls.zte.com
 大湾区卫视,http://47.242.38.45:9999/触电.php?id=nfws 
 大湾区卫视,https://epg.pw/stream/ee751fa9b7a6838f962336dd49e45c4c037fdec6e9f7add40f8e6299db6dee1a.ctv
 广东新闻,http://47.242.38.45:9999/触电.php?id=gdxw 
@@ -94,6 +95,7 @@ SiTV欢笑剧场4K「IPV6」,http://[2409:8087:7000:20:1000::22]:6060/yinhe/2/ch
 广东文化,http://8.217.90.28:9999/触电.php?id=gdwh
 广东少儿,http://8.217.90.28:9999/触电.php?id=gdse
 广东少儿,https://epg.pw/stream/a4e4c101283a531599d4477b69a2621112e7802e230a5afaa161c191fb9ec2d4.ctv
+嘉佳卡通,http://[2409:8087:7000:20:1000::22]:6060/yinhe/2/ch00000090990000001310/index.m3u8?virtualDomain=yinhe.live_hls.zte.com
 嘉佳卡通,http://8.217.90.28:9999/触电.php?id=jjkt
 广东移动,http://8.217.90.28:9999/触电.php?id=gdyd
 广东体育,https://epg.pw/stream/1f8c60e6c05b69be6816ad240d74aa967881eec688ed90972c434d2f6a79f5df.ctv
