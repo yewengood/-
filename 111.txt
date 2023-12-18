@@ -141,6 +141,9 @@ SiTV欢笑剧场4K「IPV6」,http://[2409:8087:7000:20:1000::22]:6060/yinhe/2/ch
 CCTV1,http://39.134.24.162/dbiptv.sn.chinamobile.com/PLTV/88888888/224/3221225804/1.m3u8
 CCTV2,http://39.134.24.162/dbiptv.sn.chinamobile.com/PLTV/88888888/224/3221226195/1.m3u8
 CCTV2,http://39.134.24.162/dbiptv.sn.chinamobile.com/PLTV/88888888/224/3221226224/1.m3u8
+CCTV3,https://epg.pw/stream/f83dc7ca0f76dfbe67adde17966cef5aeccc0bf4cb946bb19ba6b5c987f17c02.ctv
+CCTV3,https://epg.pw/stream/a20301f125e22b5dcb5ba098dee9fb4d0404430807d77262602a3525e8b7ce4c.ctv
+CCTV3,https://epg.pw/stream/9f3b4d5f463574211c8174a5b6cdc9dd53a096d93cd7fa1831f37cad5a5be028.m3u8
 CCTV4,http://39.134.24.162/dbiptv.sn.chinamobile.com/PLTV/88888888/224/3221226191/1.m3u8
 CCTV5,http://39.134.24.162/dbiptv.sn.chinamobile.com/PLTV/88888888/224/3221226395/1.m3u8
 CCTV5,http://39.134.24.166/dbiptv.sn.chinamobile.com/PLTV/88888888/224/3221226395/1.m3u8
