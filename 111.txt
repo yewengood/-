@@ -138,7 +138,6 @@ SiTV欢笑剧场4K「IPV6」,http://[2409:8087:7000:20:1000::22]:6060/yinhe/2/ch
 遂溪台,http://8.217.90.28:9999/触电.php?id=sxtv
 肇庆生活,http://8.217.90.28:9999/触电.php?id=zqgg
 央视频道,#genre#
-CCTV1,https://epg.pw/stream/78f0712606d51d9811eaa776e3ea93708c3f4b341c11e17dc3ca1466b96af9b3.m3u8
 CCTV1,https://epg.pw/stream/0afdd9f864a9b4be8a1cfca3a88427ff557da7af7c802b58f35056ba946b4081.m3u8
 CCTV1,https://epg.pw/stream/9209dc9c7530c62bdc1a5acd02d19ae52d303cf29f3fb28e91dea586f1716813.m3u8
 CCTV1[ipv6],https://epg.pw/stream/e8c807aa459f0d367a79091636c424c098806131ca24d4aaf91298239f8999ec.m3u8
