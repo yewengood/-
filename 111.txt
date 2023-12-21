@@ -97,6 +97,7 @@ SiTV欢笑剧场4K「IPV6」,http://[2409:8087:7000:20:1000::22]:6060/yinhe/2/ch
 广东少儿,https://epg.pw/stream/a4e4c101283a531599d4477b69a2621112e7802e230a5afaa161c191fb9ec2d4.ctv
 嘉佳卡通,http://[2409:8087:7000:20:1000::22]:6060/yinhe/2/ch00000090990000001310/index.m3u8?virtualDomain=yinhe.live_hls.zte.com
 嘉佳卡通,http://111.180.199.137:9895/php/触电.php?id=jjkt
+优漫卡通,http://[2409:8087:7004:20:1000::22]:6610/yinhe/2/ch00000090990000001065/index.m3u8?virtualDomain=yinhe.live_hls.zte.com
 优漫卡通,http://47.109.29.60/php/gudo.php?id=ymkt
 广东移动,http://111.180.199.137:9895/php/触电.php?id=gdyd
 广东体育,https://epg.pw/stream/1f8c60e6c05b69be6816ad240d74aa967881eec688ed90972c434d2f6a79f5df.ctv
