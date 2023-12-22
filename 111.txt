@@ -89,7 +89,7 @@ CCTV4K,https://live.goodiptv.club/api/cqyx.php?id=CCTV4K
 广东卫视,,https://epg.pw/stream/23718014ee69495ab3ace3cc974c9da1b887a4eef6e698a2afabbbfa8afac0be.m3u8
 广东卫视,https://epg.pw/stream/e4d6fc2ea3696865781c1416441b9f758ae725fa75c57ce25de8db86e3539fcd.m3u8
 广东珠江,http://111.180.199.137:9895/php/触电.php?id=gdzj
-广东珠江,https://epg.pw/stream/2edf350407f7d14d96462c234b64d1d5ce353df9741f8b8ed1d63d50ed33256d.ctv
+广东珠江,http://218.15.121.130:9901/tsfile/live/1000_1.m3u8?key=txiptv&playlive=1&authid=0
 广东珠江,https://epg.pw/stream/2419c6ca4dac89689f5bab479a71bcfac926d7c7b5133c1b08c19f1a0d557828.m3u8
 广东珠江,https://epg.pw/stream/81111a99c82a329aea72b8166dfdad9e63ffdd13b49485a2f1858dd45afcad03.ctv
 广东珠江,http://183.237.231.139:9901/tsfile/live/1056_1.m3u8
@@ -102,16 +102,16 @@ CCTV4K,https://live.goodiptv.club/api/cqyx.php?id=CCTV4K
 大湾区卫视,http://111.180.199.137:9895/php/触电.php?id=nfws
 大湾区卫视,https://epg.pw/stream/ee751fa9b7a6838f962336dd49e45c4c037fdec6e9f7add40f8e6299db6dee1a.ctv
 广东新闻,http://111.180.199.137:9895/php/触电.php?id=gdxw
-广东新闻,https://epg.pw/stream/54eacf981d4eba031293a7c4fb1c96c29c75f44fcacf6fa9ab6d8063b1060711.ctv
+广东新闻,http://36.36.200.212:9901/tsfile/live/1006_1.m3u8?key=txiptv&playlive=0&authid=0#http://218.15.121.130:9901/tsfile/live/1001_1.m3u8?key=txiptv&playlive=1&authid=0
 广东文化,http://8.217.90.28:9999/触电.php?id=gdwh
 广东少儿,http://111.180.199.137:9895/php/触电.php?id=gdse
-广东少儿,https://epg.pw/stream/a4e4c101283a531599d4477b69a2621112e7802e230a5afaa161c191fb9ec2d4.ctv
+广东少儿,http://218.15.229.90:9901/tsfile/live/1006_1.m3u8?key=txiptv&playlive=1&authid=0
 嘉佳卡通,http://[2409:8087:7000:20:1000::22]:6060/yinhe/2/ch00000090990000001310/index.m3u8?virtualDomain=yinhe.live_hls.zte.com
 嘉佳卡通,http://111.180.199.137:9895/php/触电.php?id=jjkt
 优漫卡通,http://[2409:8087:7004:20:1000::22]:6610/yinhe/2/ch00000090990000001065/index.m3u8?virtualDomain=yinhe.live_hls.zte.com
 优漫卡通,http://47.109.29.60/php/gudo.php?id=ymkt
 广东移动,http://111.180.199.137:9895/php/触电.php?id=gdyd
-广东体育,https://epg.pw/stream/1f8c60e6c05b69be6816ad240d74aa967881eec688ed90972c434d2f6a79f5df.ctv
+广东体育,http://218.15.229.90:9901/tsfile/live/1001_1.m3u8?key=txiptv&playlive=1&authid=0
 广东体育,http://218.15.229.90:9901/tsfile/live/1001_1.m3u8
 广东体育,http://183.234.194.165:8888/udp/239.20.0.103:2004 
 广东体育,http://111.180.199.137:9895/php/触电.php?id=gdty
@@ -119,7 +119,7 @@ CCTV4K,https://live.goodiptv.club/api/cqyx.php?id=CCTV4K
 广东经济科教,https://epg.pw/stream/92d2fa1304545640f7fd0d67aef94454f51f05a0cb77d0825f446954857c899a.m3u8
 广东国际,https://epg.pw/stream/ee751fa9b7a6838f962336dd49e45c4c037fdec6e9f7add40f8e6299db6dee1a.ctv
 广东影视,http://111.180.199.137:9895/php/触电.php?id=gdys
-广东影视,https://epg.pw/stream/37555bfaaf041a1f11ac31ebb1b28ae693f5fc4299751b197a83e437833ca1ad.ctv
+广东影视,http://218.15.229.90:9901/tsfile/live/1002_1.m3u8?key=txiptv&playlive=1&authid=0
 广东综艺,https://epg.pw/stream/e8b28ec61f7a94aee321cb57b38b6ed69638f0489cb004dae3417ba2de8ef4dd.ctv
 广东导视,http://47.109.29.60/php/gudo.php?id=gdds
 纪录片,https://glive.grtn.cn/live/jilupian.m3u8?auth_key=1701395547-0-0-4620c42a7420eafc02c5d2c59d7da7ab
@@ -161,8 +161,8 @@ GRTN纪录片,http://glive.grtn.cn/live/jilupian.m3u8
 肇庆生活,http://8.217.90.28:9999/触电.php?id=zqgg
 广东体育,http://36.36.200.212:9901/tsfile/live/1004_1.m3u8?key=txiptv&playlive=0&authid=0#http://218.15.121.130:9901/tsfile/live/1003_1.m3u8?key=txiptv&playlive=1&authid=0
 广东公共,http://36.36.200.212:9901/tsfile/live/1005_1.m3u8?key=txiptv&playlive=0&authid=0#http://218.15.121.130:9901/tsfile/live/1002_1.m3u8?key=txiptv&playlive=1&authid=0
-广东新闻,http://36.36.200.212:9901/tsfile/live/1006_1.m3u8?key=txiptv&playlive=0&authid=0#http://218.15.121.130:9901/tsfile/live/1001_1.m3u8?key=txiptv&playlive=1&authid=0
-广东珠江,http://218.15.121.130:9901/tsfile/live/1000_1.m3u8?key=txiptv&playlive=1&authid=0
+
+
 央视频道,#genre#
 CCTV1,https://epg.pw/stream/0afdd9f864a9b4be8a1cfca3a88427ff557da7af7c802b58f35056ba946b4081.m3u8
 CCTV1,https://epg.pw/stream/9209dc9c7530c62bdc1a5acd02d19ae52d303cf29f3fb28e91dea586f1716813.m3u8
@@ -1093,7 +1093,7 @@ CHC家庭影院,http://dbiptv.sn.chinamobile.com/PLTV/88888890/224/3221226462/in
 60帧极致蓝光,http://epg.112114.xyz/douyu/747764
 经典神剧,http://epg.112114.xyz/douyu/3700024
 华语经典,http://epg.112114.xyz/douyu/434971
-3D电影
+3D电影,#genre#
 变形金刚1,https://vd3.bdstatic.com/mda-khb9j4g6c25biyqj/v1-cae/1080p/mda-khb9j4g6c25biyqj.mp4
 变形金刚UHD,https://vd3.bdstatic.com/mda-nd6k8tnavw6sj0a5/720p/h264_delogo/1649341231263414752/mda-nd6k8tnavw6sj0a5.mp4
 变形金刚LD,https://vd3.bdstatic.com/mda-nd6k8tnavw6sj0a5/1080p/cae_h264_delogo/1649341416696755483/mda-nd6k8tnavw6sj0a5.mp4
