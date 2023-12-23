@@ -134,6 +134,13 @@ GRTN健康频道,http://glive.grtn.cn/live/health.m3u8
 GRTN文化频道,http://glive.grtn.cn/live/wenhua_test0203.m3u8
 GRTN生活频道,http://glive.grtn.cn/live/life.m3u8
 GRTN纪录片,http://glive.grtn.cn/live/jilupian.m3u8
+梅州1,http://103.45.68.47:666/gy/gy_IP@iTd/豆豆.php?id=meizhou1HD_4500
+梅州2,http://103.45.68.47:666/gy/gy_IP@iTd/豆豆.php?id=meizhou2HD_4500
+梅州导视,http://103.45.68.47:666/gy/gy_IP@iTd/豆豆.php?id=meizhoudaoshiHD
+梅县综合,http://103.45.68.47:666/gy/gy_IP@iTd/豆豆.php?id=meixianHD
+兴宁市576,http://103.45.68.47:666/gy/gy_IP@iTd/豆豆.php?id=xingning1
+平远综合576,http://103.45.68.47:666/gy/gy_IP@iTd/豆豆.php?id=pingyuan1
+五华576,http://103.45.68.47:666/gy/gy_IP@iTd/豆豆.php?id=wuhua1HD
 深圳都市,http://livepull-tcyzb.sztv.com.cn/live/dushi01.m3u8
 深圳龙岗,https://lglivepull.sznews.com/live/2647.m3u8
 河源综合,http://tmpstream.hyrtv.cn/xwzh/sd/live.m3u8#https://tmpstream.hyrtv.cn/xwzh/sd/live.m3u8?_upt=f767206b1671099007#http://8.217.90.28:9999/触电.php?id=hyzh
