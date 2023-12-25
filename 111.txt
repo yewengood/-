@@ -61,6 +61,7 @@ FAIRCHILD 2,http://4ksuper.live/play/live.php?mac=00:1A:79:50:63:9E&extension=ts
 4K频道,#genre#
 苏州4K,http://liveshowbak2.kan0512.com/ksz-norecord/csztv4k_4k.m3u8
 影视4K,http://nas.jdshipin.com:8801/4kys.php
+1905电影网,http://103.45.68.47:666/gy/gy_thHDqL/1905.php
 Love Nrture 4K「自然」,https://d18dyiwu97wm6q.cloudfront.net/playlist2160p.m3u8
 CCTV8K测试,http://[2409:8087:2001:20:2800:0:df6e:eb03]/wh7f454c46tw1981574683_-2118700426/ott.mobaibox.com/PLTV/3/224/3221228165/index.m3u8
 8K「IPV6」,http://[2409:8087:2001:20:2800:0:df6e:eb04]/wh7f454c46tW1782571424_-1576923679/ott.mobaibox.com/PLTV/3/224/3221228132/index.m3u8
