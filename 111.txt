@@ -87,6 +87,11 @@ CCTV4K,https://live.goodiptv.club/api/cqyx.php?id=CCTV4K
 
 广东频道,#genre#
 广东卫视,http://[2409:8087:7000:20:1000::22]:6060/yinhe/2/ch00000090990000001058/index.m3u8?virtualDomain=yinhe.live_hls.zte.com
+广东珠江,http://111.180.199.137:9895/php/触电.php?id=gdzj
+广东卫视,http://111.180.199.137:9895/php/触电.php?id=gdws
+广东民生,http://111.180.199.137:9895/php/触电.php?id=gdms
+广东体育,http://111.180.199.137:9895/php/触电.php?id=gdty
+广东影视,http://111.180.199.137:9895/php/触电.php?id=gdys
 广东卫视,https://tcdn.itouchtv.cn/live/gdws.m3u8?t_token=d0a7b26139820966958ee8f7fe103a7c-Z1sCFFSSFU%2BthQQBCheeA9QR8VuULwwTb%2BpHIbD3C9HK%2FoyQRM4bbgz68bQYlzyyeVwW6dfeJWA%2F5kA7HTIZYkUyxxzEDG3dSujgFwzz3UDu%2F7dHAqr9mTjXP5i4liAisa%2FfTprCes%2FHCRe2QYAvRSn4Lj3opU9XP4a7N8fpamuhEvEvwaR%2Fi%2Bmq%2F4EgcvkdZUAmXzlwyxVyJU5FMcRYklenwl8CQXJ4dhpsROUvbi3RnP2dcoUTKEuLqqjdHGP%2FRbU4VgCIVvptP2UQvAcmzZ97ApPiL98YhiHhmuI4RUM%3D
 广东新闻,https://tcdn.itouchtv.cn/live/xwpd.m3u8?t_token=919c2400c2720bcd836bfba701020e90-Z1sCFFSSFU%2BthQQBCheeA9QR8VuULwwTb%2BpHIbD3C9HK%2FoyQRM4bbgz68bQYlzyyeVwW6dfeJWA%2F5kA7HTIZYkUyxxzEDG3dSujgFwzz3UDu%2F7dHAqr9mTjXP5i4liAisa%2FfTprCes%2FHCRe2QYAvRVZR0rb%2BbGoBLiuwwutTSDEoc%2BrXECtQtgIkrqmYNNoz%2BsmnjrtNSHKEGKmKFGBOnlzQTyhiylXQiG5iONcI%2BlIzECXAHzivTHi0z2JlGOUWuGObcYoMkvUEBgbZaEaZX1VUxm556CLGOMSssPYCk%2F8%3D
 广东4K超高清,https://tcdn.itouchtv.cn/live/gdzy.m3u8?t_token=744ad17d5c59f64ec44ae090d3db6cf3-Z1sCFFSSFU%2BthQQBCheeA9QR8VuULwwTb%2BpHIbD3C9HK%2FoyQRM4bbgz68bQYlzyyeVwW6dfeJWA%2F5kA7HTIZYkUyxxzEDG3dSujgFwzz3UDu%2F7dHAqr9mTjXP5i4liAisa%2FfTprCes%2FHCRe2QYAvRZT%2Ft%2FZuvlp3udr9SWArtcMLobs304A7M5Pl0GEVT%2BQ0Xn1XQQq9h0bga8SjnMq%2Bo4lfk8NrK3G7VEpPnuD7l12JNatw%2FvRJDpvWBZ%2FHTU1vvn62YlsS3363KDkOfGa6tcyCzSdDCr42Y7YkzCg704c%3D
