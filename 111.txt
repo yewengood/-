@@ -280,11 +280,11 @@ HZTV2高清,http://113.116.104.247:10000/rtp/239.77.1.233:5146
 广东珠江,https://epg.pw/stream/2419c6ca4dac89689f5bab479a71bcfac926d7c7b5133c1b08c19f1a0d557828.m3u8
 广东文化,https://glive.grtn.cn/live/wenhua_test0203.m3u8
 广东新闻,http://218.15.121.130:9901/tsfile/live/1001_1.m3u8?key=txiptv&playlive=1&authid=0
-广东新闻 ,https://php.17186.eu.org/gdtv/web/xwpd.m3u8
-广东影视 ,https://php.17186.eu.org/gdtv/gdys.m3u8
-广东影视 ,https://php.17186.eu.org/gdtv/web/gdys.m3u8
-广东体育 ,https://php.17186.eu.org/gdtv/gdty.m3u8
-广东体育 ,http://r.jdshipin.com/LiYdg
+广东新闻,https://php.17186.eu.org/gdtv/web/xwpd.m3u8
+广东影视,https://php.17186.eu.org/gdtv/gdys.m3u8
+广东影视,https://php.17186.eu.org/gdtv/web/gdys.m3u8
+广东体育,https://php.17186.eu.org/gdtv/gdty.m3u8
+广东体育,http://r.jdshipin.com/LiYdg
 广东经济科教,https://pili-live-hls.kingsmedia.cn/metoo-live/e06829f1a4374c4cb7f72cd99c7c636d.m3u8
 广东导视,http://47.109.29.60/php/gudo.php?id=gdds
 广东体育,http://218.15.121.130:9901/tsfile/live/1003_1.m3u8?key=txiptv&playlive=1&authid=0
