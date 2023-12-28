@@ -1,6 +1,6 @@
 广东频道,#genre#
 广东卫视,http://[2409:8087:7000:20:1000::22]:6060/yinhe/2/ch00000090990000001058/index.m3u8?virtualDomain=yinhe.live_hls.zte.com
-岭南戏曲,http://183.238.66.1:9090/live/1460_4500.m3u8?t=8S6lHDnZOXb8fZ91xEBYwg==&u=freeuser&p=1&pid=&cid=860&d=004bfc8f56cd2797&sid=Gy9eRrI+l1Uqy+snO0LhNw==&r=20231226085747&e=20231226145752&nc=RuKgCpvRNmGC&a=7&v=2&isSuma=1&hlsSessionID=2793077895960391138&srchost=172.16.149.181:8060&gid=zam3sxepCHWsvA6lS5awjg%3D%3D
+岭南戏曲,http://gxdl-lhs.8866.org:85/tsfile/live/1005_1.m3u8?key=txiptv&playlive=1&authid=0
 广东珠江,http://218.15.121.130:9901/tsfile/live/1000_1.m3u8?key=txiptv&playlive=1&authid=0
 广东珠江,https://epg.pw/stream/2419c6ca4dac89689f5bab479a71bcfac926d7c7b5133c1b08c19f1a0d557828.m3u8
 广东文化,https://glive.grtn.cn/live/wenhua_test0203.m3u8
@@ -19,6 +19,8 @@
 优漫卡通,http://47.109.29.60/php/gudo.php?id=ymkt
 大湾区卫视,http://[2409:8087:7000:20:1000::22]:6060/yinhe/2/ch00000090990000001305/index.m3u8?virtualDomain=yinhe.live_hls.zte.com
 纪录片,https://glive.grtn.cn/live/jilupian.m3u8?auth_key=1701395547-0-0-4620c42a7420eafc02c5d2c59d7da7ab
+梅州1,http://pili-live-hls.xianchangliving.gdmztv.com/meizhou-xianchangliving/mztv1.m3u8
+梅州2,http://pili-live-hls.xianchangliving.gdmztv.com/meizhou-xianchangliving/mztv2.m3u8
 河源综合,http://tmpstream.hyrtv.cn/xwzh/sd/live.m3u8
 河源综合,https://tmpstream.hyrtv.cn/xwzh/sd/live.m3u8?_upt=f767206b1671099007
 河源公共,http://tmpstream.hyrtv.cn/hygg/sd/live.m3u8
