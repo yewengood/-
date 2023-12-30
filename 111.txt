@@ -1,20 +1,25 @@
 广东频道,#genre#
+广东卫视,https://php.17186.eu.org/gdtv/web/gdws.m3u8
 广东卫视,http://[2409:8087:1a01:df::4077]/PLTV/88888888/224/3221225966/index.m3u8
 广东卫视,http://[2409:8087:1a01:df::4077]/ottrrs.hl.chinamobile.com/PLTV/88888888/224/3221226248/index.m3u8
+岭南戏曲,https://php.17186.eu.org/gdtv/web/lnxq.m3u8
 岭南戏曲,http://gxdl-lhs.8866.org:85/tsfile/live/1005_1.m3u8?key=txiptv&playlive=1&authid=0
+广东珠江,https://php.17186.eu.org/gdtv/web/gdzj.m3u8
 广东珠江,http://218.15.121.130:9901/tsfile/live/1000_1.m3u8?key=txiptv&playlive=1&authid=0
 广东珠江,https://epg.pw/stream/2419c6ca4dac89689f5bab479a71bcfac926d7c7b5133c1b08c19f1a0d557828.m3u8
+广东公共,https://php.17186.eu.org/gdtv/web/gdgg.m3u8
+广东公共,http://218.15.121.130:9901/tsfile/live/1002_1.m3u8?key=txiptv&playlive=1&authid=0
 广东文化,https://glive.grtn.cn/live/wenhua_test0203.m3u8
 广东新闻,http://218.15.121.130:9901/tsfile/live/1001_1.m3u8?key=txiptv&playlive=1&authid=0
 广东新闻,https://php.17186.eu.org/gdtv/web/xwpd.m3u8
-广东影视,https://php.17186.eu.org/gdtv/gdys.m3u8
 广东影视,https://php.17186.eu.org/gdtv/web/gdys.m3u8
 广东体育,https://php.17186.eu.org/gdtv/gdty.m3u8
 广东体育,http://r.jdshipin.com/LiYdg
+广东经济科教,https://php.17186.eu.org/gdtv/web/jjkj.m3u8
 广东经济科教,https://pili-live-hls.kingsmedia.cn/metoo-live/e06829f1a4374c4cb7f72cd99c7c636d.m3u8
 广东导视,http://47.109.29.60/php/gudo.php?id=gdds
 广东体育,http://218.15.121.130:9901/tsfile/live/1003_1.m3u8?key=txiptv&playlive=1&authid=0
-广东公共,http://218.15.121.130:9901/tsfile/live/1002_1.m3u8?key=txiptv&playlive=1&authid=0
+广东少儿,https://php.17186.eu.org/gdtv/web/gdse.m3u8
 嘉佳卡通,http://[2409:8087:7000:20:1000::22]:6060/yinhe/2/ch00000090990000001310/index.m3u8?virtualDomain=yinhe.live_hls.zte.com
 优漫卡通,http://[2409:8087:7004:20:1000::22]:6610/yinhe/2/ch00000090990000001065/index.m3u8?virtualDomain=yinhe.live_hls.zte.com
 优漫卡通,http://47.109.29.60/php/gudo.php?id=ymkt
@@ -37,8 +42,7 @@
 广东珠江,http://[2409:8087:7001:20:1000::5]:6610/000000001000/1000000004000011655/index.m3u8?channel-id=ystenlive&Contentid=1000000004000011655&livemode=1&stbId=3&HlsProfileId=
 广东珠江,http://[2409:8087:7001:20:1000::90]:6610/000000001000/1000000004000011655/index.m3u8?channel-id=ystenlive&Contentid=1000000004000011655&livemode=1&stbId=3&HlsProfileId=
 广东珠江,http://[2409:8087:7001:20:1000::85]:6610/000000001000/1000000004000011655/index.m3u8?channel-id=ystenlive&Contentid=1000000004
-广东珠江 ,http://r.jdshipin.com/sE5vO
-广东珠江 ,https://php.17186.eu.org/gdtv/web/gdzj.m3u8
+广东珠江,http://r.jdshipin.com/sE5vO
 广州综合,https://tencentplaygsm.gztv.com/live/zonghes.m3u8?txTime=658c098c&txSecret=366c1c820ffd4c1c0a28cadb7d1c2460
 广州新闻,https://tencentplaygsm.gztv.com/live/xinwen.m3u8?txTime=658c09aa&txSecret=5e0c3fcbd9d470bbf61dffef878aab4e
 广州法治,https://tencentplaygsm.gztv.com/live/fazhi.m3u8?txTime=658c09c6&txSecret=6464d5696f5373152ebe0664751139f9
