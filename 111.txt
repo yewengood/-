@@ -43,11 +43,12 @@
 广东珠江,http://[2409:8087:7001:20:1000::90]:6610/000000001000/1000000004000011655/index.m3u8?channel-id=ystenlive&Contentid=1000000004000011655&livemode=1&stbId=3&HlsProfileId=
 广东珠江,http://[2409:8087:7001:20:1000::85]:6610/000000001000/1000000004000011655/index.m3u8?channel-id=ystenlive&Contentid=1000000004
 广东珠江,http://r.jdshipin.com/sE5vO
-广州综合,https://tencentplaygsm.gztv.com/live/zonghes.m3u8?txTime=658c098c&txSecret=366c1c820ffd4c1c0a28cadb7d1c2460
-广州新闻,https://tencentplaygsm.gztv.com/live/xinwen.m3u8?txTime=658c09aa&txSecret=5e0c3fcbd9d470bbf61dffef878aab4e
-广州法治,https://tencentplaygsm.gztv.com/live/fazhi.m3u8?txTime=658c09c6&txSecret=6464d5696f5373152ebe0664751139f9
-广州影视,https://tencentplaygsm.gztv.com/live/yingshi.m3u8?txTime=658c09e8&txSecret=475978ff5e3dd96ae63a40cb1c9443ed
-南国都市4K,https://tencentplaygsm.gztv.com/live/nanguodushi.m3u8?txTime=658c09fd&txSecret=21041022af9b7a72589c646fd7e68dcc
+广州综合,http://jx.48tv.cn/tv/gztv2023.php?id=zhonghe
+广州新闻,http://jx.48tv.cn/tv/gztv2023.php?id=xinwen
+广州影视,http://jx.48tv.cn/tv/gztv2023.php?id=yingshi
+广州法制,http://jx.48tv.cn/tv/gztv2023.php?id=fazhi
+广州竞赛,http://jx.48tv.cn/tv/gztv2023.php?id=jingsai
+广州南国都市4K 1080P,http://jx.48tv.cn/tv/gztv2023.php?id=shenghuo
 
 数字,#genre#
 茶,http://39.134.24.162/dbiptv.sn.chinamobile.com/PLTV/88888890/224/3221226808/index.m3u8
