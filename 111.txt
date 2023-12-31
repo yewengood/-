@@ -49,6 +49,10 @@
 广州法制,http://jx.48tv.cn/tv/gztv2023.php?id=fazhi
 广州竞赛,http://jx.48tv.cn/tv/gztv2023.php?id=jingsai
 广州南国都市4K 1080P,http://jx.48tv.cn/tv/gztv2023.php?id=shenghuo
+Now爆谷台,http://103.43.9.131:5866/gaoying588.php?id=79
+Now爆谷台,http://103.43.9.131:5866/gaoying588.php?id=80
+Now星影台,http://103.43.9.131:5866/gaoying588.php?id=81
+Now星影台,http://103.43.9.131:5866/gaoying588.php?id=82
 
 数字,#genre#
 茶,http://39.134.24.162/dbiptv.sn.chinamobile.com/PLTV/88888890/224/3221226808/index.m3u8
