@@ -24,6 +24,9 @@
 优漫卡通,http://[2409:8087:7004:20:1000::22]:6610/yinhe/2/ch00000090990000001065/index.m3u8?virtualDomain=yinhe.live_hls.zte.com
 大湾区卫视,http://[2409:8087:7000:20:1000::22]:6060/yinhe/2/ch00000090990000001305/index.m3u8?virtualDomain=yinhe.live_hls.zte.com
 纪录片,https://glive.grtn.cn/live/jilupian.m3u8?auth_key=1701395547-0-0-4620c42a7420eafc02c5d2c59d7da7ab
+凤凰中文台,http://221.7.175.154:8445/tsfile/live/1020_1.m3u8?key=txiptv&playlive=1&authid=0
+凤凰资讯,http://221.7.175.154:8445/tsfile/live/1021_1.m3u8?key=txiptv&playlive=1&authid=0
+凤凰电影,http://221.7.175.154:8445/tsfile/live/1022_1.m3u8?key=txiptv&playlive=1&authid=0
 梅州1,http://pili-live-hls.xianchangliving.gdmztv.com/meizhou-xianchangliving/mztv1.m3u8
 梅州2,http://pili-live-hls.xianchangliving.gdmztv.com/meizhou-xianchangliving/mztv2.m3u8
 河源综合,http://tmpstream.hyrtv.cn/xwzh/sd/live.m3u8
