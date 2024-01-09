@@ -2330,6 +2330,26 @@ MOMO2台,https://raw.githubusercontent.com/ChiSheng9/iptv/master/TV05.m3u8
 民视戏剧,https://ytm2.yuanhsing.cf/FTVDRAMA.m3u8
 
 央视,#genre#
+CCTV1,http://1.12.223.61/s/62e68c58971a4ffc/index.m3u8?id=cctv1&b=1
+CCTV2,http://1.12.223.61/s/62e68c58971a4ffc/index.m3u8?id=cctv2&b=1
+CCTV3,http://1.12.223.61/s/62e68c58971a4ffc/index.m3u8?id=cctv3&b=1
+CCTV4,http://1.12.223.61/s/62e68c58971a4ffc/index.m3u8?id=cctv4&b=1
+CCTV5,http://1.12.223.61/s/62e68c58971a4ffc/index.m3u8?id=cctv5&b=1
+CCTV5+,http://1.12.223.61/s/62e68c58971a4ffc/index.m3u8?id=cctv5p&b=1
+CCTV6,http://1.12.223.61/s/62e68c58971a4ffc/index.m3u8?id=cctv6&b=1
+CCTV7,http://1.12.223.61/s/62e68c58971a4ffc/index.m3u8?id=cctv7&b=1
+CCTV8,http://1.12.223.61/s/62e68c58971a4ffc/index.m3u8?id=cctv8&b=1
+CCTV9,http://1.12.223.61/s/62e68c58971a4ffc/index.m3u8?id=cctv9&b=1
+CCTV10,http://1.12.223.61/s/62e68c58971a4ffc/index.m3u8?id=cctv10&b=1
+CCTV11,http://1.12.223.61/s/62e68c58971a4ffc/index.m3u8?id=cctv11&b=1
+CCTV12,http://1.12.223.61/s/62e68c58971a4ffc/index.m3u8?id=cctv12&b=1
+CCTV13,http://1.12.223.61/s/62e68c58971a4ffc/index.m3u8?id=cctv13&b=1
+CCTV14,http://1.12.223.61/s/62e68c58971a4ffc/index.m3u8?id=cctv14&b=1
+CCTV15,http://1.12.223.61/s/62e68c58971a4ffc/index.m3u8?id=cctv15&b=1
+CCTV16,http://1.12.223.61/s/62e68c58971a4ffc/index.m3u8?id=cctv16&b=1
+CCTV17,http://1.12.223.61/s/62e68c58971a4ffc/index.m3u8?id=cctv17&b=1
+凤凰中文,http://1.12.223.61/s/62e68c58971a4ffc/index.m3u8?id=15-1&b=1
+凤凰资讯,http://1.12.223.61/s/62e68c58971a4ffc/index.m3u8?id=16-1&b=1
 CCTV1,http://39.134.24.162/dbiptv.sn.chinamobile.com/PLTV/88888888/224/3221225804/1.m3u8
 CCTV2,http://39.134.24.162/dbiptv.sn.chinamobile.com/PLTV/88888888/224/3221226195/1.m3u8
 CCTV2,http://39.134.24.162/dbiptv.sn.chinamobile.com/PLTV/88888888/224/3221226224/1.m3u8
