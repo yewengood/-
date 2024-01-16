@@ -2162,7 +2162,7 @@ BesTV4K,http://[2409:8087:5e01:34::30]:6610/ZTE_CMS/0000000100000006000000000000
 苏州4K,http://1972762443.cloudvdn.com/a.m3u8?domain=liveshowbak2.kan0512.com&player=TsoAAKTAB9juCfgW&secondToken=secondToken%3Aquo0xZnAeUUm47BcklXb7ffCum8&streamid=ksz-norecord%3Aksz-norecord%2Fcsztv4k_4k&v3=1 
 苏州4K,http://liveshowbak2.kan0512.com/ksz-norecord/csztv4k_4k.m3u8
 江苏移动8K测试,http://[2409:8087:2001:20:2800:0:df6e:eb04]/ott.mobaibox.com/PLTV/3/224/3221228132/index.m3u8
-南国都市,https://justsometime.gztv.com/sec/shenghuos.m3u8
+南国都市4K,http://125.92.142.111:4022/rtp/239.253.43.99:5146
 咪咕体育,http://[2409:8087:1a01:df::4001]/PLTV/88888888/224/3221225655/index.m3u8
 咪咕体育,http://[2409:8087:1a01:df::4006]/PLTV/88888888/224/3221225651/index.m3u8
 百视通,http://[2409:8087:5e01:34::30]:6610/ZTE_CMS/00000001000000060000000000000202/index.m3u8?IAS
