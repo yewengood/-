@@ -16,7 +16,7 @@
 岭南戏曲高清,http://120.237.114.90:7000/rtp/239.21.0.147:3932
 现代教育高清,http://120.237.114.90:7000/rtp/239.21.0.148:3936
 翡翠台,http://www.namewee.xyz/gudou.php?id=364&id=1350_4500#http://www.namewee.xyz/gudou.php?id=367&id=1350_4500
-明珠台,http://61.140.113.20:808/hls/106/index.m3u8
+明珠台,http://www.namewee.xyz/gudou.php?id=367&id=1351_4500#http://www.namewee.xyz/gudou.php?id=364&id=1351_4500
 本港台,http://113.117.74.52:8081/hls/135/index.m3u8
 星空卫视,http://61.140.113.20:808/hls/110/index.m3u8
 凤凰资讯高清,http://113.117.74.52:8081/hls/36/index.m3u8
