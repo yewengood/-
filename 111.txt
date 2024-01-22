@@ -15,13 +15,15 @@
 嘉佳卡通高清,http://120.237.114.90:7000/rtp/239.21.0.94:3716
 岭南戏曲高清,http://120.237.114.90:7000/rtp/239.21.0.147:3932
 现代教育高清,http://120.237.114.90:7000/rtp/239.21.0.148:3936
-翡翠台,http://www.namewee.xyz/gudou.php?id=364&id=1350_4500#http://www.namewee.xyz/gudou.php?id=367&id=1350_4500
+重温经典,http://cg12.hunancatv.cn:9090/live/CWJD.m3u8?t=Q3ZTI5YWVmMmUwM==&d=7e29aef2e03907f&pid=&cid=20&u=freeuser&l=001&sid=My5f5evM7A+JM7kBEt7zRg==&r=20240116195900&e=20240117195900&nc=5juVZbdBPOgB&a=7&v=2&hlsSessionID=7114844658832085543&srchost=172.16.22.158:8060&gid=1cTuE8i8Z%2F6MoBf3Sw1THw%3D%3D
+翡翠台,http://113.86.206.78:9999/tsfile/live/1055_1.m3u8?key=txiptv&playlive=1&authid=0
 明珠台,http://www.namewee.xyz/gudou.php?id=367&id=1351_4500#http://www.namewee.xyz/gudou.php?id=364&id=1351_4500
-本港台,http://113.117.74.52:8081/hls/135/index.m3u8
-星空卫视,http://61.140.113.20:808/hls/110/index.m3u8
-凤凰资讯高清,http://113.117.74.52:8081/hls/36/index.m3u8
+星空卫视,http://113.86.206.78:9999/tsfile/live/1060_1.m3u8?key=txiptv&playlive=1&authid=0
+凤凰中文台,http://113.86.206.78:9999/tsfile/live/0108_1.m3u8?key=txiptv&playlive=1&authid=0
 凤凰卫视高清,http://113.117.74.52:8081/hls/37/index.m3u8
 凤凰香港高清,http://113.117.74.52:8081/hls/38/index.m3u8
+天映电影,http://113.86.206.78:9999/tsfile/live/1051_1.m3u8?key=txiptv&playlive=1&authid=0
+龙祥电影,http://113.86.206.78:9999/tsfile/live/1057_1.m3u8?key=txiptv&playlive=1&authid=0
 
 广东卫视高清,http://113.87.88.146:7000/rtp/239.77.1.19:5146
 广东卫视高清,http://113.87.88.146:7000/rtp/239.77.1.152:5146
