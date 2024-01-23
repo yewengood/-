@@ -1,3 +1,6 @@
+好看频道,#genre#
+
+
 #EXTINF:-1 tvg-id=”” tvg-name=”AdultIPTV.net 直播摄像头” tvg-language=”英语” tvg-logo=” https://files.adultiptv.net/adultiptvnet.jpg” 组- title=”XXX”,AdultIPTV.net 实时摄像头 http://live.adultiptv.net/livecams.m3u8
 #EXTINF:-1 tvg-id=”” tvg-name=”AdultIPTV.net MILF” tvg-language=”英文” tvg-logo=” https://files.adultiptv.net/adultiptvnet.jpg” group-title=”XXX”,AdultIPTV.net MILF http://live.adultiptv.net/milf.m3u8 
 #EXTINF:-1 tvg-id=”” tvg-name=”AdultIPTV.net 大鸡巴” tvg-language=”英语” tvg-logo=” https://files.adultiptv.net/adultiptvnet.jpg” group-title=”XXX ”,AdultIPTV.net 大鸡巴 http://live.adultiptv.net/bigdick.m3u8
