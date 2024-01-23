@@ -16,7 +16,7 @@
 岭南戏曲高清,http://120.237.114.90:7000/rtp/239.21.0.147:3932
 现代教育高清,http://120.237.114.90:7000/rtp/239.21.0.148:3936
 重温经典,http://cg12.hunancatv.cn:9090/live/CWJD.m3u8?t=Q3ZTI5YWVmMmUwM==&d=7e29aef2e03907f&pid=&cid=20&u=freeuser&l=001&sid=My5f5evM7A+JM7kBEt7zRg==&r=20240116195900&e=20240117195900&nc=5juVZbdBPOgB&a=7&v=2&hlsSessionID=7114844658832085543&srchost=172.16.22.158:8060&gid=1cTuE8i8Z%2F6MoBf3Sw1THw%3D%3D
-翡翠台,http://113.86.206.78:9999/tsfile/live/1055_1.m3u8?key=txiptv&playlive=1&authid=0
+翡翠台,http://www.namewee.xyz/gudou.php?id=367&id=1350_4500#http://113.86.206.78:9999/tsfile/live/1055_1.m3u8?key=txiptv&playlive=1&authid=0
 明珠台,http://www.namewee.xyz/gudou.php?id=367&id=1351_4500#http://www.namewee.xyz/gudou.php?id=364&id=1351_4500
 星河频道,http://113.117.74.99:8081/hls/135/index.m3u8
 星空卫视,http://113.86.206.78:9999/tsfile/live/1060_1.m3u8?key=txiptv&playlive=1&authid=0
@@ -4536,6 +4536,7 @@ YY電影-歐美動作電影,http://mmitv.top/pltv/yy.php?id=1382745089
 
 
 斗鱼一起看,#genre#
+风味人间,http://mmitv.top/test/douyu.php?id=9650849
 Lisite清酒,https://www.goodiptv.club/douyu/3688591
 小鹿奈iris,https://www.goodiptv.club/douyu/5820073
 一晚月圆,https://www.goodiptv.club/douyu/67623
