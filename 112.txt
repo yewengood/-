@@ -5,7 +5,7 @@
 #EXTINF:-1 tvg-id=”” tvg-name=”AdultIPTV.net MILF” tvg-language=”英文” tvg-logo=” https://files.adultiptv.net/adultiptvnet.jpg” group-title=”XXX”,AdultIPTV.net MILF http://live.adultiptv.net/milf.m3u8 
 #EXTINF:-1 tvg-id=”” tvg-name=”AdultIPTV.net 大鸡巴” tvg-language=”英语” tvg-logo=” https://files.adultiptv.net/adultiptvnet.jpg” group-title=”XXX ”,AdultIPTV.net 大鸡巴 http://live.adultiptv.net/bigdick.m3u8
 #EXTINF:-1 tvg-id=”” tvg-name=”AdultIPTV.net 大奶” tvg-language=”English” tvg -logo=” https://files.adultiptv.net/adultiptvnet.jpg” group-title=”XXX”,AdultIPTV.net 大奶 http://live.adultiptv.net/bigtits.m3u8
-#EXTINF:-1 tvg -id=”” tvg-name=”AdultIPTV.net 恋物癖” tvg-language=”英语” tvg-logo=” https://files.adultiptv.net/adultiptvnet.jpg” group-title=”XXX”,AdultIPTV .net 恋物癖 http://live.adultiptv.net/fetish.m3u8
+#EXTINF:-1 tvg-id=”” tvg-name=”AdultIPTV.net 恋物癖” tvg-language=”英语” tvg-logo=” https://files.adultiptv.net/adultiptvnet.jpg” group-title=”XXX”,AdultIPTV .net 恋物癖 http://live.adultiptv.net/fetish.m3u8
 #EXTINF:-1 tvg-id=”” tvg-name=”AdultIPTV.net 色情明星” tvg-language=”English” tvg-logo=” https ://files.adultiptv.net/adultiptvnet.jpg” group-title=”XXX”,AdultIPTV.net 色情明星 http://live.adultiptv.net/pornstar.m3u8
 #EXTINF:-1 tvg-id=”” tvg -name=”AdultIPTV.net 大屁股” tvg-language=”英语” tvg-logo=” https://files.adultiptv.net/adultiptvnet.jpg” group-title=”XXX”,AdultIPTV.net 大屁股 http ://live.adultiptv.net/bigass.m3u8 
 #EXTINF:-1 tvg-id=”” tvg-name=”AdultIPTV.net Interracial” tvg-language=”English” tvg-logo=” https://files .adultiptv.net/adultiptvnet.jpg” group-title=”XXX”,AdultIPTV.net 异族 http://live.adultiptv.net/interracial.m3u8
@@ -18,7 +18,7 @@
 #EXTINF:-1 tvg-id=”” tvg-name=”AdultIPTV。net 三人组” tvg-language=”English” tvg-logo=” https://files.adultiptv.net/adultiptvnet.jpg” group-title=”XXX”,AdultIPTV.net 三人组 http://live.adultiptv.net /trisome.m3u8
 #EXTINF:-1 tvg-id=”” tvg-name=”AdultIPTV.net 俄语” tvg-language=”英语” tvg-logo=” https://files.adultiptv.net/adultiptvnet.jpg ” group-title=”XXX”,AdultIPTV.net 俄语 http://live.adultiptv.net/Russian.m3u8
 #EXTINF:-1 tvg-id=”” tvg-name=”AdultIPTV.net Lesbian” tvg-语言=”English” tvg-logo=” https://files.adultiptv.net/adultiptvnet.jpg” group-title=”XXX”,AdultIPTV.net 女同性恋 http://live.adultiptv.net/lesbian.m3u8
-#EXTINF :-1 tvg-id=”” tvg-name=”AdultIPTV.net 粗糙” tvg-language=”英语” tvg-logo=” https://files.adultiptv.net/adultiptvnet.jpg” group-title=” XXX”,AdultIPTV.net 粗糙 http://live.adultiptv.net/rough.m3u8
+#EXTINF:-1 tvg-id=”” tvg-name=”AdultIPTV.net 粗糙” tvg-language=”英语” tvg-logo=” https://files.adultiptv.net/adultiptvnet.jpg” group-title=” XXX”,AdultIPTV.net 粗糙 http://live.adultiptv.net/rough.m3u8
 #EXTINF:-1 tvg-id=”” tvg-name=”AdultIPTV.net Gangbang” tvg-language=”English” tvg- logo=” https://files.adultiptv.net/adultiptvnet.jpg” group-title=”XXX”,AdultIPTV.net 群交 http://live.adultiptv.net/gangbang.m3u8
 #EXTINF:-1 tvg-id =”” tvg-name=”AdultIPTV.net 肛门” tvg-language=”英语” tvg-logo=” https://files.adultiptv.net/adultiptvnet.jpg” group-title=”XXX”,AdultIPTV.net肛门 http://live.adultiptv.net/anal.m3u8 
 #EXTINF:-1 tvg-id=”” tvg-name=”AdultIPTV.net 编译” tvg-language=”English” tvg-logo=” https:// /files.adultiptv.net/adultiptvnet.jpg” group-title=”XXX”,AdultIPTV.net 编译 http://live.adultiptv.net/compilation.m3u8
