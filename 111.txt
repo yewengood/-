@@ -347,8 +347,8 @@ G导视高清,http://r.jdshipin.com/ihkmX?id=gdds
 星空卫视.576,http://r.jdshipin.com/ihkmX?id=xkws
 澳亚卫视.576,http://r.jdshipin.com/ihkmX?id=ayws
 重温经典,http://r.jdshipin.com/ihkmX?id=cwjd
-广东珠江,http://r.jdshipin.com/ihkmX?id=gdzj&playseek=20240119200000-20240119203000
-广东体育,http://r.jdshipin.com/ihkmX?id=gdty&playseek=20240119200000-20240119203000
+广东珠江,http://r.jdshipin.com/ihkmX?id=gdzj
+广东体育,http://r.jdshipin.com/ihkmX?id=gdty
 广东新闻,http://r.jdshipin.com/ihkmX?id=gdxw
 广东民生,http://r.jdshipin.com/ihkmX?id=gdms
 广东经济科教,http://r.jdshipin.com/ihkmX?id=gdjjkj
