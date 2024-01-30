@@ -19,7 +19,8 @@
 翡翠台,http://202.168.187.208:2024/tsfile/live/1006_1.m3u8?key=txiptv&playlive=1&authid=0
 明珠台,http://202.168.187.208:2024/tsfile/live/1007_1.m3u8?key=txiptv&playlive=1&authid=0
 星空卫视,http://202.168.187.208:2024/tsfile/live/1008_1.m3u8?key=txiptv&playlive=1&authid=0
-凤凰中文台,http://202.168.187.208:2024/tsfile/live/1009_1.m3u8?key=txiptv&playlive=1&authid=0
+凤凰中文台,http://202.168.187.208:2024/tsfile/live/1009_1.m3u8?key=txiptv&playlive=1&authid=0#https://live.goodiptv.club/api/sxg.php?id=test1_4000
+凤凰资讯,http://dbiptv.sn.chinamobile.com/PLTV/88888890/224/3221226546/index.m3u8#http://113.117.74.99:8081/hls/36/index.m3u8#http://dbiptv.sn.chinamobile.com/PLTV/88888890/224/3221226546/index.m3u8#https://live.goodiptv.club/api/sxg.php?id=test2_4000
 澳亚卫视,http://202.168.187.208:2024/tsfile/live/1010_1.m3u8?key=txiptv&playlive=1&authid=0
 翡翠台,http://202.168.187.208:2024/tsfile/live/1006_1.m3u8
 明珠台,http://202.168.187.208:2024/tsfile/live/1007_1.m3u8
@@ -31,7 +32,6 @@
 星河频道,http://113.117.74.99:8081/hls/135/index.m3u8
 星空卫视,http://113.86.206.78:9999/tsfile/live/1060_1.m3u8?key=txiptv&playlive=1&authid=0
 凤凰中文台,http://dbiptv.sn.chinamobile.com/PLTV/88888890/224/3221226547/index.m3u8#http://113.117.74.99:8081/hls/37/index.m3u8#http://113.86.206.78:9999/tsfile/live/0108_1.m3u8?key=txiptv&playlive=1&authid=0#http://dbiptv.sn.chinamobile.com/PLTV/88888890/224/3221226547/index.m3u8
-凤凰资讯,http://dbiptv.sn.chinamobile.com/PLTV/88888890/224/3221226546/index.m3u8#http://113.117.74.99:8081/hls/36/index.m3u8#http://dbiptv.sn.chinamobile.com/PLTV/88888890/224/3221226546/index.m3u8
 凤凰香港高清,http://113.117.74.99:8081/hls/38/index.m3u8
 天映电影,http://113.86.206.78:9999/tsfile/live/1051_1.m3u8?key=txiptv&playlive=1&authid=0
 龙祥电影,http://113.86.206.78:9999/tsfile/live/1057_1.m3u8?key=txiptv&playlive=1&authid=0
@@ -2835,6 +2835,7 @@ CCTV8K,http://[2409:8087:2001:20:2800:0:df6e:eb02]/ott.mobaibox.com/PLTV/3/224/3
 CCTV8K,http://us-sjc-bgp-2.openfrp.top:10180/test/test/cctv8k.php
 CCTV16,http://[2409:8087:2001:20:2800:0:df6e:eb18]/ott.mobaibox.com/PLTV/3/224/3221228127/index.m3u8
 CCTV16,http://193.233.206.48/电视直播源分享群-212710857.php?/PLTV/&auth=231018&ip=&id=cctv164k
+4K超高清电影,https://live.goodiptv.club/api/sxg.php?id=emdy4k_8000
 纯享4K,http://[2409:8087:2001:20:2800:0:df6e:eb11]/ott.mobaibox.com/PLTV/3/224/3221228242/index.m3u8
 爱上4K,http://[2409:8087:5e01:34::23]:6610/ZTE_CMS/00000001000000060000000000000459/index.m3u8?IAS
 爱自然,https://d18dyiwu97wm6q.cloudfront.net/playlist2160p.m3u8
