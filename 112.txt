@@ -1,42 +1,80 @@
-好看频道,#genre#
+阳江移动组播
+
+广东卫视高清,http://120.237.51.221:8601/udp/239.10.0.111:1025
+经济科教高清,http://120.237.51.221:8601/udp/239.10.0.112:1025
+广东体育高清,http://120.237.51.221:8601/udp/239.10.0.113:1025
+广东珠江高清,http://120.238.99.51:8888/rtp/239.77.0.114:5146
+广东珠江高清,http://120.237.51.221:8601/udp/239.10.0.62:1025
+广东新闻高清,http://120.237.51.221:8601/udp/239.10.0.122:1025
+广东民生高清,http://120.237.51.221:8601/udp/239.10.0.123:1025
+广东体育高清,http://120.237.51.221:8601/udp/239.10.0.124:1025
+岭南戏曲高清,http://120.237.51.221:8601/udp/239.10.0.125:1025
+南方购物高清,http://120.237.51.221:8601/udp/239.10.0.126:1025
+广东影视高清,http://120.237.51.221:8601/udp/239.10.0.127:1025
+广东少儿高清,http://120.237.51.221:8601/udp/239.10.0.128:1025
+嘉佳卡通高清,http://120.237.51.221:8601/udp/239.10.0.130:1025
+大湾区卫视高清,http://120.237.51.221:8601/udp/239.10.0.135:1025
+广东卫视高清,http://120.237.51.221:8601/udp/239.10.0.141:1025
+广东移动高清,http://120.237.51.221:8601/udp/239.10.0.143:1025
+广东新闻高清,http://120.237.51.221:8601/udp/239.10.0.199:1025
+嘉佳卡通高清,http://120.237.51.221:8601/udp/239.10.0.200:1025
+经济科教高清,http://120.237.51.221:8601/udp/239.10.0.201:1025
+广东少儿高清,http://120.237.51.221:8601/udp/239.11.0.81:1025
+广东民生高清,http://120.237.51.221:8601/udp/239.11.0.80:1025
+广东影视高清,http://120.237.51.221:8601/udp/239.11.0.79:1025
+大湾区卫视高清,http://120.237.51.221:8601/udp/239.11.0.78:1025
+岭南戏曲高清,http://120.237.51.221:8601/udp/239.11.0.180:1025
+现代教育高清,http://120.237.51.221:8601/udp/239.11.0.181:1025
+
+广东卫视高清,http://183.236.154.133:8601/udp/239.10.0.111:1025
+经济科教高清,http://183.236.154.133:8601/udp/239.10.0.112:1025
+广东体育高清,http://183.236.154.133:8601/udp/239.10.0.113:1025
+广东珠江高清,http://183.236.154.133:8601/udp/239.10.0.62:1025
+广东新闻高清,http://183.236.154.133:8601/udp/239.10.0.122:1025
+广东民生高清,http://183.236.154.133:8601/udp/239.10.0.123:1025
+广东体育高清,http://183.236.154.133:8601/udp/239.10.0.124:1025
+岭南戏曲高清,http://183.236.154.133:8601/udp/239.10.0.125:1025
+南方购物高清,http://183.236.154.133:8601/udp/239.10.0.126:1025
+广东影视高清,http://183.236.154.133:8601/udp/239.10.0.127:1025
+广东少儿高清,http://183.236.154.133:8601/udp/239.10.0.128:1025
+嘉佳卡通高清,http://183.236.154.133:8601/udp/239.10.0.130:1025
+大湾区卫视高清,http://183.236.154.133:8601/udp/239.10.0.135:1025
+广东卫视高清,http://183.236.154.133:8601/udp/239.10.0.141:1025
+广东移动高清,http://183.236.154.133:8601/udp/239.10.0.143:1025
+广东新闻高清,http://183.236.154.133:8601/udp/239.10.0.199:1025
+嘉佳卡通高清,http://183.236.154.133:8601/udp/239.10.0.200:1025
+经济科教高清,http://183.236.154.133:8601/udp/239.10.0.201:1025
+广东少儿高清,http://183.236.154.133:8601/udp/239.11.0.81:1025
+广东民生高清,http://183.236.154.133:8601/udp/239.11.0.80:1025
+广东影视高清,http://183.236.154.133:8601/udp/239.11.0.79:1025
+大湾区卫视高清,http://183.236.154.133:8601/udp/239.11.0.78:1025
+岭南戏曲高清,http://183.236.154.133:8601/udp/239.11.0.180:1025
+现代教育高清,http://183.236.154.133:8601/udp/239.11.0.181:1025
+
+广东卫视高清,http://183.236.154.137:8601/udp/239.10.0.111:1025
+经济科教高清,http://183.236.154.137:8601/udp/239.10.0.112:1025
+广东体育高清,http://183.236.154.137:8601/udp/239.10.0.113:1025
+广东珠江高清,http://183.236.154.137:8601/udp/239.10.0.62:1025
+广东新闻高清,http://183.236.154.137:8601/udp/239.10.0.122:1025
+广东民生高清,http://183.236.154.137:8601/udp/239.10.0.123:1025
+广东体育高清,http://183.236.154.137:8601/udp/239.10.0.124:1025
+岭南戏曲高清,http://183.236.154.137:8601/udp/239.10.0.125:1025
+南方购物高清,http://183.236.154.137:8601/udp/239.10.0.126:1025
+广东影视高清,http://183.236.154.137:8601/udp/239.10.0.127:1025
+广东少儿高清,http://183.236.154.137:8601/udp/239.10.0.128:1025
+嘉佳卡通高清,http://183.236.154.137:8601/udp/239.10.0.130:1025
+大湾区卫视高清,http://183.236.154.137:8601/udp/239.10.0.135:1025
+广东卫视高清,http://183.236.154.137:8601/udp/239.10.0.141:1025
+广东移动高清,http://183.236.154.137:8601/udp/239.10.0.143:1025
+广东新闻高清,http://183.236.154.137:8601/udp/239.10.0.199:1025
+嘉佳卡通高清,http://183.236.154.137:8601/udp/239.10.0.200:1025
+经济科教高清,http://183.236.154.137:8601/udp/239.10.0.201:1025
+广东少儿高清,http://183.236.154.137:8601/udp/239.11.0.81:1025
+广东民生高清,http://183.236.154.137:8601/udp/239.11.0.80:1025
+广东影视高清,http://183.236.154.137:8601/udp/239.11.0.79:1025
+大湾区卫视高清,http://183.236.154.137:8601/udp/239.11.0.78:1025
+岭南戏曲高清,http://183.236.154.137:8601/udp/239.11.0.180:1025
+现代教育高清,http://183.236.154.137:8601/udp/239.11.0.181:1025
 
 
-#EXTINF:-1 tvg-id=”” tvg-name=”AdultIPTV.net 直播摄像头” tvg-language=”英语” tvg-logo=” https://files.adultiptv.net/adultiptvnet.jpg” 组- title=”XXX”,AdultIPTV.net 实时摄像头 http://live.adultiptv.net/livecams.m3u8
-#EXTINF:-1 tvg-id=”” tvg-name=”AdultIPTV.net MILF” tvg-language=”英文” tvg-logo=” https://files.adultiptv.net/adultiptvnet.jpg” group-title=”XXX”,AdultIPTV.net MILF http://live.adultiptv.net/milf.m3u8 
-#EXTINF:-1 tvg-id=”” tvg-name=”AdultIPTV.net 大鸡巴” tvg-language=”英语” tvg-logo=” https://files.adultiptv.net/adultiptvnet.jpg” group-title=”XXX ”,AdultIPTV.net 大鸡巴 http://live.adultiptv.net/bigdick.m3u8
-#EXTINF:-1 tvg-id=”” tvg-name=”AdultIPTV.net 大奶” tvg-language=”English” tvg -logo=” https://files.adultiptv.net/adultiptvnet.jpg” group-title=”XXX”,AdultIPTV.net 大奶 http://live.adultiptv.net/bigtits.m3u8
-#EXTINF:-1 tvg-id=”” tvg-name=”AdultIPTV.net 恋物癖” tvg-language=”英语” tvg-logo=” https://files.adultiptv.net/adultiptvnet.jpg” group-title=”XXX”,AdultIPTV .net 恋物癖 http://live.adultiptv.net/fetish.m3u8
-#EXTINF:-1 tvg-id=”” tvg-name=”AdultIPTV.net 色情明星” tvg-language=”English” tvg-logo=” https ://files.adultiptv.net/adultiptvnet.jpg” group-title=”XXX”,AdultIPTV.net 色情明星 http://live.adultiptv.net/pornstar.m3u8
-#EXTINF:-1 tvg-id=”” tvg -name=”AdultIPTV.net 大屁股” tvg-language=”英语” tvg-logo=” https://files.adultiptv.net/adultiptvnet.jpg” group-title=”XXX”,AdultIPTV.net 大屁股 http ://live.adultiptv.net/bigass.m3u8 
-#EXTINF:-1 tvg-id=”” tvg-name=”AdultIPTV.net Interracial” tvg-language=”English” tvg-logo=” https://files .adultiptv.net/adultiptvnet.jpg” group-title=”XXX”,AdultIPTV.net 异族 http://live.adultiptv.net/interracial.m3u8
-#EXTINF:-1 tvg-id=”” tvg-name=” AdultIPTV.net 拉丁语” tvg-language=”英语” tvg-logo=” https://files.adultiptv.net/adultiptvnet.jpg” group-title=”XXX”,AdultIPTV.net 拉丁语 http://live.adultiptv .net/latina.m3u8
-#EXTINF:-1 tvg-id=”” tvg-name=”AdultIPTV.net POV” tvg-language=”英语” tvg-logo=” https://files.adultiptv.net/adultiptvnet .jpg” group-title=”XXX”,AdultIPTV.net POV http://live.adultiptv.net/pov.m3u8 
-#EXTINF:-1 tvg-id=”” tvg-name=”AdultIPTV.net Blowjob” tvg -language=”English” tvg-logo=” https://files.adultiptv.net/adultiptvnet.jpg” group-title=”XXX”,AdultIPTV.net 口交 http://live.adultiptv.net/blowjob.m3u8 
-#EXTINF:-1 tvg-id=”” tvg-name=”AdultIPTV.net Teen” tvg-language=”英语” tvg-logo=” https://files.adultiptv.net/adultiptvnet.jpg” 组标题=”XXX”,AdultIPTV.net 青少年 http://live.adultiptv.net/teen.m3u8 
-#EXTINF:-1 tvg-id=”” tvg-name=”AdultIPTV.net Hardcore” tvg-language=”English” tvg-logo=” https://files.adultiptv.net/adultiptvnet.jpg” group-title=”XXX”,AdultIPTV.net 硬核 http://live.adultiptv.net/hardcore.m3u8
-#EXTINF:-1 tvg-id=”” tvg-name=”AdultIPTV.net 戴绿帽子” tvg-language=”英语” tvg-logo=” https://files.adultiptv.net/adultiptvnet.jpg” group-title=”XXX”,AdultIPTV .net 戴绿帽子 http://live.adultiptv.net/cuckold.m3u8
-#EXTINF:-1 tvg-id=”” tvg-name=”AdultIPTV。net 三人组” tvg-language=”English” tvg-logo=” https://files.adultiptv.net/adultiptvnet.jpg” group-title=”XXX”,AdultIPTV.net 三人组 http://live.adultiptv.net /trisome.m3u8
-#EXTINF:-1 tvg-id=”” tvg-name=”AdultIPTV.net 俄语” tvg-language=”英语” tvg-logo=” https://files.adultiptv.net/adultiptvnet.jpg ” group-title=”XXX”,AdultIPTV.net 俄语 http://live.adultiptv.net/Russian.m3u8
-#EXTINF:-1 tvg-id=”” tvg-name=”AdultIPTV.net Lesbian” tvg-语言=”English” tvg-logo=” https://files.adultiptv.net/adultiptvnet.jpg” group-title=”XXX”,AdultIPTV.net 女同性恋 http://live.adultiptv.net/lesbian.m3u8
-#EXTINF:-1 tvg-id=”” tvg-name=”AdultIPTV.net 粗糙” tvg-language=”英语” tvg-logo=” https://files.adultiptv.net/adultiptvnet.jpg” group-title=” XXX”,AdultIPTV.net 粗糙 http://live.adultiptv.net/rough.m3u8
-#EXTINF:-1 tvg-id=”” tvg-name=”AdultIPTV.net Gangbang” tvg-language=”English” tvg- logo=” https://files.adultiptv.net/adultiptvnet.jpg” group-title=”XXX”,AdultIPTV.net 群交 http://live.adultiptv.net/gangbang.m3u8
-#EXTINF:-1 tvg-id=”” tvg-name=”AdultIPTV.net 肛门” tvg-language=”英语” tvg-logo=” https://files.adultiptv.net/adultiptvnet.jpg” group-title=”XXX”,AdultIPTV.net肛门 http://live.adultiptv.net/anal.m3u8 
-#EXTINF:-1 tvg-id=”” tvg-name=”AdultIPTV.net 编译” tvg-language=”English” tvg-logo=” https:// /files.adultiptv.net/adultiptvnet.jpg” group-title=”XXX”,AdultIPTV.net 编译 http://live.adultiptv.net/compilation.m3u8
-#EXTINF:-1 tvg-id=”” tvg-name =”AdultIPTV.net 布鲁内特” tvg-language=”英语” tvg-logo=” https://files.adultiptv.net/adultiptvnet.jpg” group-title=”XXX”,AdultIPTV.net 布鲁内特 http://live .adultiptv.net/brunette.m3u8 
-#EXTINF:-1 tvg-id=”” tvg-name=”AdultIPTV.net 金发女郎” tvg-language=”英语” tvg-logo=” https://files.adultiptv.net /adultiptvnet.jpg” group-title=”XXX”,AdultIPTV.net 金发女郎 http://live.adultiptv.net/blonde.m3u8
-#EXTINF:-1 tvg-id=”” tvg-name=”AdultIPTV.net 同性恋” tvg-language=”English” tvg-logo=” https://files.adultiptv.net/adultiptvnet.jpg” group-title=”XXX”,AdultIPTV.net 同性恋 http://live.adultiptv.net/gay .m3u8 
-#EXTINF:-1 tvg-id=”” tvg-name=”AdultIPTV.net 亚洲” tvg-language=”英语” tvg-logo=” https://files.adultiptv.net/adultiptvnet.jpg” 组-title=”XXX”,AdultIPTV.net 亚洲 http://live.adultiptv.net/asian.m3u8net/adultiptvnet.jpg” group-title=”XXX”,AdultIPTV.net 粗略 http://live.adultiptv.net/rough.m3u8
-#EXTINF:-1 tvg-id=”” tvg-name=”AdultIPTV.net群交” tvg-language=”English” tvg-logo=” https://files.adultiptv.net/adultiptvnet.jpg” group-title=”XXX”,AdultIPTV.net 群交 http://live.adultiptv.net/ gangbang.m3u8
-#EXTINF:-1 tvg-id=”” tvg-name=”AdultIPTV.net Anal” tvg-language=”English” tvg-logo=” https://files.adultiptv.net/adultiptvnet.jpg” group-title=”XXX”,AdultIPTV.net 肛门 http://live.adultiptv.net/anal.m3u8 
-#EXTINF:-1 tvg-id=”” tvg-name=”AdultIPTV.net 编译” tvg-language= ”English” tvg-logo=” https://files.adultiptv.net/adultiptvnet.jpg” group-title=”XXX”,AdultIPTV.net 编译 http://live.adultiptv.net/compilation.m3u8
-#EXTINF:-1 tvg-id=”” tvg-name=”AdultIPTV.net 布鲁内特” tvg-language=”英语” tvg-logo=” https://files.adultiptv.net/adultiptvnet.jpg” group-title=”XXX ”,AdultIPTV.net 布鲁内特 http://live.adultiptv.net/brunette.m3u8
-#EXTINF:-1 tvg-id=”” tvg-name=”AdultIPTV.net 金发女郎” tvg-language=”English” tvg-logo =” https://files.adultiptv.net/adultiptvnet.jpg” group-title=”XXX”,AdultIPTV.net 金发女郎 http://live.adultiptv.net/blonde.m3u8
-#EXTINF:-1 tvg-id=”” tvg-name=”AdultIPTV.net 同性恋” tvg-language=”英语” tvg-logo=” https://files.adultiptv.net/adultiptvnet.jpg” group-title=”XXX”,AdultIPTV.net 同性恋 http://live.adultiptv.net/gay.m3u8 
-#EXTINF:-1 tvg-id=”” tvg-name=”AdultIPTV.net Asian” tvg-language=”English” tvg-logo=” https:// files.adultiptv.net/adultiptvnet.jpg” group-title=”XXX”,AdultIPTV.net 亚洲 http://live.adultiptv.net/asian.m3u8net/adultiptvnet.jpg” group-title=”XXX”,AdultIPTV.net 粗略 http://live.adultiptv.net/rough.m3u8
-#EXTINF:-1 tvg-id=”” tvg-name=”AdultIPTV.net群交” tvg-language=”English” tvg-logo=” https://files.adultiptv.net/adultiptvnet.jpg” group-title=”XXX”,AdultIPTV.net 群交 http://live.adultiptv.net/ gangbang.m3u8
-#EXTINF:-1 tvg-id=”” tvg-name=”AdultIPTV.net Anal” tvg-language=”English” tvg-logo=” https://files.adultiptv.net/adultiptvnet.jpg” group-title=”XXX”,AdultIPTV.net 肛门 http://live.adultiptv.net/anal.m3u8 
-#EXTINF:-1 tvg-id=”” tvg-name=”AdultIPTV.net 编译” tvg-language= ”English” tvg-logo=” https://files.adultiptv.net/adultiptvnet.jpg” group-title=”XXX”,AdultIPTV.net 编译 http://live.adultiptv.net/compilation.m3u8
-#EXTINF:-1 tvg-id=”” tvg-name=”AdultIPTV.net 布鲁内特” tvg-language=”英语” tvg-logo=” https://files.adultiptv.net/adultiptvnet.jpg” group-title=”XXX ”,AdultIPTV.net 布鲁内特 http://live.adultiptv.net/brunette.m3u8
-#EXTINF:-1 tvg-id=”” tvg-name=”AdultIPTV.net 金发女郎” tvg-language=”English” tvg-logo =” https://files.adultiptv.net/adultiptvnet.jpg” group-title=”XXX”,AdultIPTV.net 金发女郎 http://live.adultiptv.net/blonde.m3u8
-#EXTINF:-1 tvg-id=”” tvg-name=”AdultIPTV.net 同性恋” tvg-language=”英语” tvg-logo=” https://files.adultiptv.net/adultiptvnet.jpg” group-title=”XXX”,AdultIPTV.net 同性恋 http://live.adultiptv.net/gay.m3u8 
-#EXTINF:-1 tvg-id=”” tvg-name=”AdultIPTV.net Asian” tvg-language=”English” tvg-logo=” https:// files.adultiptv.net/adultiptvnet.jpg” group-title=”XXX”,AdultIPTV.net 亚洲 http://live.adultiptv.net/asian.m3u8net Asian” tvg-language=”English” tvg-logo=” https://files.adultiptv.net/adultiptvnet.jpg” group-title=”XXX”,AdultIPTV.net 亚洲 http://live.adultiptv.net /亚洲人.m3u8net Asian” tvg-language=”English” tvg-logo=” https://files.adultiptv.net/adultiptvnet.jpg” group-title=”XXX”,AdultIPTV.net 亚洲 http://live.adultiptv.net /亚洲人.m3u8
+
