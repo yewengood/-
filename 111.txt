@@ -53,7 +53,7 @@
 功夫(HK),http://ali.hlspull.yximgs.com/live/AsiaActiont3a888221300-brschg66559.flv
 天映(HK),http://ali.hlspull.yximgs.com/live/tianyingpd3a888221300-brschg66559.flv
 龙华(TW),http://ali.hlspull.yximgs.com/live/longhuadyt3a888221300-brschg66559.flv
-TVB翡翠(HK),http://ali.hlspull.yximgs.com/live/tvbfc264t3a888221300-brschg66559.flv
+TVB翡翠(HK),http://ali.hlspull.yximgs.com/live/tvbfc264t3a888221300-brschg66559.flv#http://jyjxy.7766.org:8811/hls/36/index.m3u8
 NOW NEWS(HK),http://ali.hlspull.yximgs.com/live/nowxwrrrt3a888221300-brschg66559.flv
 VIU(HK),http://ali.hlspull.yximgs.com/live/ViuTVCHt3a888221300-brschg66559.flv
 星空卫视,http://202.168.187.208:2024/tsfile/live/1008_1.m3u8?key=txiptv&playlive=1&authid=0
