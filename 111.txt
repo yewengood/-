@@ -344,26 +344,7 @@ DOX电影,http://113.117.74.52:8081/hls/62/index.m3u8
 广东珠江,http://[2409:8087:7001:20:1000::90]:6610/000000001000/1000000004000011655/index.m3u8?channel-id=ystenlive&Contentid=1000000004000011655&livemode=1&stbId=3&HlsProfileId=
 广东珠江,http://[2409:8087:7001:20:1000::85]:6610/000000001000/1000000004000011655/index.m3u8?channel-id=ystenlive&Contentid=1000000004
 
-广东谷豆,#genre#
-G导视高清,http://r.jdshipin.com/ihkmX?id=gdds
-翡翠台,http://202.168.187.208:2024/tsfile/live/1006_1.m3u8
-明珠台,http://202.168.187.208:2024/tsfile/live/1007_1.m3u8
-星空卫视,http://202.168.187.208:2024/tsfile/live/1008_1.m3u8
-凤凰中文台,http://202.168.187.208:2024/tsfile/live/1009_1.m3u8
-澳亚卫视,http://202.168.187.208:2024/tsfile/live/1010_1.m3u8
-翡翠台,http://r.jdshipin.com/ihkmX?id=fcthd
-翡翠台.720,http://r.jdshipin.com/ihkmX?id=fct720
-明珠台,http://r.jdshipin.com/ihkmX?id=mzthd
-澳视澳门,http://r.jdshipin.com/ihkmX?id=asam
-凤凰中文.576,http://r.jdshipin.com/ihkmX?id=fhzw
-星空卫视.576,http://r.jdshipin.com/ihkmX?id=xkws
-澳亚卫视.576,http://r.jdshipin.com/ihkmX?id=ayws
-重温经典,http://r.jdshipin.com/ihkmX?id=cwjd
-翡翠台,http://202.168.187.208:2024/tsfile/live/1006_1.m3u8?key=txiptv&playlive=1&authid=0
-明珠台,http://202.168.187.208:2024/tsfile/live/1007_1.m3u8?key=txiptv&playlive=1&authid=0
-星空卫视,http://202.168.187.208:2024/tsfile/live/1008_1.m3u8?key=txiptv&playlive=1&authid=0
-凤凰中文,http://202.168.187.208:2024/tsfile/live/1009_1.m3u8?key=txiptv&playlive=1&authid=0
-澳亚卫视,http://202.168.187.208:2024/tsfile/live/1010_1.m3u8?key=txiptv&playlive=1&authid=0
+广东触电,#genre#
 
 广东卫视,http://php.jdshipin.com:8880/chudian.php?id=gdws
 广东珠江,http://php.jdshipin.com:8880/chudian.php?id=gdzj
