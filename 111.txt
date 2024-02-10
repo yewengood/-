@@ -60,9 +60,9 @@
 
 🔥美亚电影(粤),http://ali.hlspull.yximgs.com/live/myyyydyt3a88221300-nigedashabi.flv
 
-🔥Now 爆谷台,http://ali.hlspull.yximgs.com/live/caijiwei_bg.flv
+🔥Now爆谷台,http://ali.hlspull.yximgs.com/live/caijiwei_bg.flv
 
-🔥Now 星影台,http://ali.hlspull.yximgs.com/live/caijiwei_xy.flv
+🔥Now星影台,http://ali.hlspull.yximgs.com/live/caijiwei_xy.flv
 TVB翡翠台,http://hls.vfl.asia/iptv.php?key=127c4a4b5b9f9cfa06cb2da506112e6d&id=8
 
 TVB华丽翡翠台,http://hls.vfl.asia/iptv.php?key=127c4a4b5b9f9cfa06cb2da506112e6d&id=9
@@ -107,25 +107,117 @@ ViuTV6,http://hls.vfl.asia/iptv.php?key=127c4a4b5b9f9cfa06cb2da506112e6d&id=14
 岭南戏曲高清,http://183.238.248.82:9000/rtp/239.21.0.147:3932
 现代教育高清,http://183.238.248.82:9000/rtp/239.21.0.148:3936
 
-广东卫视高清,http://hls.666888999.gay/gdzb.php?id=/udp/239.77.1.19:5146
-广东卫视高清,http://hls.666888999.gay/gdzb.php?id=/udp/239.77.1.152:5146
-广东卫视高清,http://hls.666888999.gay/gdzb.php?id=/udp/239.77.0.84:5146
-广东卫视超清,http://hls.666888999.gay/gdzb.php?id=/udp/239.77.0.166:5146
-广东珠江高清,http://hls.666888999.gay/gdzb.php?id=/udp/239.77.0.1:5146
-广东珠江超清,http://hls.666888999.gay/gdzb.php?id=/udp/239.77.0.114:5146
-广东新闻高清,http://hls.666888999.gay/gdzb.php?id=/udp/239.77.0.173:5146
-广东民生高清,http://hls.666888999.gay/gdzb.php?id=/udp/239.77.0.225:5146
-广东体育高清-测试,http://hls.666888999.gay/gdzb.php?id=/udp/239.77.0.112:5146
-广东体育超清,http://hls.666888999.gay/gdzb.php?id=/udp/239.77.0.168:5146
-经济科教高清,http://hls.666888999.gay/gdzb.php?id=/udp/239.77.0.85:5146
-经济科教超清,http://hls.666888999.gay/gdzb.php?id=/udp/239.77.0.167:5146
-大湾区卫视高清,http://hls.666888999.gay/gdzb.php?id=/udp/239.77.0.215:5146
-广东影视高清,http://hls.666888999.gay/gdzb.php?id=/udp/239.77.0.217:5146
-广东少儿高清,http://hls.666888999.gay/gdzb.php?id=/udp/239.77.0.250:5146
-嘉佳卡通高清,http://hls.666888999.gay/gdzb.php?id=/udp/239.77.0.179:5146
-南方购物-精选,http://hls.666888999.gay/gdzb.php?id=/udp/239.77.0.19:5146
-南方购物,http://hls.666888999.gay/gdzb.php?id=/udp/239.77.0.22:5146
-广东综艺 4K50p,http://hls.666888999.gay/gdzb.php?id=/udp/239.77.1.236:5146
+广东卫视,http://hls.vfl.asia/gdzb.php?id=/udp/239.77.0.2:5146
+
+广东卫视,http://hls.vfl.asia/gdzb.php?id=/udp/239.77.1.2:5146
+
+广东卫视高清,http://hls.vfl.asia/gdzb.php?id=/udp/239.77.1.19:5146
+
+广东卫视高清,http://hls.vfl.asia/gdzb.php?id=/udp/239.77.1.152:5146
+
+广东卫视高清,http://hls.vfl.asia/gdzb.php?id=/udp/239.77.0.232:5146
+
+广东卫视高清,http://hls.vfl.asia/gdzb.php?id=/udp/239.77.0.84:5146
+
+广东卫视超清,http://hls.vfl.asia/gdzb.php?id=/udp/239.77.0.166:5146
+
+广东珠江,http://hls.vfl.asia/gdzb.php?id=/udp/239.77.0.3:5146
+
+广东珠江,http://hls.vfl.asia/gdzb.php?id=/udp/239.77.1.94:5146
+
+广东珠江高清,http://hls.vfl.asia/gdzb.php?id=/udp/239.77.0.1:5146
+
+广东珠江超清,http://hls.vfl.asia/gdzb.php?id=/udp/239.77.0.114:5146
+
+广东新闻,http://hls.vfl.asia/gdzb.php?id=/udp/239.77.0.4:5146
+
+广东新闻高清,http://hls.vfl.asia/gdzb.php?id=/udp/239.77.0.173:5146
+
+广东公共,http://hls.vfl.asia/gdzb.php?id=/udp/239.77.0.5:5146
+
+广东公共高清,http://hls.vfl.asia/gdzb.php?id=/udp/239.77.0.225:5146
+
+广东体育,http://hls.vfl.asia/gdzb.php?id=/udp/239.77.0.6:5146
+
+广东体育（深圳）,http://hls.vfl.asia/gdzb.php?id=/udp/239.77.1.97:5146
+
+广东体育高清,http://hls.vfl.asia/gdzb.php?id=/udp/239.77.0.112:5146
+
+广东体育超清,http://hls.vfl.asia/gdzb.php?id=/udp/239.77.0.168:5146
+
+广东国际,http://hls.vfl.asia/gdzb.php?id=/udp/239.77.0.7:5146
+
+经济科教,http://hls.vfl.asia/gdzb.php?id=/udp/239.77.0.8:5146
+
+经济科教高清,http://hls.vfl.asia/gdzb.php?id=/udp/239.77.0.85:5146
+
+经济科教超清,http://hls.vfl.asia/gdzb.php?id=/udp/239.77.0.167:5146
+
+南方卫视,http://hls.vfl.asia/gdzb.php?id=/udp/239.77.0.9:5146
+
+南方卫视高清,http://hls.vfl.asia/gdzb.php?id=/udp/239.77.0.215:5146
+
+南方卫视,http://hls.vfl.asia/gdzb.php?id=/udp/239.77.1.12:5146
+
+广东影视,http://hls.vfl.asia/gdzb.php?id=/udp/239.77.0.11:5146
+
+广东影视高清,http://hls.vfl.asia/gdzb.php?id=/udp/239.77.0.217:5146
+
+广东少儿,http://hls.vfl.asia/gdzb.php?id=/udp/239.77.0.12:5146
+
+广东少儿高清,http://hls.vfl.asia/gdzb.php?id=/udp/239.77.0.250:5146
+
+嘉佳卡通,http://hls.vfl.asia/gdzb.php?id=/udp/239.77.0.13:5146
+
+嘉佳卡通,http://hls.vfl.asia/gdzb.php?id=/udp/239.77.1.15:5146
+
+嘉佳卡通高清,http://hls.vfl.asia/gdzb.php?id=/udp/239.77.0.179:5146
+
+南方购物-精选,http://hls.vfl.asia/gdzb.php?id=/udp/239.77.0.19:5146
+
+南方购物,http://hls.vfl.asia/gdzb.php?id=/udp/239.77.0.22:5146
+
+岭南戏曲,http://hls.vfl.asia/gdzb.php?id=/udp/239.77.0.16:5146
+
+广东房产,http://hls.vfl.asia/gdzb.php?id=/udp/239.77.0.14:5146
+
+现代教育,http://hls.vfl.asia/gdzb.php?id=/udp/239.77.0.18:5146
+
+广东移动,http://hls.vfl.asia/gdzb.php?id=/udp/239.77.0.20:5146
+
+广东综艺 4K50p,http://hls.vfl.asia/gdzb.php?id=/udp/239.77.1.236:5146
+
+广东综艺 4K,http://hls.vfl.asia/gdzb.php?id=/udp/239.77.1.237:5146
+
+广东综艺(4k),http://hls.vfl.asia/gdzb.php?id=/udp/239.77.0.244:5146
+
+广东综艺 宽色域(4k),http://hls.vfl.asia/gdzb.php?id=/udp/239.77.0.246:5146
+
+广东综艺(4k),http://hls.vfl.asia/gdzb.php?id=/udp/239.77.0.245:5146
+
+广东综艺 宽色域AVS2(4k) (AVS2),http://hls.vfl.asia/gdzb.php?id=/udp/239.77.0.252:5146
+
+广州综合,http://hls.vfl.asia/gdzb.php?id=/udp/239.253.43.66:5146
+
+广州综合高清,http://hls.vfl.asia/gdzb.php?id=/udp/239.253.43.71:5146
+
+广州新闻,http://hls.vfl.asia/gdzb.php?id=/udp/239.253.43.67:5146
+
+广州新闻高清,http://hls.vfl.asia/gdzb.php?id=/udp/239.253.43.72:5146
+
+广州影视,http://hls.vfl.asia/gdzb.php?id=/udp/239.253.43.68:5146
+
+广州影视高清,http://hls.vfl.asia/gdzb.php?id=/udp/239.253.43.73:5146
+
+广州法治,http://hls.vfl.asia/gdzb.php?id=/udp/239.253.43.69:5146
+
+广州法治高清,http://hls.vfl.asia/gdzb.php?id=/udp/239.253.43.74:5146
+
+广州竞赛,http://hls.vfl.asia/gdzb.php?id=/udp/239.253.43.70:5146
+
+广州竞赛高清,http://hls.vfl.asia/gdzb.php?id=/udp/239.253.43.75:5146
+
+南国都市4K,http://hls.vfl.asia/gdzb.php?id=/udp/239.253.43.99:5146
 
 
 广东卫视高清,http://14.126.29.169:5000/rtp/239.77.1.19:5146
