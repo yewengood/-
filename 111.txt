@@ -46,17 +46,36 @@
 广州影视高清,http://hls.666888999.gay/gdzb.php?id=/udp/239.253.43.73:5146
 广州法治高清,http://hls.666888999.gay/gdzb.php?id=/udp/239.253.43.74:5146
 南国都市4K,http://hls.666888999.gay/gdzb.php?id=/udp/239.253.43.99:5146
-重温经典,http://cg12.hunancatv.cn:9090/live/CWJD.m3u8?t=Q3ZTI5YWVmMmUwM==&d=7e29aef2e03907f&pid=&cid=20&u=freeuser&l=001&sid=My5f5evM7A+JM7kBEt7zRg==&r=20240116195900&e=20240117195900&nc=5juVZbdBPOgB&a=7&v=2&hlsSessionID=7114844658832085543&srchost=172.16.22.158:8060&gid=1cTuE8i8Z%2F6MoBf3Sw1THw%3D%3D
-爆谷台(HK),http://ali.hlspull.yximgs.com/live/nowbgggggt3a888221300-brschg66559.flv
-星影台(HK),http://ali.hlspull.yximgs.com/live/nowxyot3a888221300-brschg66559.flv
-英超(HK),http://ali.hlspull.yximgs.com/live/nowyct3a888221300-brschg66559.flv
-功夫(HK),http://ali.hlspull.yximgs.com/live/AsiaActiont3a888221300-brschg66559.flv
-天映(HK),http://ali.hlspull.yximgs.com/live/tianyingpd3a888221300-brschg66559.flv
-龙华(TW),http://ali.hlspull.yximgs.com/live/longhuadyt3a888221300-brschg66559.flv
-TVB翡翠(HK),http://ali.hlspull.yximgs.com/live/tvbfc264t3a888221300-brschg66559.flv#http://jyjxy.7766.org:8811/hls/36/index.m3u8
-NOW NEWS(HK),http://ali.hlspull.yximgs.com/live/nowxwrrrt3a888221300-brschg66559.flv
-VIU(HK),http://ali.hlspull.yximgs.com/live/ViuTVCHt3a888221300-brschg66559.flv
-天映频道,http://jyjxy.7766.org:8811/hls/62/index.m3u8
+重温经典台,http://ali.hlspull.yximgs.com/live/cctv598hsrt6u57eujseth5i7463atgestjhsrjsrjk.flv
+
+🔥龙腾功夫台,http://1.62.64.252/0b926d37065dc656266be75dd9d25565.v.smtcdns.net/tx.flv.huya.com/src/1259589713982-1259589713982-5000614333785309184-2519179551420-10057-A-0-1.flv
+
+🔥TVB功夫台(粤),http://ali.hlspull.yximgs.com/live/AsiaActiont3a88221300-nigedashabi.flv
+
+🔥TVB功夫台(国),http://ali.hlspull.yximgs.com/live/gongfuguoyut3a88221300-nigedashabi.flv
+
+🔥TVB翡翠台,http://ali.hlspull.yximgs.com/live/tvbfc264t3a88221300-nigedashabi.flv
+
+🔥TVB黄金华剧台,http://ali.hlspull.yximgs.com/live/tvbhjhjjjhyt3a88221300-nigedashabi.flv
+
+🔥美亚电影(粤),http://ali.hlspull.yximgs.com/live/myyyydyt3a88221300-nigedashabi.flv
+
+🔥Now 爆谷台,http://ali.hlspull.yximgs.com/live/caijiwei_bg.flv
+
+🔥Now 星影台,http://ali.hlspull.yximgs.com/live/caijiwei_xy.flv
+TVB翡翠台,http://hls.vfl.asia/iptv.php?key=127c4a4b5b9f9cfa06cb2da506112e6d&id=8
+
+TVB华丽翡翠台,http://hls.vfl.asia/iptv.php?key=127c4a4b5b9f9cfa06cb2da506112e6d&id=9
+
+TVB明珠台,http://hls.vfl.asia/iptv.php?key=127c4a4b5b9f9cfa06cb2da506112e6d&id=10
+
+TVB J2,http://hls.vfl.asia/iptv.php?key=127c4a4b5b9f9cfa06cb2da506112e6d&id=11
+
+TVB星河,http://hls.vfl.asia/iptv.php?key=127c4a4b5b9f9cfa06cb2da506112e6d&id=12
+
+ViuTV,http://hls.vfl.asia/iptv.php?key=127c4a4b5b9f9cfa06cb2da506112e6d&id=13
+
+ViuTV6,http://hls.vfl.asia/iptv.php?key=127c4a4b5b9f9cfa06cb2da506112e6d&id=14
 星空卫视,http://jyjxy.7766.org:8811/hls/31/index.m3u8#http://202.168.187.208:2024/tsfile/live/1008_1.m3u8?key=txiptv&playlive=1&authid=0
 凤凰卫视中文台,http://171.214.202.128:4000/udp/239.93.1.9:2192#http://202.168.187.208:2024/tsfile/live/1009_1.m3u8?key=txiptv&playlive=1&authid=0#https://live.goodiptv.club/api/sxg.php?id=test1_4000
 凤凰卫视资讯台,http://171.214.202.128:4000/udp/239.93.1.4:2191#http://iptv.666888999.gay/iptv.php?key=e2e840c0ea4abd8af71f1a67a553bbe5&id=2#http://113.117.74.99:8081/hls/36/index.m3u8
@@ -2148,16 +2167,143 @@ IPTV法治,http://14.155.228.176:8888/rtp/239.77.1.86:5146
 凤凰香港台,http://[2409:8087:2001:20:2800:0:df6e:eb22]:80/ott.mobaibox.com/PLTV/1/224/3221228530/1.m3u8
 香港卫视,http://zhibo.hkstv.tv/livestream/mutfysrq/playlist.m3u8?wsSession=3c732f93c14e1bc0c07641df-156388849014752&wsIPSercert=8de23d0849e78e3b16ec92a809235421&wsMonitor=0
 澳门卫视,http://61.244.22.5/ch3/ch3.live/chunklist_w1228316132.m3u8
-爆谷台(HK),http://ali.hlspull.yximgs.com/live/nowbgggggt3a888221300-brschg66559.flv
-星影台(HK),http://ali.hlspull.yximgs.com/live/nowxyot3a888221300-brschg66559.flv
-英超(HK),http://ali.hlspull.yximgs.com/live/nowyct3a888221300-brschg66559.flv
-功夫(HK),http://ali.hlspull.yximgs.com/live/AsiaActiont3a888221300-brschg66559.flv
-天映(HK),http://ali.hlspull.yximgs.com/live/tianyingpd3a888221300-brschg66559.flv
-龙华(TW),http://ali.hlspull.yximgs.com/live/longhuadyt3a888221300-brschg66559.flv
-TVB翡翠(HK),http://ali.hlspull.yximgs.com/live/tvbfc264t3a888221300-brschg66559.flv
-NOW NEWS(HK),http://ali.hlspull.yximgs.com/live/nowxwrrrt3a888221300-brschg66559.flv
-VIU(HK),http://ali.hlspull.yximgs.com/live/ViuTVCHt3a888221300-brschg66559.flv
+重温经典台,http://ali.hlspull.yximgs.com/live/cctv598hsrt6u57eujseth5i7463atgestjhsrjsrjk.flv
 
+🔥龙腾功夫台,http://1.62.64.252/0b926d37065dc656266be75dd9d25565.v.smtcdns.net/tx.flv.huya.com/src/1259589713982-1259589713982-5000614333785309184-2519179551420-10057-A-0-1.flv
+
+🔥TVB功夫台(粤),http://ali.hlspull.yximgs.com/live/AsiaActiont3a88221300-nigedashabi.flv
+
+🔥TVB功夫台(国),http://ali.hlspull.yximgs.com/live/gongfuguoyut3a88221300-nigedashabi.flv
+
+🔥TVB翡翠台,http://ali.hlspull.yximgs.com/live/tvbfc264t3a88221300-nigedashabi.flv
+
+🔥TVB黄金华剧台,http://ali.hlspull.yximgs.com/live/tvbhjhjjjhyt3a88221300-nigedashabi.flv
+
+🔥美亚电影(粤),http://ali.hlspull.yximgs.com/live/myyyydyt3a88221300-nigedashabi.flv
+
+🔥Now爆谷台,http://ali.hlspull.yximgs.com/live/caijiwei_bg.flv
+
+🔥Now星影台,http://ali.hlspull.yximgs.com/live/caijiwei_xy.flv
+凤凰卫视中文台,http://hls.vfl.asia/iptv.php?key=127c4a4b5b9f9cfa06cb2da506112e6d&id=1
+
+凤凰卫视资讯台,http://hls.vfl.asia/iptv.php?key=127c4a4b5b9f9cfa06cb2da506112e6d&id=2
+
+香港有线新闻台,http://hls.vfl.asia/iptv.php?key=127c4a4b5b9f9cfa06cb2da506112e6d&id=3
+
+香港有线18台,http://hls.vfl.asia/iptv.php?key=127c4a4b5b9f9cfa06cb2da506112e6d&id=4
+
+香港有线高清603台,http://hls.vfl.asia/iptv.php?key=127c4a4b5b9f9cfa06cb2da506112e6d&id=5
+
+TVB无线新闻台,http://hls.vfl.asia/iptv.php?key=127c4a4b5b9f9cfa06cb2da506112e6d&id=6
+
+TVB财经体育资讯台,http://hls.vfl.asia/iptv.php?key=127c4a4b5b9f9cfa06cb2da506112e6d&id=7
+
+TVB翡翠台,http://hls.vfl.asia/iptv.php?key=127c4a4b5b9f9cfa06cb2da506112e6d&id=8
+
+TVB华丽翡翠台,http://hls.vfl.asia/iptv.php?key=127c4a4b5b9f9cfa06cb2da506112e6d&id=9
+
+TVB明珠台,http://hls.vfl.asia/iptv.php?key=127c4a4b5b9f9cfa06cb2da506112e6d&id=10
+
+TVB J2,http://hls.vfl.asia/iptv.php?key=127c4a4b5b9f9cfa06cb2da506112e6d&id=11
+
+TVB星河,http://hls.vfl.asia/iptv.php?key=127c4a4b5b9f9cfa06cb2da506112e6d&id=12
+
+ViuTV,http://hls.vfl.asia/iptv.php?key=127c4a4b5b9f9cfa06cb2da506112e6d&id=13
+
+ViuTV6,http://hls.vfl.asia/iptv.php?key=127c4a4b5b9f9cfa06cb2da506112e6d&id=14
+
+NOW新闻台,http://hls.vfl.asia/iptv.php?key=127c4a4b5b9f9cfa06cb2da506112e6d&id=15
+
+香港国际财经台,http://hls.vfl.asia/iptv.php?key=127c4a4b5b9f9cfa06cb2da506112e6d&id=16
+
+HOY TV,http://hls.vfl.asia/iptv.php?key=127c4a4b5b9f9cfa06cb2da506112e6d&id=17
+
+HOY资讯台,http://hls.vfl.asia/iptv.php?key=127c4a4b5b9f9cfa06cb2da506112e6d&id=18
+
+港台电视31,http://hls.vfl.asia/iptv.php?key=127c4a4b5b9f9cfa06cb2da506112e6d&id=19
+
+港台电视32,http://hls.vfl.asia/iptv.php?key=127c4a4b5b9f9cfa06cb2da506112e6d&id=20
+
+中天新闻台,http://hls.vfl.asia/iptv.php?key=127c4a4b5b9f9cfa06cb2da506112e6d&id=21
+
+东森新闻台,http://hls.vfl.asia/iptv.php?key=127c4a4b5b9f9cfa06cb2da506112e6d&id=22
+
+东森财经新闻台,http://hls.vfl.asia/iptv.php?key=127c4a4b5b9f9cfa06cb2da506112e6d&id=23
+
+寰宇新闻台,http://hls.vfl.asia/iptv.php?key=127c4a4b5b9f9cfa06cb2da506112e6d&id=24
+
+寰宇新闻台湾台,http://hls.vfl.asia/iptv.php?key=127c4a4b5b9f9cfa06cb2da506112e6d&id=25
+
+台视新闻台,http://hls.vfl.asia/iptv.php?key=127c4a4b5b9f9cfa06cb2da506112e6d&id=26
+
+中视新闻台,http://hls.vfl.asia/iptv.php?key=127c4a4b5b9f9cfa06cb2da506112e6d&id=27
+
+华视新闻台,http://hls.vfl.asia/iptv.php?key=127c4a4b5b9f9cfa06cb2da506112e6d&id=28
+
+TVBS新闻台,http://hls.vfl.asia/iptv.php?key=127c4a4b5b9f9cfa06cb2da506112e6d&id=29
+
+三立新闻台,http://hls.vfl.asia/iptv.php?key=127c4a4b5b9f9cfa06cb2da506112e6d&id=30
+
+三立iNEWS,http://hls.vfl.asia/iptv.php?key=127c4a4b5b9f9cfa06cb2da506112e6d&id=31
+
+镜电视新闻台,http://hls.vfl.asia/iptv.php?key=127c4a4b5b9f9cfa06cb2da506112e6d&id=32
+
+壹新闻,http://hls.vfl.asia/iptv.php?key=127c4a4b5b9f9cfa06cb2da506112e6d&id=33
+
+公视新闻,http://hls.vfl.asia/iptv.php?key=127c4a4b5b9f9cfa06cb2da506112e6d&id=34
+
+民视新闻台,http://hls.vfl.asia/iptv.php?key=127c4a4b5b9f9cfa06cb2da506112e6d&id=35
+
+民视,http://hls.vfl.asia/iptv.php?key=127c4a4b5b9f9cfa06cb2da506112e6d&id=36
+
+台视,http://hls.vfl.asia/iptv.php?key=127c4a4b5b9f9cfa06cb2da506112e6d&id=37
+
+中视,http://hls.vfl.asia/iptv.php?key=127c4a4b5b9f9cfa06cb2da506112e6d&id=38
+
+华视,http://hls.vfl.asia/iptv.php?key=127c4a4b5b9f9cfa06cb2da506112e6d&id=39
+
+TVBS HD,http://hls.vfl.asia/iptv.php?key=127c4a4b5b9f9cfa06cb2da506112e6d&id=40
+
+TVBS欢乐台,http://hls.vfl.asia/iptv.php?key=127c4a4b5b9f9cfa06cb2da506112e6d&id=41
+
+中天亚洲台,http://hls.vfl.asia/iptv.php?key=127c4a4b5b9f9cfa06cb2da506112e6d&id=42
+
+纬来体育台,http://hls.vfl.asia/iptv.php?key=127c4a4b5b9f9cfa06cb2da506112e6d&id=43
+
+纬来日本台,http://hls.vfl.asia/iptv.php?key=127c4a4b5b9f9cfa06cb2da506112e6d&id=44
+
+纬来育乐台,http://hls.vfl.asia/iptv.php?key=127c4a4b5b9f9cfa06cb2da506112e6d&id=45
+
+ELEVEN 1,http://hls.vfl.asia/iptv.php?key=127c4a4b5b9f9cfa06cb2da506112e6d&id=46
+
+ELEVEN 2,http://hls.vfl.asia/iptv.php?key=127c4a4b5b9f9cfa06cb2da506112e6d&id=47
+
+爱尔达体育1台,http://hls.vfl.asia/iptv.php?key=127c4a4b5b9f9cfa06cb2da506112e6d&id=48
+
+爱尔达体育2台,http://hls.vfl.asia/iptv.php?key=127c4a4b5b9f9cfa06cb2da506112e6d&id=49
+
+爱尔达体育3台,http://hls.vfl.asia/iptv.php?key=127c4a4b5b9f9cfa06cb2da506112e6d&id=50
+
+NBA TV,http://hls.vfl.asia/iptv.php?key=127c4a4b5b9f9cfa06cb2da506112e6d&id=51
+
+MOMO综合台,http://hls.vfl.asia/iptv.php?key=127c4a4b5b9f9cfa06cb2da506112e6d&id=52
+
+HBO,http://hls.vfl.asia/iptv.php?key=127c4a4b5b9f9cfa06cb2da506112e6d&id=54
+
+CNN新闻频道,http://hls.vfl.asia/iptv.php?key=127c4a4b5b9f9cfa06cb2da506112e6d&id=55
+中天,http://pull-hls-hs-spe-f5.douyincdn.com/live/twlivepzztvvzzzyzuuzzfvbscvzdztwzfszzszzzcvuyzemzeztxw.flv
+
+寰宇,http://pull-hls-hs-spe-f5.douyincdn.com/live/twlivephxehmffzuxcxzvezezyhmnzzxzzhzdhnzbnxfdzfhyxw.flv
+
+年代,http://pull-hls-hs-spe-f5.douyincdn.com/live/twliveozevdyscvbudlozlnsfzewtzudvbbzxfznzlvczdzdnzxw.flv
+
+东森,http://pull-hls-hs-spe-f5.douyincdn.com/live/twlivemhzttuzzcvbyzuozdzzezywefzzfbxfbxxvbzzzlzzhzsxw.flv
+
+中视,http://pull-hls-hs-spe-f5.douyincdn.com/live/twlivepnvzydstudzbszcvbfzzzszfzszwetymzldhduzocnzsxw.flv
+
+台视,http://pull-hls-hs-spe-f5.douyincdn.com/live/twlivenczztzzudtzlzcvbcvntzzzsfwetzfvcbcxvdzbzfflvcztsxw.flv
+
+TVBS,http://pull-hls-hs-spe-f5.douyincdn.com/live/twlivezpzovdxzozfdezodszxcvlzzfvhnzlzzzobzzzsvhzchtvbs.flv
 凤凰卫视中文台,http://[2409:8087:2001:20:2800:0:df6e:eb22]:80/ott.mobaibox.com/PLTV/3/224/3221228527/index.m3u8
 凤凰卫视资讯台,http://[2409:8087:2001:20:2800:0:df6e:eb19]:80/ott.mobaibox.com/PLTV/3/224/3221228524/index.m3u8
 凤凰卫视中文台,http://[2409:8087:2001:20:2800:0:df6e:eb22]:80/ott.mobaibox.com/PLTV/3/224/3221228527/index.m3u8
