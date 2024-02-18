@@ -42,19 +42,19 @@
 岭南戏曲高清,http://120.237.114.90:7000/rtp/239.21.0.147:3932
 现代教育高清,http://120.237.114.90:7000/rtp/239.21.0.148:3936
 
-星空卫视,http://jyjxy.7766.org:8811/hls/31/index.m3u8#http://202.168.187.208:2024/tsfile/live/1008_1.m3u8?key=txiptv&playlive=1&authid=0
-凤凰卫视中文台,http://171.214.202.128:4000/udp/239.93.1.9:2192#http://202.168.187.208:2024/tsfile/live/1009_1.m3u8?key=txiptv&playlive=1&authid=0#https://live.goodiptv.club/api/sxg.php?id=test1_4000
-凤凰卫视资讯台,http://171.214.202.128:4000/udp/239.93.1.4:2191#http://iptv.666888999.gay/iptv.php?key=e2e840c0ea4abd8af71f1a67a553bbe5&id=2#http://113.117.74.99:8081/hls/36/index.m3u8
+凤凰卫视中文台,http://171.214.202.128:4000/udp/239.93.1.9:2192#http://jyjxy.7766.org:8811/hls/32/index.m3u8
+凤凰卫视资讯台,http://171.214.202.128:4000/udp/239.93.1.4:2191#http://jyjxy.7766.org:8811/hls/33/index.m3u8
 澳亚卫视,http://202.168.187.208:2024/tsfile/live/1010_1.m3u8?key=txiptv&playlive=1&authid=0
-港台电视31,http://hls.666888999.gay/iptv.php?id=19
-港台电视32,http://hls.666888999.gay/iptv.php?id=20
-翡翠台,http://113.86.206.78:9999/tsfile/live/1055_1.m3u8?key=txiptv&playlive=1&authid=0
-明珠台,http://jyjxy.7766.org:8811/hls/37/index.m3u8#http://www.namewee.xyz/gudou.php?id=367&id=1351_4500#http://www.namewee.xyz/gudou.php?id=364&id=1351_4500
-星河频道,http://113.117.74.99:8081/hls/135/index.m3u8
-星空卫视,http://171.214.202.128:4000/udp/239.93.0.156:2193#http://113.86.206.78:9999/tsfile/live/1060_1.m3u8?key=txiptv&playlive=1&authid=0
+翡翠台,http://jyjxy.7766.org:8811/hls/36/index.m3u8
+明珠台,http://jyjxy.7766.org:8811/hls/37/index.m3u8
+香港台,http://jyjxy.7766.org:8811/hls/34/index.m3u8
+天映频道,http://jyjxy.7766.org:8811/hls/62/index.m3u8
+星河频道,http://jyjxy.7766.org:8811/hls/35/index.m3u8
+星空卫视,http://171.214.202.128:4000/udp/239.93.0.156:2193#http://jyjxy.7766.org:8811/hls/31/index.m3u8#http://202.168.187.208:2024/tsfile/live/1008_1.m3u8?key=txiptv&playlive=1&authid=0
 凤凰香港高清,http://113.117.74.99:8081/hls/38/index.m3u8
-龙祥电影,http://jyjxy.7766.org:8811/hls/57/index.m3u8#http://113.86.206.78:9999/tsfile/live/1057_1.m3u8?key=txiptv&playlive=1&authid=0
+龙祥电影,http://198.16.100.90:8278/cb7a1fec69/playlist.m3u8?tid=md05ab4002297&ct=18335&tsum=ebe4254ee0e073c2d3c9789e679c00a5
 东森电影,http://jyjxy.7766.org:8811/hls/58/index.m3u8
+东森洋片,http://jyjxy.7766.org:8811/hls/59/index.m3u8
 
 广东卫视高清,http://113.93.52.92:5555/rtp/239.20.0.101:2000
 广东卫视超清,http://113.93.52.92:5555/rtp/239.20.0.99:3004
@@ -409,12 +409,8 @@ DOX电影,http://113.117.74.52:8081/hls/62/index.m3u8
 河源综合,http://tmpstream.hyrtv.cn/xwzh/sd/live.m3u8
 河源综合,https://tmpstream.hyrtv.cn/xwzh/sd/live.m3u8?_upt=f767206b1671099007
 河源公共,http://tmpstream.hyrtv.cn/hygg/sd/live.m3u8
-阳江公共,https://live.yjtvw.com:8081/live/smil:yjtv2.smil/chunklist_w551261166_b928000.m3u8
-阳江公共,https://live.yjtvw.com:8081/live/smil:yjtv2.smil/chunklist_b1152000.m3u8
-阳江公共,https://live.yjtvw.com:8081/live/smil:yjtv2.smil/chunklist_b3628000.m3u8
-阳江综合,https://live.yjtvw.com:8081/live/smil:yjtv1.smil/chunklist_w1166501356_b928000.m3u8
-阳江综合,https://live.yjtvw.com:8081/live/smil:yjtv1.smil/chunklist_b1152000.m3u8
-阳江综合,https://live.yjtvw.com:8081/live/smil:yjtv1.smil/chunklist_b3628000.m3u8
+阳江-1,http://php.jdshipin.com:8880/chudian.php?id=yjtv1
+阳江-2,http://php.jdshipin.com:8880/chudian.php?id=yjtv2
 阳西台,http://ci.emdoor.tech:8080/touchtv.php?pk=2476
 广东珠江,http://[2409:8087:7001:20:1000::86]:6610/000000001000/1000000004000011655/index.m3u8?channel-id=ystenlive&Contentid=1000000004000011655&livemode=1&stbId=3&HlsProfileId=
 广东珠江,http://[2409:8087:7001:20:1000::97]:6610/000000001000/1000000004000011655/index.m3u8?channel-id=ystenlive&Contentid=1000000004000011655&livemode=1&stbId=3&HlsProfileId=
