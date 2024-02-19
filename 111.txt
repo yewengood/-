@@ -46,12 +46,12 @@
 凤凰卫视中文台,http://171.214.202.128:4000/udp/239.93.1.9:2192#http://jyjxy.7766.org:8811/hls/32/index.m3u8
 凤凰卫视资讯台,http://171.214.202.128:4000/udp/239.93.1.4:2191#http://jyjxy.7766.org:8811/hls/33/index.m3u8
 澳亚卫视,http://202.168.187.208:2024/tsfile/live/1010_1.m3u8?key=txiptv&playlive=1&authid=0
-翡翠台,http://jyjxy.7766.org:8811/hls/36/index.m3u8
-明珠台,http://jyjxy.7766.org:8811/hls/37/index.m3u8
+翡翠台,http://202.168.187.208:2024/tsfile/live/1006_1.m3u8#http://jyjxy.7766.org:8811/hls/36/index.m3u8
+明珠台,http://202.168.187.208:2024/tsfile/live/1007_1.m3u8#http://jyjxy.7766.org:8811/hls/37/index.m3u8
 香港台,http://jyjxy.7766.org:8811/hls/34/index.m3u8
 天映频道,http://jyjxy.7766.org:8811/hls/62/index.m3u8
 星河频道,http://jyjxy.7766.org:8811/hls/35/index.m3u8
-星空卫视,http://171.214.202.128:4000/udp/239.93.0.156:2193#http://jyjxy.7766.org:8811/hls/31/index.m3u8#http://202.168.187.208:2024/tsfile/live/1008_1.m3u8?key=txiptv&playlive=1&authid=0
+星空卫视,http://202.168.187.208:2024/tsfile/live/1008_1.m3u8#http://171.214.202.128:4000/udp/239.93.0.156:2193#http://jyjxy.7766.org:8811/hls/31/index.m3u8#http://202.168.187.208:2024/tsfile/live/1008_1.m3u8?key=txiptv&playlive=1&authid=0
 4K超高清电影,http://171.214.202.128:4000/rtp/239.93.0.43:5140
 龙祥电影,http://198.16.100.90:8278/cb7a1fec69/playlist.m3u8?tid=md05ab4002297&ct=18335&tsum=ebe4254ee0e073c2d3c9789e679c00a5
 东森电影,http://jyjxy.7766.org:8811/hls/58/index.m3u8
