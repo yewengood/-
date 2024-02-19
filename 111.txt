@@ -42,6 +42,7 @@
 岭南戏曲高清,http://120.237.114.90:7000/rtp/239.21.0.147:3932
 现代教育高清,http://120.237.114.90:7000/rtp/239.21.0.148:3936
 
+重温经典,http://1.62.64.97/0b926d37065dc656266be75dd9d25565.v.smtcdns.net/zycfcdn.gdwlcloud.com/PLTV/88888888/224/3221225563/index.m3u8
 凤凰卫视中文台,http://171.214.202.128:4000/udp/239.93.1.9:2192#http://jyjxy.7766.org:8811/hls/32/index.m3u8
 凤凰卫视资讯台,http://171.214.202.128:4000/udp/239.93.1.4:2191#http://jyjxy.7766.org:8811/hls/33/index.m3u8
 澳亚卫视,http://202.168.187.208:2024/tsfile/live/1010_1.m3u8?key=txiptv&playlive=1&authid=0
