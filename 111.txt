@@ -90,7 +90,11 @@ CHC动作电影,http://116.199.24.6:2901/udp/224.1.100.132:11111
 龙祥电影,http://198.16.100.90:8278/cb7a1fec69/playlist.m3u8?tid=md05ab4002297&ct=18335&tsum=ebe4254ee0e073c2d3c9789e679c00a5
 东森电影,http://jyjxy.7766.org:8811/hls/58/index.m3u8
 东森洋片,http://jyjxy.7766.org:8811/hls/59/index.m3u8
-
+GRTN健康频道,http://glive.grtn.cn/live/health.m3u8
+GRTN文化频道,http://glive.grtn.cn/live/wenhua_test0203.m3u8
+GRTN生活频道,http://glive.grtn.cn/live/life.m3u8
+GRTN纪录片,http://glive.grtn.cn/live/jilupian.m3u8
+荔枝台,http://glive.grtn.cn/live/lizhi.m3u8
 
 广东卫视,http://58.252.12.164:8000/udp/239.77.0.2:5146
 
