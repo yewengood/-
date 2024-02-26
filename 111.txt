@@ -75,6 +75,7 @@
 星空卫视,http://116.199.24.6:2901/udp/224.1.100.13:11111
 CHC动作电影,http://116.199.24.6:2901/udp/224.1.100.131:11111
 CHC动作电影,http://116.199.24.6:2901/udp/224.1.100.132:11111
+中国电影频道,http://43.136.119.99/douyin.php/?id=liugongzhu123
 
 重温经典,http://1.62.64.234/0b926d37065dc656266be75dd9d25565.v.smtcdns.net/zycfcdn.gdwlcloud.com/PLTV/88888888/224/3221225563/index.m3u8#http://1.62.64.97/0b926d37065dc656266be75dd9d25565.v.smtcdns.net/zycfcdn.gdwlcloud.com/PLTV/88888888/224/3221225563/index.m3u8#http://1.62.64.234/0b926d37065dc656266be75dd9d25565.v.smtcdns.net/zycfcdn.gdwlcloud.com/PLTV/88888888/224/3221225563/index.m3u8
 凤凰卫视中文台,http://171.214.202.128:4000/udp/239.93.1.9:2192#http://jyjxy.7766.org:8811/hls/32/index.m3u8
