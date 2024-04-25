@@ -1,23 +1,11 @@
-import json
+fetch('https://gzbn.gztv.com:7443/plus-cloud-manage-app/liveChannel/queryLiveChannelList?type=1')
+  .(response response.json())
+  .then(data => {
+    console.log(data);
+    // 在这里可以处理返回的JSON数据
+ })
+  .catch(error => {
+    console.error(error);
+    // 处理错误情况
+  });
 
-# 原始JSON文件路径
-original_json_path = 'original.json'
-
-# 目标JSON文件路径
-copied_json_path = 'copied.json'
-
-# 读取原始JSON文件内容
-with open(original_json_path, 'r') as f:
-    original_data = json.load(f)
-
-# 创建一个新的空JSON
-copied_data = {}
-
-# 将原始数据复制到新JSON中
-copied_data.update(original_data)
-
-# 将复制后的JSON写入目标文件
-with open(copied_json_path, 'w') as f:
-    json.dump(copied_data, f, indent=2)
-
-print("JSON复制完成！")
