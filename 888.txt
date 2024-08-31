@@ -23,6 +23,20 @@
 广州影视高清,http://43.136.119.99/zb0.php?id=239.253.43.73:5146
 广州法治高清,http://43.136.119.99/zb0.php?id=239.253.43.74:5146
 南国都市4K,http://43.136.119.99/zb0.php?id=239.253.43.99:5146
+凤凰香港,http://php.jdshipin.com:8880/TVOD/iptv.php?id=fhhk
+凤凰中文,http://php.jdshipin.com:8880/TVOD/iptv.php?id=fhzw
+凤凰资讯,http://php.jdshipin.com:8880/TVOD/iptv.php?id=fhzx
+翡翠台,http://php.jdshipin.com/TVOD/iptv.php?id=fct
+翡翠台(广电),http://cdn3.1678520.xyz/live/?id=fct2
+明珠台,http://php.jdshipin.com/TVOD/iptv.php?id=mzt
+华丽翡翠台,http://php.jdshipin.com/TVOD/iptv.php?id=huali
+TVB星河,http://php.jdshipin.com/TVOD/iptv.php?id=xinghe
+HOY TV,http://php.jdshipin.com/TVOD/iptv.php?id=hoytv
+千禧经典台,http://php.jdshipin.com/TVOD/iptv.php?id=tvbc
+Astro AOD,http://php.jdshipin.com/TVOD/iptv.php?id=aod
+重温经典,http://php.jdshipin.com/TVOD/iptv.php?id=cwjd
+重温经典,http://ali.hlspull.yximgs.com/live/awei_cwjd.flv
+广东珠江频道,http://43.136.119.99/douyin.php?id=gdtvzjpd
 央视频道,#genre#
 
 
