@@ -1,11 +1,114 @@
-fetch('https://gzbn.gztv.com:7443/plus-cloud-manage-app/liveChannel/queryLiveChannelList?type=1')
-  .(response response.json())
-  .then(data => {
-    console.log(data);
-    // 在这里可以处理返回的JSON数据
- })
-  .catch(error => {
-    console.error(error);
-    // 处理错误情况
-  });
-
+香港频道,#genre#
+凤凰中文台,http://free.xiptv.x10.bz/kudou.php?id=121#LR•IPV4
+凤凰资讯台,http://free.xiptv.x10.bz/kudou.php?id=122#LR•IPV4
+凤凰香港台,http://free.xiptv.x10.bz/kudou.php?id=123#LR•IPV4
+凤凰香港台,p3p://108.181.20.159:33682/641022da0005d3069862188000a64525#LR•IPV4
+TVB翡翠台,http://free.xiptv.x10.bz/kudou.php?id=188#LR•IPV4
+TVB翡翠台,p3p://108.181.32.169:29945/653e4c02000ea0440c8c63fd3e5d709d#LR•IPV4
+TVB翡翠台,p3p://108.181.20.159:33682/641009ee000871369800bf4762e35621#LR•IPV4
+TVB无线新闻台,http://free.xiptv.x10.bz/kudou.php?id=2#LR•IPV4
+TVB跑马台,http://free.xiptv.x10.bz/kudou.php?id=4#LR•IPV4
+TVB Plus,http://free.xiptv.x10.bz/kudou.php?id=7#LR•IPV4
+TVB娱乐新闻台,http://free.xiptv.x10.bz/kudou.php?id=20#LR•IPV4
+TVB娱乐新闻台,p3p://108.181.20.159:33682/64102219000c6f74985f28485a5a5799#LR•IPV4
+TVB华丽翡翠台,http://free.xiptv.x10.bz/kudou.php?id=9#LR•IPV4
+TVB功夫台,http://free.xiptv.x10.bz/kudou.php?id=12#LR•IPV4
+TVB功夫台,p3p://108.181.32.169:29945/653e4a3f000b1abb0c85815c35fa0803#LR•IPV4
+TVB功夫台,p3p://108.181.20.159:33682/6411291b0004b01b9c62861646d00929#LR•IPV4
+now财经台,http://free.xiptv.x10.bz/kudou.php?id=28#LR•IPV4
+now星影台,http://free.xiptv.x10.bz/kudou.php?id=29#LR•IPV4
+now爆谷台,http://free.xiptv.x10.bz/kudou.php?id=30#LR•IPV4
+now SPORTS1,http://free.xiptv.x10.bz/kudou.php?id=31#LR•IPV4
+黄金华剧台,http://free.xiptv.x10.bz/kudou.php?id=24#LR•IPV4
+黄金华剧台,p3p://108.181.32.169:29945/652970de00011277bb14dcd76e301cc0#LR•IPV4
+美亚电影台(粤),http://free.xiptv.x10.bz/kudou.php?id=25#LR•IPV4
+PopC,http://free.xiptv.x10.bz/kudou.php?id=38#LR•IPV4
+MyTV 亚洲剧台,http://free.xiptv.x10.bz/kudou.php?id=10#LR•IPV4
+MyTV 黄金翡翠台,http://free.xiptv.x10.bz/kudou.php?id=11#LR•IPV4
+MyTV 亚洲综合娱乐台,http://free.xiptv.x10.bz/kudou.php?id=15#LR•IPV4
+MyTV 亚洲综合娱乐台,http://free.xiptv.x10.bz/kudou.php?id=16#LR•IPV4
+MyTV 跑马台,http://free.xiptv.x10.bz/kudou.php?id=17#LR•IPV4
+MyTV 千禧经典台,http://free.xiptv.x10.bz/kudou.php?id=19#LR•IPV4
+MyTV 华语剧台,http://free.xiptv.x10.bz/kudou.php?id=22#LR•IPV4
+MyTV SuperFree,http://free.xiptv.x10.bz/kudou.php?id=8#LR•IPV4
+MyTV 粤语片台,http://free.xiptv.x10.bz/kudou.php?id=14#LR•IPV4
+ROCK综艺娱乐,http://free.xiptv.x10.bz/kudou.php?id=32#LR•IPV4
+ROCK超级娱乐,http://free.xiptv.x10.bz/kudou.php?id=33#LR•IPV4
+民视,http://tianhewan.top/ZIPP.php?url=http://211.72.65.236:8504/.m3u8#LR•IPV4
+民视,http://free.xiptv.x10.bz/kudou.php?id=43#LR•IPV4
+民视,p3p://108.181.32.169:29945/6001ba8400051d89f5b151a63fa96419#LR•IPV4
+民视,p3p://108.181.20.159:33682/64251dd200003544ea55fe1c5eb00e42#LR•IPV4
+台视,http://free.xiptv.x10.bz/kudou.php?id=44#LR•IPV4
+台视,p3p://108.181.32.169:29945/612ee2240008f3db8e0578dc59406f9e#LR•IPV4
+台视,p3p://108.181.20.159:33682/64251e0800060844ea56d28a6fad038f#LR•IPV4
+中视新闻,http://free.xiptv.x10.bz/kudou.php?id=45#LR•IPV4
+中视新闻,http://free.xiptv.x10.bz/kudou.php?id=80#LR•IPV4
+中视新闻,p3p://108.181.32.169:29945/61ff2b9d0004cfe6bb9a99f71e1c4c92#LR•IPV4
+华视新闻,http://free.xiptv.x10.bz/kudou.php?id=46#LR•IPV4
+华视新闻,p3p://108.181.32.169:29945/632c706b0009d57248864b64705a59a0#LR•IPV4
+民视台湾台,http://free.xiptv.x10.bz/kudou.php?id=49#LR•IPV4
+民视第一台,http://free.xiptv.x10.bz/kudou.php?id=50#LR•IPV4
+三立台湾台,http://tianhewan.top/ZIPP.php?url=http://211.72.65.236:8521/.m3u8#LR•IPV4
+三立台湾台,http://free.xiptv.x10.bz/kudou.php?id=52#LR•IPV4
+靖洋戏剧台,http://free.xiptv.x10.bz/kudou.php?id=53#LR•IPV4
+八大综合台,http://tianhewan.top/ZIPP.php?url=http://211.72.65.236:8520/.m3u8#LR•IPV4
+八大综合台,http://free.xiptv.x10.bz/kudou.php?id=55#LR•IPV4
+八大第一台,http://tianhewan.top/ZIPP.php?url=http://211.72.65.236:8519/.m3u8#LR•IPV4
+八大第一台,http://free.xiptv.x10.bz/kudou.php?id=56#LR•IPV4
+八大戏剧台,http://tianhewan.top/ZIPP.php?url=http://211.72.65.236:8531/.m3u8#LR•IPV4
+八大戏剧台,http://free.xiptv.x10.bz/kudou.php?id=57#LR•IPV4
+爱尔达影剧台,http://free.xiptv.x10.bz/kudou.php?id=59#LR•IPV4
+CN卡通,http://free.xiptv.x10.bz/kudou.php?id=65#LR•IPV4
+CN卡通,p3p://108.181.32.169:29945/61ded38e000d52023d43f93e0ee00012#LR•IPV4
+亚洲旅游台,http://tianhewan.top/ZIPP.php?url=http://211.72.65.236:8513/.m3u8#LR•IPV4
+亚洲旅游台,http://free.xiptv.x10.bz/kudou.php?id=71#LR•IPV4
+亚洲旅游台,p3p://108.181.20.159:33682/642520f70001a86dea62470d303d34d3#LR•IPV4
+爱尔达体育4台,http://free.xiptv.x10.bz/kudou.php?id=72#LR•IPV4
+探索频道,http://tianhewan.top/ZIPP.php?url=http://211.72.65.236:8510/.m3u8#LR•IPV4
+探索频道,http://free.xiptv.x10.bz/kudou.php?id=73#LR•IPV4
+探索频道,p3p://108.181.32.169:29945/62c759f2000bc06bbdab761176c927da#LR•IPV4
+DMAX,http://free.xiptv.x10.bz/kudou.php?id=74#LR•IPV4
+东森LIVE,http://free.xiptv.x10.bz/kudou.php?id=75#LR•IPV4
+寰宇新闻,http://free.xiptv.x10.bz/kudou.php?id=76#LR•IPV4
+寰宇新闻,p3p://108.181.32.169:29945/653cd4a900049a4206d258a92e941b10#LR•IPV4
+TVBS,http://free.xiptv.x10.bz/kudou.php?id=77#LR•IPV4
+TVBS,p3p://108.181.32.169:29945/612ee5ef000f06f58e144b6727ec3efb#LR•IPV4
+TVBS,p3p://108.181.20.159:33682/64252174000b39b9ea6431c97b481680#LR•IPV4
+TVBS新闻,http://free.xiptv.x10.bz/kudou.php?id=78#LR•IPV4
+TVBS新闻,p3p://108.181.32.169:29945/621858e3000e70ad1217c0700d576ad0#LR•IPV4
+TVBS新闻,p3p://108.181.32.169:29945/6560da55000f014a9387da3a6873515a#LR•IPV4
+台视新闻,http://free.xiptv.x10.bz/kudou.php?id=81#LR•IPV4
+台视新闻,p3p://108.181.32.169:29945/62caf1dc000525b3cbb4de6e3c0e2af8#LR•IPV4
+民视新闻,http://free.xiptv.x10.bz/kudou.php?id=84#LR•IPV4
+民视新闻,p3p://108.181.32.169:29945/602f1f4a000aa86fa700c49817387f81#LR•IPV4
+龙祥时代,http://free.xiptv.x10.bz/kudou.php?id=85#LR•IPV4
+龙祥时代,p3p://108.181.32.169:29945/60115453000a238d32a1418142be77f7#LR•IPV4
+东森电影,http://free.xiptv.x10.bz/kudou.php?id=86#LR•IPV4
+东森电影,p3p://108.181.32.169:29945/62c103a5000b5a66a4eacca77822079a#LR•IPV4
+东森洋片,http://free.xiptv.x10.bz/kudou.php?id=87#LR•IPV4
+东森洋片,p3p://108.181.32.169:29945/64c62c06000d1cf03751bf246ed813e7#LR•IPV4
+好莱坞电影,http://free.xiptv.x10.bz/kudou.php?id=88#LR•IPV4
+好莱坞电影,p3p://108.181.32.169:29945/62cee8b3000ea6aedb30a55616047866#LR•IPV4
+龙华戏剧,http://tianhewan.top/ZIPP.php?url=http://211.72.65.236:8549/.m3u8#LR•IPV4
+龙华戏剧,http://free.xiptv.x10.bz/kudou.php?id=90#LR•IPV4
+龙华戏剧,p3p://108.181.32.169:29945/6214c295000a5fa204149eb30d3c30b4#LR•IPV4
+龙华偶像,http://tianhewan.top/ZIPP.php?url=http://211.72.65.236:8555/.m3u8#LR•IPV4
+龙华偶像,http://free.xiptv.x10.bz/kudou.php?id=91#LR•IPV4
+龙华偶像,p3p://108.181.32.169:29945/609bb1b0000732744f174daa791d3b43#LR•IPV4
+龙华洋片,http://free.xiptv.x10.bz/kudou.php?id=92#LR•IPV4
+龙华洋片,p3p://108.181.32.169:29945/64c0e1af000875f522a785c0570b06ae#LR•IPV4
+龙华电影,http://tianhewan.top/ZIPP.php?url=http://211.72.65.236:8556/.m3u8#LR•IPV4
+龙华电影,http://free.xiptv.x10.bz/kudou.php?id=93#LR•IPV4
+龙华电影,p3p://108.181.32.169:29945/621471310004d28d02d6aeb471c265ec#LR•IPV4
+美亚电影台(国),http://free.xiptv.x10.bz/kudou.php?id=94#LR•IPV4
+HBO,http://free.xiptv.x10.bz/kudou.php?id=95#LR•IPV4
+HBO,p3p://108.181.32.169:29945/5fe6c3b3000ae0538c5e86154ed52a5b#LR•IPV4
+HBO,p3p://108.181.20.159:33682/64137f0b0006a17fa58238155813216c#LR•IPV4
+HBO,p3p://108.181.20.159:33682/645faf2100095cb2cf1c4442765c172b#LR•IPV4
+HBO HiTS,http://free.xiptv.x10.bz/kudou.php?id=96#LR•IPV4
+华纳电影台,http://free.xiptv.x10.bz/kudou.php?id=100#LR•IPV4
+MOVIES NOW,http://free.xiptv.x10.bz/kudou.php?id=101#LR•IPV4
+卫视电影,http://free.xiptv.x10.bz/kudou.php?id=102#LR•IPV4
+卫视电影,p3p://108.181.32.169:29945/61f88baf000e09b3a1b9e2a3622612e9#LR•IPV4
+天映经典,http://free.xiptv.x10.bz/kudou.php?id=103#LR•IPV4
+天映经典,p3p://108.181.32.169:29945/5fded422000d0eb46d5f29815c1d4155#LR•IPV4
