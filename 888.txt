@@ -912,10 +912,7 @@ YY電影-歐美動作電影,http://43.136.119.99/yy.php?id=1382745089
 剧集_地下交通站,http://diyp.zxxoo.work/huya/11342433
 剧集_邻里一家亲,http://diyp.zxxoo.work/huya/11342426
 
-海鸥正式版4.5解密时间: 2024-09-06 15:10:50,#genre#
-服务器缓存 30-60分钟 左右,#genre#
-播放需要设置UA User-Agent: Lavf/58.12.100 ,#genre#
-香港频道5 1anre#
+香港频道5,#genre#
 凤凰中文台,http://8.137.59.151:99/tui/haiou.php?id=121
 凤凰资讯台,http://8.137.59.151:99/tui/haiou.php?id=122
 凤凰香港台,http://8.137.59.151:99/tui/haiou.php?id=123
@@ -951,7 +948,7 @@ ViuTV,http://8.137.59.151:99/tui/haiou.php?id=23
 ROCK综艺娱乐,http://8.137.59.151:99/tui/haiou.php?id=32
 ROCK超级娱乐,http://8.137.59.151:99/tui/haiou.php?id=33
 
-台湾频道,#genre#
+台湾频道5,#genre#
 民视,http://8.137.59.151:99/tui/haiou.php?id=43
 台视,http://8.137.59.151:99/tui/haiou.php?id=44
 中视新闻,http://8.137.59.151:99/tui/haiou.php?id=45
