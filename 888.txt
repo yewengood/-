@@ -912,7 +912,7 @@ YY電影-歐美動作電影,http://43.136.119.99/yy.php?id=1382745089
 剧集_地下交通站,http://diyp.zxxoo.work/huya/11342433
 剧集_邻里一家亲,http://diyp.zxxoo.work/huya/11342426
 四川电信,#genre#
-峨眉电影,http://wouu.net:9977/udp/239.93.1.54:5140
+峨眉电影高清,http://wouu.net:9977/udp/239.93.0.252:5140
 凤凰中文,http://wouu.net:9977/udp/239.93.0.162:2192
 凤凰中文,http://wouu.net:9977/udp/239.93.1.9:2192
 凤凰资讯,http://wouu.net:9977/udp/239.93.0.118:2191
