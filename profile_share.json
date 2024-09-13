@@ -1,0 +1,2141 @@
+{
+  "experimental": {
+    "clash_api": {
+      "external_controller": "",
+      "secret": ""
+    },
+    "debug": {
+      "max_threads": null,
+      "panic_on_fault": false
+    },
+    "cache_file": {
+      "enabled": false,
+      "path": "",
+      "store_fakeip": true
+    }
+  },
+  "log": {
+    "disabled": false,
+    "level": "info",
+    "output": "",
+    "timestamp": true
+  },
+  "ntp": {
+    "enabled": false,
+    "server": "time.windows.com",
+    "server_port": 123,
+    "interval": "12h",
+    "detour": "direct_out"
+  },
+  "dns": {
+    "final": "dns_final_out",
+    "strategy": "prefer_ipv4",
+    "independent_cache": true,
+    "rules": [
+      {
+        "domain": [
+          "lepl.liuxing888.top",
+          "aaa.liuxing888.top"
+        ],
+        "server": "dns_outbound_out",
+        "rewrite_ttl": 43200
+      },
+      {
+        "rule_set": [
+          "geosite:cn"
+        ],
+        "server": "dns_direct_out",
+        "rewrite_ttl": 43200
+      }
+    ],
+    "servers": [
+      {
+        "tag": "dns_outbound_out",
+        "address": "local"
+      },
+      {
+        "tag": "dns_direct_out",
+        "address": "local"
+      },
+      {
+        "tag": "dns_proxy_out",
+        "address": "https://1.1.1.1/dns-query",
+        "address_resolver": "dns_resolver_out",
+        "detour": "direct_out"
+      },
+      {
+        "tag": "dns_final_out",
+        "address": "https://1.1.1.1/dns-query",
+        "address_resolver": "dns_resolver_out",
+        "detour": "urltest_out"
+      },
+      {
+        "tag": "dns_resolver_out",
+        "address": "local"
+      },
+      {
+        "tag": "dns_block_out",
+        "address": "rcode://success"
+      }
+    ]
+  },
+  "inbounds": [
+    {
+      "type": "mixed",
+      "tag": "mixed_in_direct",
+      "set_system_proxy": false,
+      "listen": "0.0.0.0",
+      "listen_port": 3065,
+      "sniff": true,
+      "sniff_override_destination": false,
+      "domain_strategy": "prefer_ipv4"
+    },
+    {
+      "type": "mixed",
+      "tag": "mixed_in_proxy",
+      "set_system_proxy": false,
+      "listen": "0.0.0.0",
+      "listen_port": 3066,
+      "sniff": true,
+      "sniff_override_destination": false,
+      "domain_strategy": "prefer_ipv4"
+    },
+    {
+      "type": "mixed",
+      "tag": "mixed_in_rule",
+      "set_system_proxy": false,
+      "listen": "0.0.0.0",
+      "listen_port": 3067,
+      "sniff": true,
+      "sniff_override_destination": false,
+      "domain_strategy": "prefer_ipv4"
+    },
+    {
+      "type": "tun",
+      "tag": "tun_in",
+      "interface_name": "Karing TUN Network Adapter",
+      "inet4_address": [
+        "10.20.0.1/30"
+      ],
+      "inet6_address": [
+        "fdfe:dcba:9876::1/126"
+      ],
+      "mtu": 9000,
+      "auto_route": true,
+      "strict_route": false,
+      "stack": "system",
+      "platform": {
+        "http_proxy": {
+          "enabled": true,
+          "server": "127.0.0.1",
+          "server_port": 3067
+        }
+      },
+      "include_package": null,
+      "exclude_package": null,
+      "udp_timeout": "15s",
+      "sniff": true,
+      "sniff_override_destination": false,
+      "domain_strategy": "prefer_ipv4"
+    }
+  ],
+  "outbounds": [
+    {
+      "server": "lepl.liuxing888.top",
+      "server_port": 14521,
+      "tag": "新加坡SGP01-高速-专线",
+      "type": "shadowsocks",
+      "method": "chacha20-ietf-poly1305",
+      "password": "0208fa01-2297-40db-8bee-6237a9fdb384"
+    },
+    {
+      "server": "lepl.liuxing888.top",
+      "server_port": 20855,
+      "tag": "马来西亚01-高速-专线",
+      "type": "shadowsocks",
+      "method": "chacha20-ietf-poly1305",
+      "password": "0208fa01-2297-40db-8bee-6237a9fdb384"
+    },
+    {
+      "server": "aaa.liuxing888.top",
+      "server_port": 14001,
+      "tag": "台湾02-trojan",
+      "type": "trojan",
+      "password": "0208fa01-2297-40db-8bee-6237a9fdb384",
+      "tls": {
+        "enabled": true,
+        "server_name": ".liuxing888.top",
+        "insecure": true,
+        "utls": {
+          "enabled": true
+        }
+      }
+    },
+    {
+      "server": "aaa.liuxing888.top",
+      "server_port": 17815,
+      "tag": "日本JP02-高速-稳定",
+      "type": "shadowsocks",
+      "method": "chacha20-ietf-poly1305",
+      "password": "0208fa01-2297-40db-8bee-6237a9fdb384"
+    },
+    {
+      "server": "aaa.liuxing888.top",
+      "server_port": 15000,
+      "tag": "套餐到期：2024-08-13",
+      "type": "trojan",
+      "password": "0208fa01-2297-40db-8bee-6237a9fdb384",
+      "tls": {
+        "enabled": true,
+        "server_name": ".liuxing888.top",
+        "insecure": true,
+        "utls": {
+          "enabled": true
+        }
+      }
+    },
+    {
+      "server": "lepl.liuxing888.top",
+      "server_port": 12479,
+      "tag": "台湾TW03-高速-专线",
+      "type": "shadowsocks",
+      "method": "chacha20-ietf-poly1305",
+      "password": "0208fa01-2297-40db-8bee-6237a9fdb384"
+    },
+    {
+      "server": "aaa.liuxing888.top",
+      "server_port": 12011,
+      "tag": "台湾TW04-高速-稳定",
+      "type": "shadowsocks",
+      "method": "chacha20-ietf-poly1305",
+      "password": "0208fa01-2297-40db-8bee-6237a9fdb384"
+    },
+    {
+      "server": "lepl.liuxing888.top",
+      "server_port": 12145,
+      "tag": "台湾05-高速-稳定",
+      "type": "shadowsocks",
+      "method": "chacha20-ietf-poly1305",
+      "password": "0208fa01-2297-40db-8bee-6237a9fdb384"
+    },
+    {
+      "server": "aaa.liuxing888.top",
+      "server_port": 11433,
+      "tag": "美国UA04-高速-稳定",
+      "type": "shadowsocks",
+      "method": "chacha20-ietf-poly1305",
+      "password": "0208fa01-2297-40db-8bee-6237a9fdb384"
+    },
+    {
+      "server": "aaa.liuxing888.top",
+      "server_port": 19965,
+      "tag": "新加坡SGP04-高速-稳定",
+      "type": "shadowsocks",
+      "method": "chacha20-ietf-poly1305",
+      "password": "0208fa01-2297-40db-8bee-6237a9fdb384"
+    },
+    {
+      "server": "aaa.liuxing888.top",
+      "server_port": 11715,
+      "tag": "印度01-高速-稳定",
+      "type": "shadowsocks",
+      "method": "chacha20-ietf-poly1305",
+      "password": "0208fa01-2297-40db-8bee-6237a9fdb384"
+    },
+    {
+      "server": "lepl.liuxing888.top",
+      "server_port": 15812,
+      "tag": "日本JP01-高速-专线",
+      "type": "shadowsocks",
+      "method": "chacha20-ietf-poly1305",
+      "password": "0208fa01-2297-40db-8bee-6237a9fdb384"
+    },
+    {
+      "server": "lepl.liuxing888.top",
+      "server_port": 12108,
+      "tag": "马来西亚03-高速-专线",
+      "type": "shadowsocks",
+      "method": "chacha20-ietf-poly1305",
+      "password": "0208fa01-2297-40db-8bee-6237a9fdb384"
+    },
+    {
+      "server": "aaa.liuxing888.top",
+      "server_port": 12009,
+      "tag": "马来西亚04-高速-稳定",
+      "type": "shadowsocks",
+      "method": "chacha20-ietf-poly1305",
+      "password": "0208fa01-2297-40db-8bee-6237a9fdb384"
+    },
+    {
+      "server": "aaa.liuxing888.top",
+      "server_port": 13657,
+      "tag": "日本JP04-高速-稳定",
+      "type": "shadowsocks",
+      "method": "chacha20-ietf-poly1305",
+      "password": "0208fa01-2297-40db-8bee-6237a9fdb384"
+    },
+    {
+      "server": "lepl.liuxing888.top",
+      "server_port": 16666,
+      "tag": "香港HK01-高速-专线",
+      "type": "shadowsocks",
+      "method": "chacha20-ietf-poly1305",
+      "password": "0208fa01-2297-40db-8bee-6237a9fdb384"
+    },
+    {
+      "server": "aaa.liuxing888.top",
+      "server_port": 10788,
+      "tag": "德国02-高速-稳定",
+      "type": "shadowsocks",
+      "method": "chacha20-ietf-poly1305",
+      "password": "0208fa01-2297-40db-8bee-6237a9fdb384"
+    },
+    {
+      "server": "aaa.liuxing888.top",
+      "server_port": 25369,
+      "tag": "韩国ROK02-高速-稳定",
+      "type": "shadowsocks",
+      "method": "chacha20-ietf-poly1305",
+      "password": "0208fa01-2297-40db-8bee-6237a9fdb384"
+    },
+    {
+      "server": "lepl.liuxing888.top",
+      "server_port": 10809,
+      "tag": "英国01-高速-专线",
+      "type": "shadowsocks",
+      "method": "chacha20-ietf-poly1305",
+      "password": "0208fa01-2297-40db-8bee-6237a9fdb384"
+    },
+    {
+      "server": "lepl.liuxing888.top",
+      "server_port": 35699,
+      "tag": "韩国ROK01-高速-专线",
+      "type": "shadowsocks",
+      "method": "chacha20-ietf-poly1305",
+      "password": "0208fa01-2297-40db-8bee-6237a9fdb384"
+    },
+    {
+      "server": "aaa.liuxing888.top",
+      "server_port": 15000,
+      "tag": "台湾01-trojan",
+      "type": "trojan",
+      "password": "0208fa01-2297-40db-8bee-6237a9fdb384",
+      "tls": {
+        "enabled": true,
+        "server_name": ".liuxing888.top",
+        "insecure": true,
+        "utls": {
+          "enabled": true
+        }
+      }
+    },
+    {
+      "server": "aaa.liuxing888.top",
+      "server_port": 15000,
+      "tag": "剩余流量：20 GB",
+      "type": "trojan",
+      "password": "0208fa01-2297-40db-8bee-6237a9fdb384",
+      "tls": {
+        "enabled": true,
+        "server_name": ".liuxing888.top",
+        "insecure": true,
+        "utls": {
+          "enabled": true
+        }
+      }
+    },
+    {
+      "server": "aaa.liuxing888.top",
+      "server_port": 17894,
+      "tag": "香港HK02-高速-稳定",
+      "type": "shadowsocks",
+      "method": "chacha20-ietf-poly1305",
+      "password": "0208fa01-2297-40db-8bee-6237a9fdb384"
+    },
+    {
+      "server": "aaa.liuxing888.top",
+      "server_port": 16667,
+      "tag": "澳大利亚02-高速-稳定",
+      "type": "shadowsocks",
+      "method": "chacha20-ietf-poly1305",
+      "password": "0208fa01-2297-40db-8bee-6237a9fdb384"
+    },
+    {
+      "server": "lepl.liuxing888.top",
+      "server_port": 11333,
+      "tag": "美国UA03-高速-稳定",
+      "type": "shadowsocks",
+      "method": "chacha20-ietf-poly1305",
+      "password": "0208fa01-2297-40db-8bee-6237a9fdb384"
+    },
+    {
+      "server": "lepl.liuxing888.top",
+      "server_port": 21231,
+      "tag": "澳大利亚01-高速-专线",
+      "type": "shadowsocks",
+      "method": "chacha20-ietf-poly1305",
+      "password": "0208fa01-2297-40db-8bee-6237a9fdb384"
+    },
+    {
+      "server": "aaa.liuxing888.top",
+      "server_port": 19978,
+      "tag": "美国UA02-高速-稳定",
+      "type": "shadowsocks",
+      "method": "chacha20-ietf-poly1305",
+      "password": "0208fa01-2297-40db-8bee-6237a9fdb384"
+    },
+    {
+      "server": "lepl.liuxing888.top",
+      "server_port": 19977,
+      "tag": "美国UA01-高速-专线",
+      "type": "shadowsocks",
+      "method": "chacha20-ietf-poly1305",
+      "password": "0208fa01-2297-40db-8bee-6237a9fdb384"
+    },
+    {
+      "server": "lepl.liuxing888.top",
+      "server_port": 21547,
+      "tag": "德国01-高速-专线",
+      "type": "shadowsocks",
+      "method": "chacha20-ietf-poly1305",
+      "password": "0208fa01-2297-40db-8bee-6237a9fdb384"
+    },
+    {
+      "server": "aaa.liuxing888.top",
+      "server_port": 29369,
+      "tag": "加拿大01-高速-稳定",
+      "type": "shadowsocks",
+      "method": "chacha20-ietf-poly1305",
+      "password": "0208fa01-2297-40db-8bee-6237a9fdb384"
+    },
+    {
+      "server": "aaa.liuxing888.top",
+      "server_port": 16004,
+      "tag": "菲律宾01-trojan",
+      "type": "trojan",
+      "password": "0208fa01-2297-40db-8bee-6237a9fdb384",
+      "tls": {
+        "enabled": true,
+        "server_name": ".liuxing888.top",
+        "insecure": true,
+        "utls": {
+          "enabled": true
+        }
+      }
+    },
+    {
+      "server": "aaa.liuxing888.top",
+      "server_port": 10709,
+      "tag": "英国02-高速-稳定",
+      "type": "shadowsocks",
+      "method": "chacha20-ietf-poly1305",
+      "password": "0208fa01-2297-40db-8bee-6237a9fdb384"
+    },
+    {
+      "server": "lepl.liuxing888.top",
+      "server_port": 10807,
+      "tag": "法国01-高速-专线",
+      "type": "shadowsocks",
+      "method": "chacha20-ietf-poly1305",
+      "password": "0208fa01-2297-40db-8bee-6237a9fdb384"
+    },
+    {
+      "server": "aaa.liuxing888.top",
+      "server_port": 10717,
+      "tag": "瑞典01-高速-稳定",
+      "type": "shadowsocks",
+      "method": "chacha20-ietf-poly1305",
+      "password": "0208fa01-2297-40db-8bee-6237a9fdb384"
+    },
+    {
+      "server": "aaa.liuxing888.top",
+      "server_port": 10707,
+      "tag": "法国02-高速-稳定",
+      "type": "shadowsocks",
+      "method": "chacha20-ietf-poly1305",
+      "password": "0208fa01-2297-40db-8bee-6237a9fdb384"
+    },
+    {
+      "server": "aaa.liuxing888.top",
+      "server_port": 18456,
+      "tag": "越南01-trojan",
+      "type": "trojan",
+      "password": "0208fa01-2297-40db-8bee-6237a9fdb384",
+      "tls": {
+        "enabled": true,
+        "server_name": ".liuxing888.top",
+        "insecure": true,
+        "utls": {
+          "enabled": true
+        }
+      }
+    },
+    {
+      "server": "aaa.liuxing888.top",
+      "server_port": 14003,
+      "tag": "迪拜01-trojan",
+      "type": "trojan",
+      "password": "0208fa01-2297-40db-8bee-6237a9fdb384",
+      "tls": {
+        "enabled": true,
+        "server_name": ".liuxing888.top",
+        "insecure": true,
+        "utls": {
+          "enabled": true
+        }
+      }
+    },
+    {
+      "server": "aaa.liuxing888.top",
+      "server_port": 44567,
+      "tag": "巴西01-trojan",
+      "type": "trojan",
+      "password": "0208fa01-2297-40db-8bee-6237a9fdb384",
+      "tls": {
+        "enabled": true,
+        "server_name": ".liuxing888.top",
+        "insecure": true,
+        "utls": {
+          "enabled": true
+        }
+      }
+    },
+    {
+      "server": "154.197.121.123",
+      "server_port": 2096,
+      "tag": "Tg里的欢乐时光",
+      "type": "vless",
+      "uuid": "678ac895-92c2-4f27-a9d4-f1a89c5f5365",
+      "packet_encoding": "xudp",
+      "tls": {
+        "enabled": true,
+        "server_name": "mositr.freenods.sbs",
+        "insecure": true,
+        "utls": {
+          "enabled": true,
+          "fingerprint": "random"
+        }
+      },
+      "transport": {
+        "type": "ws",
+        "path": "/",
+        "headers": {
+          "Host": [
+            "mositr.freenods.sbs"
+          ]
+        },
+        "max_early_data": 2560,
+        "early_data_header_name": "Sec-WebSocket-Protocol"
+      }
+    },
+    {
+      "server": "172.64.154.218",
+      "server_port": 8443,
+      "tag": "收费就说明被骗了",
+      "type": "vless",
+      "uuid": "678ac895-92c2-4f27-a9d4-f1a89c5f5365",
+      "packet_encoding": "xudp",
+      "tls": {
+        "enabled": true,
+        "server_name": "mositr.freenods.sbs",
+        "insecure": true,
+        "utls": {
+          "enabled": true,
+          "fingerprint": "random"
+        }
+      },
+      "transport": {
+        "type": "ws",
+        "path": "/",
+        "headers": {
+          "Host": [
+            "mositr.freenods.sbs"
+          ]
+        },
+        "max_early_data": 2560,
+        "early_data_header_name": "Sec-WebSocket-Protocol"
+      }
+    },
+    {
+      "server": "154.197.121.129",
+      "server_port": 2053,
+      "tag": "关注频道@mianfeicf",
+      "type": "vless",
+      "uuid": "678ac895-92c2-4f27-a9d4-f1a89c5f5365",
+      "packet_encoding": "xudp",
+      "tls": {
+        "enabled": true,
+        "server_name": "mositr.freenods.sbs",
+        "insecure": true,
+        "utls": {
+          "enabled": true,
+          "fingerprint": "random"
+        }
+      },
+      "transport": {
+        "type": "ws",
+        "path": "/",
+        "headers": {
+          "Host": [
+            "mositr.freenods.sbs"
+          ]
+        },
+        "max_early_data": 2560,
+        "early_data_header_name": "Sec-WebSocket-Protocol"
+      }
+    },
+    {
+      "server": "162.159.138.178",
+      "server_port": 8443,
+      "tag": "欢乐时光-移动",
+      "type": "vless",
+      "uuid": "678ac895-92c2-4f27-a9d4-f1a89c5f5365",
+      "packet_encoding": "xudp",
+      "tls": {
+        "enabled": true,
+        "server_name": "mositr.freenods.sbs",
+        "insecure": true,
+        "utls": {
+          "enabled": true,
+          "fingerprint": "random"
+        }
+      },
+      "transport": {
+        "type": "ws",
+        "path": "/",
+        "headers": {
+          "Host": [
+            "mositr.freenods.sbs"
+          ]
+        },
+        "max_early_data": 2560,
+        "early_data_header_name": "Sec-WebSocket-Protocol"
+      }
+    },
+    {
+      "server": "162.159.142.252",
+      "server_port": 2096,
+      "tag": "欢乐时光-移动-1",
+      "type": "vless",
+      "uuid": "678ac895-92c2-4f27-a9d4-f1a89c5f5365",
+      "packet_encoding": "xudp",
+      "tls": {
+        "enabled": true,
+        "server_name": "mositr.freenods.sbs",
+        "insecure": true,
+        "utls": {
+          "enabled": true,
+          "fingerprint": "random"
+        }
+      },
+      "transport": {
+        "type": "ws",
+        "path": "/",
+        "headers": {
+          "Host": [
+            "mositr.freenods.sbs"
+          ]
+        },
+        "max_early_data": 2560,
+        "early_data_header_name": "Sec-WebSocket-Protocol"
+      }
+    },
+    {
+      "server": "162.159.141.161",
+      "server_port": 2053,
+      "tag": "欢乐时光-移动-2",
+      "type": "vless",
+      "uuid": "678ac895-92c2-4f27-a9d4-f1a89c5f5365",
+      "packet_encoding": "xudp",
+      "tls": {
+        "enabled": true,
+        "server_name": "mositr.freenods.sbs",
+        "insecure": true,
+        "utls": {
+          "enabled": true,
+          "fingerprint": "random"
+        }
+      },
+      "transport": {
+        "type": "ws",
+        "path": "/",
+        "headers": {
+          "Host": [
+            "mositr.freenods.sbs"
+          ]
+        },
+        "max_early_data": 2560,
+        "early_data_header_name": "Sec-WebSocket-Protocol"
+      }
+    },
+    {
+      "server": "104.20.27.133",
+      "server_port": 2096,
+      "tag": "欢乐时光-联通",
+      "type": "vless",
+      "uuid": "678ac895-92c2-4f27-a9d4-f1a89c5f5365",
+      "packet_encoding": "xudp",
+      "tls": {
+        "enabled": true,
+        "server_name": "mositr.freenods.sbs",
+        "insecure": true,
+        "utls": {
+          "enabled": true,
+          "fingerprint": "random"
+        }
+      },
+      "transport": {
+        "type": "ws",
+        "path": "/",
+        "headers": {
+          "Host": [
+            "mositr.freenods.sbs"
+          ]
+        },
+        "max_early_data": 2560,
+        "early_data_header_name": "Sec-WebSocket-Protocol"
+      }
+    },
+    {
+      "server": "104.20.27.224",
+      "server_port": 2096,
+      "tag": "欢乐时光-联通-1",
+      "type": "vless",
+      "uuid": "678ac895-92c2-4f27-a9d4-f1a89c5f5365",
+      "packet_encoding": "xudp",
+      "tls": {
+        "enabled": true,
+        "server_name": "mositr.freenods.sbs",
+        "insecure": true,
+        "utls": {
+          "enabled": true,
+          "fingerprint": "random"
+        }
+      },
+      "transport": {
+        "type": "ws",
+        "path": "/",
+        "headers": {
+          "Host": [
+            "mositr.freenods.sbs"
+          ]
+        },
+        "max_early_data": 2560,
+        "early_data_header_name": "Sec-WebSocket-Protocol"
+      }
+    },
+    {
+      "server": "162.159.58.157",
+      "server_port": 2053,
+      "tag": "欢乐时光-联通-2",
+      "type": "vless",
+      "uuid": "678ac895-92c2-4f27-a9d4-f1a89c5f5365",
+      "packet_encoding": "xudp",
+      "tls": {
+        "enabled": true,
+        "server_name": "mositr.freenods.sbs",
+        "insecure": true,
+        "utls": {
+          "enabled": true,
+          "fingerprint": "random"
+        }
+      },
+      "transport": {
+        "type": "ws",
+        "path": "/",
+        "headers": {
+          "Host": [
+            "mositr.freenods.sbs"
+          ]
+        },
+        "max_early_data": 2560,
+        "early_data_header_name": "Sec-WebSocket-Protocol"
+      }
+    },
+    {
+      "server": "2606:4700:f1:b487:d033:4d55:7b8a:f6ca",
+      "server_port": 2096,
+      "tag": "欢乐时光-IPV6",
+      "type": "vless",
+      "uuid": "678ac895-92c2-4f27-a9d4-f1a89c5f5365",
+      "packet_encoding": "xudp",
+      "tls": {
+        "enabled": true,
+        "server_name": "mositr.freenods.sbs",
+        "insecure": true,
+        "utls": {
+          "enabled": true,
+          "fingerprint": "random"
+        }
+      },
+      "transport": {
+        "type": "ws",
+        "path": "/",
+        "headers": {
+          "Host": [
+            "mositr.freenods.sbs"
+          ]
+        },
+        "max_early_data": 2560,
+        "early_data_header_name": "Sec-WebSocket-Protocol"
+      }
+    },
+    {
+      "server": "2400:cb00:2049:f0:c728:8a68:8ca5:5c13",
+      "server_port": 2096,
+      "tag": "欢乐时光-IPV6-1",
+      "type": "vless",
+      "uuid": "678ac895-92c2-4f27-a9d4-f1a89c5f5365",
+      "packet_encoding": "xudp",
+      "tls": {
+        "enabled": true,
+        "server_name": "mositr.freenods.sbs",
+        "insecure": true,
+        "utls": {
+          "enabled": true,
+          "fingerprint": "random"
+        }
+      },
+      "transport": {
+        "type": "ws",
+        "path": "/",
+        "headers": {
+          "Host": [
+            "mositr.freenods.sbs"
+          ]
+        },
+        "max_early_data": 2560,
+        "early_data_header_name": "Sec-WebSocket-Protocol"
+      }
+    },
+    {
+      "server": "2a06:98c1:3101:1d81:394e:c74f:976b:5ed9",
+      "server_port": 2096,
+      "tag": "欢乐时光-IPV6-2",
+      "type": "vless",
+      "uuid": "678ac895-92c2-4f27-a9d4-f1a89c5f5365",
+      "packet_encoding": "xudp",
+      "tls": {
+        "enabled": true,
+        "server_name": "mositr.freenods.sbs",
+        "insecure": true,
+        "utls": {
+          "enabled": true,
+          "fingerprint": "random"
+        }
+      },
+      "transport": {
+        "type": "ws",
+        "path": "/",
+        "headers": {
+          "Host": [
+            "mositr.freenods.sbs"
+          ]
+        },
+        "max_early_data": 2560,
+        "early_data_header_name": "Sec-WebSocket-Protocol"
+      }
+    },
+    {
+      "server": "47.238.35.50",
+      "server_port": 2053,
+      "tag": "欢乐时光-香港",
+      "type": "vless",
+      "uuid": "678ac895-92c2-4f27-a9d4-f1a89c5f5365",
+      "packet_encoding": "xudp",
+      "tls": {
+        "enabled": true,
+        "server_name": "mositr.freenods.sbs",
+        "insecure": true,
+        "utls": {
+          "enabled": true,
+          "fingerprint": "random"
+        }
+      },
+      "transport": {
+        "type": "ws",
+        "path": "/",
+        "headers": {
+          "Host": [
+            "mositr.freenods.sbs"
+          ]
+        },
+        "max_early_data": 2560,
+        "early_data_header_name": "Sec-WebSocket-Protocol"
+      }
+    },
+    {
+      "server": "47.76.37.57",
+      "server_port": 8443,
+      "tag": "欢乐时光-香港-1",
+      "type": "vless",
+      "uuid": "678ac895-92c2-4f27-a9d4-f1a89c5f5365",
+      "packet_encoding": "xudp",
+      "tls": {
+        "enabled": true,
+        "server_name": "mositr.freenods.sbs",
+        "insecure": true,
+        "utls": {
+          "enabled": true,
+          "fingerprint": "random"
+        }
+      },
+      "transport": {
+        "type": "ws",
+        "path": "/",
+        "headers": {
+          "Host": [
+            "mositr.freenods.sbs"
+          ]
+        },
+        "max_early_data": 2560,
+        "early_data_header_name": "Sec-WebSocket-Protocol"
+      }
+    },
+    {
+      "server": "47.76.49.246",
+      "server_port": 2096,
+      "tag": "欢乐时光-香港-2",
+      "type": "vless",
+      "uuid": "678ac895-92c2-4f27-a9d4-f1a89c5f5365",
+      "packet_encoding": "xudp",
+      "tls": {
+        "enabled": true,
+        "server_name": "mositr.freenods.sbs",
+        "insecure": true,
+        "utls": {
+          "enabled": true,
+          "fingerprint": "random"
+        }
+      },
+      "transport": {
+        "type": "ws",
+        "path": "/",
+        "headers": {
+          "Host": [
+            "mositr.freenods.sbs"
+          ]
+        },
+        "max_early_data": 2560,
+        "early_data_header_name": "Sec-WebSocket-Protocol"
+      }
+    },
+    {
+      "server": "47.76.192.24",
+      "server_port": 2053,
+      "tag": "欢乐时光-香港-3",
+      "type": "vless",
+      "uuid": "678ac895-92c2-4f27-a9d4-f1a89c5f5365",
+      "packet_encoding": "xudp",
+      "tls": {
+        "enabled": true,
+        "server_name": "mositr.freenods.sbs",
+        "insecure": true,
+        "utls": {
+          "enabled": true,
+          "fingerprint": "random"
+        }
+      },
+      "transport": {
+        "type": "ws",
+        "path": "/",
+        "headers": {
+          "Host": [
+            "mositr.freenods.sbs"
+          ]
+        },
+        "max_early_data": 2560,
+        "early_data_header_name": "Sec-WebSocket-Protocol"
+      }
+    },
+    {
+      "server": "47.76.33.40",
+      "server_port": 2087,
+      "tag": "欢乐时光-香港-4",
+      "type": "vless",
+      "uuid": "678ac895-92c2-4f27-a9d4-f1a89c5f5365",
+      "packet_encoding": "xudp",
+      "tls": {
+        "enabled": true,
+        "server_name": "mositr.freenods.sbs",
+        "insecure": true,
+        "utls": {
+          "enabled": true,
+          "fingerprint": "random"
+        }
+      },
+      "transport": {
+        "type": "ws",
+        "path": "/",
+        "headers": {
+          "Host": [
+            "mositr.freenods.sbs"
+          ]
+        },
+        "max_early_data": 2560,
+        "early_data_header_name": "Sec-WebSocket-Protocol"
+      }
+    },
+    {
+      "server": "47.236.237.90",
+      "server_port": 2083,
+      "tag": "欢乐时光-新加坡",
+      "type": "vless",
+      "uuid": "678ac895-92c2-4f27-a9d4-f1a89c5f5365",
+      "packet_encoding": "xudp",
+      "tls": {
+        "enabled": true,
+        "server_name": "mositr.freenods.sbs",
+        "insecure": true,
+        "utls": {
+          "enabled": true,
+          "fingerprint": "random"
+        }
+      },
+      "transport": {
+        "type": "ws",
+        "path": "/",
+        "headers": {
+          "Host": [
+            "mositr.freenods.sbs"
+          ]
+        },
+        "max_early_data": 2560,
+        "early_data_header_name": "Sec-WebSocket-Protocol"
+      }
+    },
+    {
+      "server": "47.236.189.92",
+      "server_port": 2096,
+      "tag": "欢乐时光-新加坡-1",
+      "type": "vless",
+      "uuid": "678ac895-92c2-4f27-a9d4-f1a89c5f5365",
+      "packet_encoding": "xudp",
+      "tls": {
+        "enabled": true,
+        "server_name": "mositr.freenods.sbs",
+        "insecure": true,
+        "utls": {
+          "enabled": true,
+          "fingerprint": "random"
+        }
+      },
+      "transport": {
+        "type": "ws",
+        "path": "/",
+        "headers": {
+          "Host": [
+            "mositr.freenods.sbs"
+          ]
+        },
+        "max_early_data": 2560,
+        "early_data_header_name": "Sec-WebSocket-Protocol"
+      }
+    },
+    {
+      "server": "47.236.145.85",
+      "server_port": 8443,
+      "tag": "欢乐时光-新加坡-2",
+      "type": "vless",
+      "uuid": "678ac895-92c2-4f27-a9d4-f1a89c5f5365",
+      "packet_encoding": "xudp",
+      "tls": {
+        "enabled": true,
+        "server_name": "mositr.freenods.sbs",
+        "insecure": true,
+        "utls": {
+          "enabled": true,
+          "fingerprint": "random"
+        }
+      },
+      "transport": {
+        "type": "ws",
+        "path": "/",
+        "headers": {
+          "Host": [
+            "mositr.freenods.sbs"
+          ]
+        },
+        "max_early_data": 2560,
+        "early_data_header_name": "Sec-WebSocket-Protocol"
+      }
+    },
+    {
+      "server": "47.236.253.41",
+      "server_port": 2083,
+      "tag": "欢乐时光-新加坡-3",
+      "type": "vless",
+      "uuid": "678ac895-92c2-4f27-a9d4-f1a89c5f5365",
+      "packet_encoding": "xudp",
+      "tls": {
+        "enabled": true,
+        "server_name": "mositr.freenods.sbs",
+        "insecure": true,
+        "utls": {
+          "enabled": true,
+          "fingerprint": "random"
+        }
+      },
+      "transport": {
+        "type": "ws",
+        "path": "/",
+        "headers": {
+          "Host": [
+            "mositr.freenods.sbs"
+          ]
+        },
+        "max_early_data": 2560,
+        "early_data_header_name": "Sec-WebSocket-Protocol"
+      }
+    },
+    {
+      "server": "47.236.165.25",
+      "server_port": 2096,
+      "tag": "欢乐时光-新加坡-4",
+      "type": "vless",
+      "uuid": "678ac895-92c2-4f27-a9d4-f1a89c5f5365",
+      "packet_encoding": "xudp",
+      "tls": {
+        "enabled": true,
+        "server_name": "mositr.freenods.sbs",
+        "insecure": true,
+        "utls": {
+          "enabled": true,
+          "fingerprint": "random"
+        }
+      },
+      "transport": {
+        "type": "ws",
+        "path": "/",
+        "headers": {
+          "Host": [
+            "mositr.freenods.sbs"
+          ]
+        },
+        "max_early_data": 2560,
+        "early_data_header_name": "Sec-WebSocket-Protocol"
+      }
+    },
+    {
+      "server": "140.238.1.158",
+      "server_port": 443,
+      "tag": "欢乐时光-韩国",
+      "type": "vless",
+      "uuid": "678ac895-92c2-4f27-a9d4-f1a89c5f5365",
+      "packet_encoding": "xudp",
+      "tls": {
+        "enabled": true,
+        "server_name": "mositr.freenods.sbs",
+        "insecure": true,
+        "utls": {
+          "enabled": true,
+          "fingerprint": "random"
+        }
+      },
+      "transport": {
+        "type": "ws",
+        "path": "/",
+        "headers": {
+          "Host": [
+            "mositr.freenods.sbs"
+          ]
+        },
+        "max_early_data": 2560,
+        "early_data_header_name": "Sec-WebSocket-Protocol"
+      }
+    },
+    {
+      "server": "13.125.218.78",
+      "server_port": 443,
+      "tag": "欢乐时光-韩国-1",
+      "type": "vless",
+      "uuid": "678ac895-92c2-4f27-a9d4-f1a89c5f5365",
+      "packet_encoding": "xudp",
+      "tls": {
+        "enabled": true,
+        "server_name": "mositr.freenods.sbs",
+        "insecure": true,
+        "utls": {
+          "enabled": true,
+          "fingerprint": "random"
+        }
+      },
+      "transport": {
+        "type": "ws",
+        "path": "/",
+        "headers": {
+          "Host": [
+            "mositr.freenods.sbs"
+          ]
+        },
+        "max_early_data": 2560,
+        "early_data_header_name": "Sec-WebSocket-Protocol"
+      }
+    },
+    {
+      "server": "146.56.99.255",
+      "server_port": 56789,
+      "tag": "欢乐时光-韩国-2",
+      "type": "vless",
+      "uuid": "678ac895-92c2-4f27-a9d4-f1a89c5f5365",
+      "packet_encoding": "xudp",
+      "tls": {
+        "enabled": true,
+        "server_name": "mositr.freenods.sbs",
+        "insecure": true,
+        "utls": {
+          "enabled": true,
+          "fingerprint": "random"
+        }
+      },
+      "transport": {
+        "type": "ws",
+        "path": "/",
+        "headers": {
+          "Host": [
+            "mositr.freenods.sbs"
+          ]
+        },
+        "max_early_data": 2560,
+        "early_data_header_name": "Sec-WebSocket-Protocol"
+      }
+    },
+    {
+      "server": "146.56.99.22",
+      "server_port": 20443,
+      "tag": "欢乐时光-韩国-3",
+      "type": "vless",
+      "uuid": "678ac895-92c2-4f27-a9d4-f1a89c5f5365",
+      "packet_encoding": "xudp",
+      "tls": {
+        "enabled": true,
+        "server_name": "mositr.freenods.sbs",
+        "insecure": true,
+        "utls": {
+          "enabled": true,
+          "fingerprint": "random"
+        }
+      },
+      "transport": {
+        "type": "ws",
+        "path": "/",
+        "headers": {
+          "Host": [
+            "mositr.freenods.sbs"
+          ]
+        },
+        "max_early_data": 2560,
+        "early_data_header_name": "Sec-WebSocket-Protocol"
+      }
+    },
+    {
+      "server": "158.180.68.56",
+      "server_port": 443,
+      "tag": "欢乐时光-韩国-4",
+      "type": "vless",
+      "uuid": "678ac895-92c2-4f27-a9d4-f1a89c5f5365",
+      "packet_encoding": "xudp",
+      "tls": {
+        "enabled": true,
+        "server_name": "mositr.freenods.sbs",
+        "insecure": true,
+        "utls": {
+          "enabled": true,
+          "fingerprint": "random"
+        }
+      },
+      "transport": {
+        "type": "ws",
+        "path": "/",
+        "headers": {
+          "Host": [
+            "mositr.freenods.sbs"
+          ]
+        },
+        "max_early_data": 2560,
+        "early_data_header_name": "Sec-WebSocket-Protocol"
+      }
+    },
+    {
+      "server": "59.124.90.154",
+      "server_port": 32495,
+      "tag": "欢乐时光-台湾",
+      "type": "vless",
+      "uuid": "678ac895-92c2-4f27-a9d4-f1a89c5f5365",
+      "packet_encoding": "xudp",
+      "tls": {
+        "enabled": true,
+        "server_name": "mositr.freenods.sbs",
+        "insecure": true,
+        "utls": {
+          "enabled": true,
+          "fingerprint": "random"
+        }
+      },
+      "transport": {
+        "type": "ws",
+        "path": "/",
+        "headers": {
+          "Host": [
+            "mositr.freenods.sbs"
+          ]
+        },
+        "max_early_data": 2560,
+        "early_data_header_name": "Sec-WebSocket-Protocol"
+      }
+    },
+    {
+      "server": "61.220.65.189",
+      "server_port": 27114,
+      "tag": "欢乐时光-台湾-1",
+      "type": "vless",
+      "uuid": "678ac895-92c2-4f27-a9d4-f1a89c5f5365",
+      "packet_encoding": "xudp",
+      "tls": {
+        "enabled": true,
+        "server_name": "mositr.freenods.sbs",
+        "insecure": true,
+        "utls": {
+          "enabled": true,
+          "fingerprint": "random"
+        }
+      },
+      "transport": {
+        "type": "ws",
+        "path": "/",
+        "headers": {
+          "Host": [
+            "mositr.freenods.sbs"
+          ]
+        },
+        "max_early_data": 2560,
+        "early_data_header_name": "Sec-WebSocket-Protocol"
+      }
+    },
+    {
+      "server": "211.22.243.164",
+      "server_port": 11772,
+      "tag": "欢乐时光-台湾-2",
+      "type": "vless",
+      "uuid": "678ac895-92c2-4f27-a9d4-f1a89c5f5365",
+      "packet_encoding": "xudp",
+      "tls": {
+        "enabled": true,
+        "server_name": "mositr.freenods.sbs",
+        "insecure": true,
+        "utls": {
+          "enabled": true,
+          "fingerprint": "random"
+        }
+      },
+      "transport": {
+        "type": "ws",
+        "path": "/",
+        "headers": {
+          "Host": [
+            "mositr.freenods.sbs"
+          ]
+        },
+        "max_early_data": 2560,
+        "early_data_header_name": "Sec-WebSocket-Protocol"
+      }
+    },
+    {
+      "server": "75.2.32.4",
+      "server_port": 443,
+      "tag": "欢乐时光-美国",
+      "type": "vless",
+      "uuid": "678ac895-92c2-4f27-a9d4-f1a89c5f5365",
+      "packet_encoding": "xudp",
+      "tls": {
+        "enabled": true,
+        "server_name": "mositr.freenods.sbs",
+        "insecure": true,
+        "utls": {
+          "enabled": true,
+          "fingerprint": "random"
+        }
+      },
+      "transport": {
+        "type": "ws",
+        "path": "/",
+        "headers": {
+          "Host": [
+            "mositr.freenods.sbs"
+          ]
+        },
+        "max_early_data": 2560,
+        "early_data_header_name": "Sec-WebSocket-Protocol"
+      }
+    },
+    {
+      "server": "99.83.209.185",
+      "server_port": 443,
+      "tag": "欢乐时光-美国-1",
+      "type": "vless",
+      "uuid": "678ac895-92c2-4f27-a9d4-f1a89c5f5365",
+      "packet_encoding": "xudp",
+      "tls": {
+        "enabled": true,
+        "server_name": "mositr.freenods.sbs",
+        "insecure": true,
+        "utls": {
+          "enabled": true,
+          "fingerprint": "random"
+        }
+      },
+      "transport": {
+        "type": "ws",
+        "path": "/",
+        "headers": {
+          "Host": [
+            "mositr.freenods.sbs"
+          ]
+        },
+        "max_early_data": 2560,
+        "early_data_header_name": "Sec-WebSocket-Protocol"
+      }
+    },
+    {
+      "server": "139.99.236.163",
+      "server_port": 443,
+      "tag": "欢乐时光-澳洲",
+      "type": "vless",
+      "uuid": "678ac895-92c2-4f27-a9d4-f1a89c5f5365",
+      "packet_encoding": "xudp",
+      "tls": {
+        "enabled": true,
+        "server_name": "mositr.freenods.sbs",
+        "insecure": true,
+        "utls": {
+          "enabled": true,
+          "fingerprint": "random"
+        }
+      },
+      "transport": {
+        "type": "ws",
+        "path": "/",
+        "headers": {
+          "Host": [
+            "mositr.freenods.sbs"
+          ]
+        },
+        "max_early_data": 2560,
+        "early_data_header_name": "Sec-WebSocket-Protocol"
+      }
+    },
+    {
+      "server": "192.9.177.204",
+      "server_port": 443,
+      "tag": "欢乐时光-澳洲-1",
+      "type": "vless",
+      "uuid": "678ac895-92c2-4f27-a9d4-f1a89c5f5365",
+      "packet_encoding": "xudp",
+      "tls": {
+        "enabled": true,
+        "server_name": "mositr.freenods.sbs",
+        "insecure": true,
+        "utls": {
+          "enabled": true,
+          "fingerprint": "random"
+        }
+      },
+      "transport": {
+        "type": "ws",
+        "path": "/",
+        "headers": {
+          "Host": [
+            "mositr.freenods.sbs"
+          ]
+        },
+        "max_early_data": 2560,
+        "early_data_header_name": "Sec-WebSocket-Protocol"
+      }
+    },
+    {
+      "server": "51.89.241.53",
+      "server_port": 8443,
+      "tag": "欢乐时光-英国",
+      "type": "vless",
+      "uuid": "678ac895-92c2-4f27-a9d4-f1a89c5f5365",
+      "packet_encoding": "xudp",
+      "tls": {
+        "enabled": true,
+        "server_name": "mositr.freenods.sbs",
+        "insecure": true,
+        "utls": {
+          "enabled": true,
+          "fingerprint": "random"
+        }
+      },
+      "transport": {
+        "type": "ws",
+        "path": "/",
+        "headers": {
+          "Host": [
+            "mositr.freenods.sbs"
+          ]
+        },
+        "max_early_data": 2560,
+        "early_data_header_name": "Sec-WebSocket-Protocol"
+      }
+    },
+    {
+      "server": "51.195.169.106",
+      "server_port": 8443,
+      "tag": "欢乐时光-英国-1",
+      "type": "vless",
+      "uuid": "678ac895-92c2-4f27-a9d4-f1a89c5f5365",
+      "packet_encoding": "xudp",
+      "tls": {
+        "enabled": true,
+        "server_name": "mositr.freenods.sbs",
+        "insecure": true,
+        "utls": {
+          "enabled": true,
+          "fingerprint": "random"
+        }
+      },
+      "transport": {
+        "type": "ws",
+        "path": "/",
+        "headers": {
+          "Host": [
+            "mositr.freenods.sbs"
+          ]
+        },
+        "max_early_data": 2560,
+        "early_data_header_name": "Sec-WebSocket-Protocol"
+      }
+    },
+    {
+      "server": "162.19.66.30",
+      "server_port": 8443,
+      "tag": "欢乐时光-法国",
+      "type": "vless",
+      "uuid": "678ac895-92c2-4f27-a9d4-f1a89c5f5365",
+      "packet_encoding": "xudp",
+      "tls": {
+        "enabled": true,
+        "server_name": "mositr.freenods.sbs",
+        "insecure": true,
+        "utls": {
+          "enabled": true,
+          "fingerprint": "random"
+        }
+      },
+      "transport": {
+        "type": "ws",
+        "path": "/",
+        "headers": {
+          "Host": [
+            "mositr.freenods.sbs"
+          ]
+        },
+        "max_early_data": 2560,
+        "early_data_header_name": "Sec-WebSocket-Protocol"
+      }
+    },
+    {
+      "server": "137.74.157.158",
+      "server_port": 8443,
+      "tag": "欢乐时光-法国-1",
+      "type": "vless",
+      "uuid": "678ac895-92c2-4f27-a9d4-f1a89c5f5365",
+      "packet_encoding": "xudp",
+      "tls": {
+        "enabled": true,
+        "server_name": "mositr.freenods.sbs",
+        "insecure": true,
+        "utls": {
+          "enabled": true,
+          "fingerprint": "random"
+        }
+      },
+      "transport": {
+        "type": "ws",
+        "path": "/",
+        "headers": {
+          "Host": [
+            "mositr.freenods.sbs"
+          ]
+        },
+        "max_early_data": 2560,
+        "early_data_header_name": "Sec-WebSocket-Protocol"
+      }
+    },
+    {
+      "server": "38.180.18.210",
+      "server_port": 2053,
+      "tag": "欢乐时光-荷兰",
+      "type": "vless",
+      "uuid": "678ac895-92c2-4f27-a9d4-f1a89c5f5365",
+      "packet_encoding": "xudp",
+      "tls": {
+        "enabled": true,
+        "server_name": "mositr.freenods.sbs",
+        "insecure": true,
+        "utls": {
+          "enabled": true,
+          "fingerprint": "random"
+        }
+      },
+      "transport": {
+        "type": "ws",
+        "path": "/",
+        "headers": {
+          "Host": [
+            "mositr.freenods.sbs"
+          ]
+        },
+        "max_early_data": 2560,
+        "early_data_header_name": "Sec-WebSocket-Protocol"
+      }
+    },
+    {
+      "server": "104.40.244.228",
+      "server_port": 443,
+      "tag": "欢乐时光-荷兰-1",
+      "type": "vless",
+      "uuid": "678ac895-92c2-4f27-a9d4-f1a89c5f5365",
+      "packet_encoding": "xudp",
+      "tls": {
+        "enabled": true,
+        "server_name": "mositr.freenods.sbs",
+        "insecure": true,
+        "utls": {
+          "enabled": true,
+          "fingerprint": "random"
+        }
+      },
+      "transport": {
+        "type": "ws",
+        "path": "/",
+        "headers": {
+          "Host": [
+            "mositr.freenods.sbs"
+          ]
+        },
+        "max_early_data": 2560,
+        "early_data_header_name": "Sec-WebSocket-Protocol"
+      }
+    },
+    {
+      "server": "146.59.34.218",
+      "server_port": 2053,
+      "tag": "欢乐时光-波兰",
+      "type": "vless",
+      "uuid": "678ac895-92c2-4f27-a9d4-f1a89c5f5365",
+      "packet_encoding": "xudp",
+      "tls": {
+        "enabled": true,
+        "server_name": "mositr.freenods.sbs",
+        "insecure": true,
+        "utls": {
+          "enabled": true,
+          "fingerprint": "random"
+        }
+      },
+      "transport": {
+        "type": "ws",
+        "path": "/",
+        "headers": {
+          "Host": [
+            "mositr.freenods.sbs"
+          ]
+        },
+        "max_early_data": 2560,
+        "early_data_header_name": "Sec-WebSocket-Protocol"
+      }
+    },
+    {
+      "server": "51.38.152.80",
+      "server_port": 2053,
+      "tag": "欢乐时光-波兰-1",
+      "type": "vless",
+      "uuid": "678ac895-92c2-4f27-a9d4-f1a89c5f5365",
+      "packet_encoding": "xudp",
+      "tls": {
+        "enabled": true,
+        "server_name": "mositr.freenods.sbs",
+        "insecure": true,
+        "utls": {
+          "enabled": true,
+          "fingerprint": "random"
+        }
+      },
+      "transport": {
+        "type": "ws",
+        "path": "/",
+        "headers": {
+          "Host": [
+            "mositr.freenods.sbs"
+          ]
+        },
+        "max_early_data": 2560,
+        "early_data_header_name": "Sec-WebSocket-Protocol"
+      }
+    },
+    {
+      "server": "65.109.184.193",
+      "server_port": 2087,
+      "tag": "欢乐时光-芬兰",
+      "type": "vless",
+      "uuid": "678ac895-92c2-4f27-a9d4-f1a89c5f5365",
+      "packet_encoding": "xudp",
+      "tls": {
+        "enabled": true,
+        "server_name": "mositr.freenods.sbs",
+        "insecure": true,
+        "utls": {
+          "enabled": true,
+          "fingerprint": "random"
+        }
+      },
+      "transport": {
+        "type": "ws",
+        "path": "/",
+        "headers": {
+          "Host": [
+            "mositr.freenods.sbs"
+          ]
+        },
+        "max_early_data": 2560,
+        "early_data_header_name": "Sec-WebSocket-Protocol"
+      }
+    },
+    {
+      "server": "95.217.182.38",
+      "server_port": 8443,
+      "tag": "欢乐时光-芬兰-1",
+      "type": "vless",
+      "uuid": "678ac895-92c2-4f27-a9d4-f1a89c5f5365",
+      "packet_encoding": "xudp",
+      "tls": {
+        "enabled": true,
+        "server_name": "mositr.freenods.sbs",
+        "insecure": true,
+        "utls": {
+          "enabled": true,
+          "fingerprint": "random"
+        }
+      },
+      "transport": {
+        "type": "ws",
+        "path": "/",
+        "headers": {
+          "Host": [
+            "mositr.freenods.sbs"
+          ]
+        },
+        "max_early_data": 2560,
+        "early_data_header_name": "Sec-WebSocket-Protocol"
+      }
+    },
+    {
+      "server": "51.20.109.213",
+      "server_port": 8443,
+      "tag": "欢乐时光-瑞典",
+      "type": "vless",
+      "uuid": "678ac895-92c2-4f27-a9d4-f1a89c5f5365",
+      "packet_encoding": "xudp",
+      "tls": {
+        "enabled": true,
+        "server_name": "mositr.freenods.sbs",
+        "insecure": true,
+        "utls": {
+          "enabled": true,
+          "fingerprint": "random"
+        }
+      },
+      "transport": {
+        "type": "ws",
+        "path": "/",
+        "headers": {
+          "Host": [
+            "mositr.freenods.sbs"
+          ]
+        },
+        "max_early_data": 2560,
+        "early_data_header_name": "Sec-WebSocket-Protocol"
+      }
+    },
+    {
+      "server": "13.48.245.19",
+      "server_port": 443,
+      "tag": "欢乐时光-瑞典-1",
+      "type": "vless",
+      "uuid": "678ac895-92c2-4f27-a9d4-f1a89c5f5365",
+      "packet_encoding": "xudp",
+      "tls": {
+        "enabled": true,
+        "server_name": "mositr.freenods.sbs",
+        "insecure": true,
+        "utls": {
+          "enabled": true,
+          "fingerprint": "random"
+        }
+      },
+      "transport": {
+        "type": "ws",
+        "path": "/",
+        "headers": {
+          "Host": [
+            "mositr.freenods.sbs"
+          ]
+        },
+        "max_early_data": 2560,
+        "early_data_header_name": "Sec-WebSocket-Protocol"
+      }
+    },
+    {
+      "server": "167.114.153.39",
+      "server_port": 8443,
+      "tag": "欢乐时光-加拿大",
+      "type": "vless",
+      "uuid": "678ac895-92c2-4f27-a9d4-f1a89c5f5365",
+      "packet_encoding": "xudp",
+      "tls": {
+        "enabled": true,
+        "server_name": "mositr.freenods.sbs",
+        "insecure": true,
+        "utls": {
+          "enabled": true,
+          "fingerprint": "random"
+        }
+      },
+      "transport": {
+        "type": "ws",
+        "path": "/",
+        "headers": {
+          "Host": [
+            "mositr.freenods.sbs"
+          ]
+        },
+        "max_early_data": 2560,
+        "early_data_header_name": "Sec-WebSocket-Protocol"
+      }
+    },
+    {
+      "server": "108.174.61.165",
+      "server_port": 8443,
+      "tag": "欢乐时光-加拿大-1",
+      "type": "vless",
+      "uuid": "678ac895-92c2-4f27-a9d4-f1a89c5f5365",
+      "packet_encoding": "xudp",
+      "tls": {
+        "enabled": true,
+        "server_name": "mositr.freenods.sbs",
+        "insecure": true,
+        "utls": {
+          "enabled": true,
+          "fingerprint": "random"
+        }
+      },
+      "transport": {
+        "type": "ws",
+        "path": "/",
+        "headers": {
+          "Host": [
+            "mositr.freenods.sbs"
+          ]
+        },
+        "max_early_data": 2560,
+        "early_data_header_name": "Sec-WebSocket-Protocol"
+      }
+    },
+    {
+      "server": "91.107.148.215",
+      "server_port": 2053,
+      "tag": "欢乐时光-德国",
+      "type": "vless",
+      "uuid": "678ac895-92c2-4f27-a9d4-f1a89c5f5365",
+      "packet_encoding": "xudp",
+      "tls": {
+        "enabled": true,
+        "server_name": "mositr.freenods.sbs",
+        "insecure": true,
+        "utls": {
+          "enabled": true,
+          "fingerprint": "random"
+        }
+      },
+      "transport": {
+        "type": "ws",
+        "path": "/",
+        "headers": {
+          "Host": [
+            "mositr.freenods.sbs"
+          ]
+        },
+        "max_early_data": 2560,
+        "early_data_header_name": "Sec-WebSocket-Protocol"
+      }
+    },
+    {
+      "server": "128.140.124.244",
+      "server_port": 8443,
+      "tag": "欢乐时光-德国-1",
+      "type": "vless",
+      "uuid": "678ac895-92c2-4f27-a9d4-f1a89c5f5365",
+      "packet_encoding": "xudp",
+      "tls": {
+        "enabled": true,
+        "server_name": "mositr.freenods.sbs",
+        "insecure": true,
+        "utls": {
+          "enabled": true,
+          "fingerprint": "random"
+        }
+      },
+      "transport": {
+        "type": "ws",
+        "path": "/",
+        "headers": {
+          "Host": [
+            "mositr.freenods.sbs"
+          ]
+        },
+        "max_early_data": 2560,
+        "early_data_header_name": "Sec-WebSocket-Protocol"
+      }
+    },
+    {
+      "server": "52.49.41.80",
+      "server_port": 2053,
+      "tag": "欢乐时光-都柏林",
+      "type": "vless",
+      "uuid": "678ac895-92c2-4f27-a9d4-f1a89c5f5365",
+      "packet_encoding": "xudp",
+      "tls": {
+        "enabled": true,
+        "server_name": "mositr.freenods.sbs",
+        "insecure": true,
+        "utls": {
+          "enabled": true,
+          "fingerprint": "random"
+        }
+      },
+      "transport": {
+        "type": "ws",
+        "path": "/",
+        "headers": {
+          "Host": [
+            "mositr.freenods.sbs"
+          ]
+        },
+        "max_early_data": 2560,
+        "early_data_header_name": "Sec-WebSocket-Protocol"
+      }
+    },
+    {
+      "server": "54.194.162.247",
+      "server_port": 443,
+      "tag": "欢乐时光-都柏林-1",
+      "type": "vless",
+      "uuid": "678ac895-92c2-4f27-a9d4-f1a89c5f5365",
+      "packet_encoding": "xudp",
+      "tls": {
+        "enabled": true,
+        "server_name": "mositr.freenods.sbs",
+        "insecure": true,
+        "utls": {
+          "enabled": true,
+          "fingerprint": "random"
+        }
+      },
+      "transport": {
+        "type": "ws",
+        "path": "/",
+        "headers": {
+          "Host": [
+            "mositr.freenods.sbs"
+          ]
+        },
+        "max_early_data": 2560,
+        "early_data_header_name": "Sec-WebSocket-Protocol"
+      }
+    },
+    {
+      "type": "urltest",
+      "tag": "urltest_out",
+      "url": "https://www.gstatic.com/generate_204",
+      "interval": "8h",
+      "interrupt_exist_connections": false,
+      "idle_timeout": "8h",
+      "outbounds": [
+        "新加坡SGP01-高速-专线",
+        "马来西亚01-高速-专线",
+        "台湾02-trojan",
+        "日本JP02-高速-稳定",
+        "套餐到期：2024-08-13",
+        "台湾TW03-高速-专线",
+        "台湾TW04-高速-稳定",
+        "台湾05-高速-稳定",
+        "美国UA04-高速-稳定",
+        "新加坡SGP04-高速-稳定",
+        "印度01-高速-稳定",
+        "日本JP01-高速-专线",
+        "马来西亚03-高速-专线",
+        "马来西亚04-高速-稳定",
+        "日本JP04-高速-稳定",
+        "香港HK01-高速-专线",
+        "德国02-高速-稳定",
+        "韩国ROK02-高速-稳定",
+        "英国01-高速-专线",
+        "韩国ROK01-高速-专线",
+        "台湾01-trojan",
+        "剩余流量：20 GB",
+        "香港HK02-高速-稳定",
+        "澳大利亚02-高速-稳定",
+        "美国UA03-高速-稳定",
+        "澳大利亚01-高速-专线",
+        "美国UA02-高速-稳定",
+        "美国UA01-高速-专线",
+        "德国01-高速-专线",
+        "加拿大01-高速-稳定",
+        "菲律宾01-trojan",
+        "英国02-高速-稳定",
+        "法国01-高速-专线",
+        "瑞典01-高速-稳定",
+        "法国02-高速-稳定",
+        "越南01-trojan",
+        "迪拜01-trojan",
+        "巴西01-trojan",
+        "Tg里的欢乐时光",
+        "收费就说明被骗了",
+        "关注频道@mianfeicf",
+        "欢乐时光-移动",
+        "欢乐时光-移动-1",
+        "欢乐时光-移动-2",
+        "欢乐时光-联通",
+        "欢乐时光-联通-1",
+        "欢乐时光-联通-2",
+        "欢乐时光-IPV6",
+        "欢乐时光-IPV6-1",
+        "欢乐时光-IPV6-2",
+        "欢乐时光-香港",
+        "欢乐时光-香港-1",
+        "欢乐时光-香港-2",
+        "欢乐时光-香港-3",
+        "欢乐时光-香港-4",
+        "欢乐时光-新加坡",
+        "欢乐时光-新加坡-1",
+        "欢乐时光-新加坡-2",
+        "欢乐时光-新加坡-3",
+        "欢乐时光-新加坡-4",
+        "欢乐时光-韩国",
+        "欢乐时光-韩国-1",
+        "欢乐时光-韩国-2",
+        "欢乐时光-韩国-3",
+        "欢乐时光-韩国-4",
+        "欢乐时光-台湾",
+        "欢乐时光-台湾-1",
+        "欢乐时光-台湾-2",
+        "欢乐时光-美国",
+        "欢乐时光-美国-1",
+        "欢乐时光-澳洲",
+        "欢乐时光-澳洲-1",
+        "欢乐时光-英国",
+        "欢乐时光-英国-1",
+        "欢乐时光-法国",
+        "欢乐时光-法国-1",
+        "欢乐时光-荷兰",
+        "欢乐时光-荷兰-1",
+        "欢乐时光-波兰",
+        "欢乐时光-波兰-1",
+        "欢乐时光-芬兰",
+        "欢乐时光-芬兰-1",
+        "欢乐时光-瑞典",
+        "欢乐时光-瑞典-1",
+        "欢乐时光-加拿大",
+        "欢乐时光-加拿大-1",
+        "欢乐时光-德国",
+        "欢乐时光-德国-1",
+        "欢乐时光-都柏林",
+        "欢乐时光-都柏林-1"
+      ]
+    },
+    {
+      "type": "direct",
+      "tag": "direct_out"
+    },
+    {
+      "type": "block",
+      "tag": "block_out"
+    },
+    {
+      "type": "dns",
+      "tag": "dns_out"
+    }
+  ],
+  "route": {
+    "final": "urltest_out",
+    "find_process": true,
+    "auto_detect_interface": true,
+    "rules": [
+      {
+        "inbound": [
+          "mixed_in_direct"
+        ],
+        "outbound": "direct_out"
+      },
+      {
+        "inbound": [
+          "mixed_in_proxy"
+        ],
+        "outbound": "urltest_out"
+      },
+      {
+        "protocol": "dns",
+        "outbound": "dns_out"
+      },
+      {
+        "domain_suffix": [
+          "ingest.sentry.io",
+          "karing.app",
+          "yacd.metacubex.one"
+        ],
+        "outbound": "direct_out"
+      },
+      {
+        "domain_suffix": [
+          "speed.cloudflare.com"
+        ],
+        "outbound": "urltest_out"
+      },
+      {
+        "rule_set": [
+          "geosite:cn"
+        ],
+        "outbound": "direct_out"
+      },
+      {
+        "rule_set": [
+          "geoip:cn"
+        ],
+        "outbound": "direct_out"
+      },
+      {
+        "ip_is_private": true,
+        "outbound": "direct_out"
+      }
+    ],
+    "rule_set": [
+      {
+        "tag": "geosite:cn",
+        "type": "remote",
+        "format": "binary",
+        "url": "https://github.com/KaringX/karing-ruleset/raw/sing/geo/geosite/cn.srs",
+        "download_detour": "urltest_out"
+      },
+      {
+        "tag": "geoip:cn",
+        "type": "remote",
+        "format": "binary",
+        "url": "https://github.com/KaringX/karing-ruleset/raw/sing/geo/geoip/cn.srs",
+        "download_detour": "urltest_out"
+      }
+    ]
+  }
+}
