@@ -372,6 +372,7 @@ CCTV17,http://43.136.119.99/cqyx.php?id=cctv17
 
 
 台湾频道,#genre#
+Now星影台,http://ali.hlspull.yximgs.com/live/pa_chong_bo_Now_Superstars.flv
 美亚C+,http://ottproxy2.ist.ooo/livehls/MOB-U1-NO/03.m3u8
 天良,http://60.248.91.20:8000/main
 AIWAN+,http://211.72.65.236:8538/.m3u8
