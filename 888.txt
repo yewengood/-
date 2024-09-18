@@ -372,7 +372,6 @@ CCTV17,http://43.136.119.99/cqyx.php?id=cctv17
 
 
 台湾频道,#genre#
-Now星影台,http://ali.hlspull.yximgs.com/live/pa_chong_bo_Now_Superstars.flv
 美亚C+,http://ottproxy2.ist.ooo/livehls/MOB-U1-NO/03.m3u8
 天良,http://60.248.91.20:8000/main
 AIWAN+,http://211.72.65.236:8538/.m3u8
@@ -1094,57 +1093,7 @@ IPTV相声小品,http://lzjzyh.xyz:8888/rtp/239.20.0.229:2256
 岭南戏曲高清,http://mryx.fun:1025/udp/239.11.0.180:1025
 现代教育高清,http://mryx.fun:1025/udp/239.11.0.181:1025
 
-电信组播#genre#
-广东卫视高清,http://jt.zorua.cn:8787/udp/239.77.1.19:5146
-广东卫视高清,http://jt.zorua.cn:8787/udp/239.77.1.152:5146
-广东卫视高清,http://jt.zorua.cn:8787/udp/239.77.0.84:5146
-广东卫视超清,http://jt.zorua.cn:8787/udp/239.77.0.166:5146
-广东珠江高清,http://jt.zorua.cn:8787/udp/239.77.0.1:5146
-广东珠江超清,http://jt.zorua.cn:8787/udp/239.77.0.114:5146
-广东新闻高清,http://jt.zorua.cn:8787/udp/239.77.0.173:5146
-广东民生高清,http://jt.zorua.cn:8787/udp/239.77.0.225:5146
-广东体育高清-测试,http://jt.zorua.cn:8787/udp/239.77.0.112:5146
-广东体育超清,http://jt.zorua.cn:8787/udp/239.77.0.168:5146
-经济科教高清,http://jt.zorua.cn:8787/udp/239.77.0.85:5146
-经济科教超清,http://jt.zorua.cn:8787/udp/239.77.0.167:5146
-大湾区卫视高清,http://jt.zorua.cn:8787/udp/239.77.0.215:5146
-广东影视高清,http://jt.zorua.cn:8787/udp/239.77.0.217:5146
-广东少儿高清,http://jt.zorua.cn:8787/udp/239.77.0.250:5146
-嘉佳卡通高清,http://jt.zorua.cn:8787/udp/239.77.0.179:5146
-南方购物-精选,http://jt.zorua.cn:8787/udp/239.77.0.19:5146
-南方购物,http://jt.zorua.cn:8787/udp/239.77.0.22:5146
-广东综艺 4K50p,http://jt.zorua.cn:8787/udp/239.77.1.236:5146
-广州综合高清,http://jt.zorua.cn:8787/udp/239.253.43.71:5146
-广州新闻高清,http://jt.zorua.cn:8787/udp/239.253.43.72:5146
-广州影视高清,http://jt.zorua.cn:8787/udp/239.253.43.73:5146
-广州法治高清,http://jt.zorua.cn:8787/udp/239.253.43.74:5146
-南国都市4K,http://jt.zorua.cn:8787/udp/239.253.43.99:5146
 
-广州电信#genre#
-广东卫视高清,http://gs.jianghua.fun:8888/udp/239.77.1.19:5146
-广东卫视高清,http://gs.jianghua.fun:8888/udp/239.77.1.152:5146
-广东卫视高清,http://gs.jianghua.fun:8888/udp/239.77.0.84:5146
-广东卫视超清,http://gs.jianghua.fun:8888/udp/239.77.0.166:5146
-广东珠江高清,http://gs.jianghua.fun:8888/udp/239.77.0.1:5146
-广东珠江超清,http://gs.jianghua.fun:8888/udp/239.77.0.114:5146
-广东新闻高清,http://gs.jianghua.fun:8888/udp/239.77.0.173:5146
-广东民生高清,http://gs.jianghua.fun:8888/udp/239.77.0.225:5146
-广东体育高清-测试,http://gs.jianghua.fun:8888/udp/239.77.0.112:5146
-广东体育超清,http://gs.jianghua.fun:8888/udp/239.77.0.168:5146
-经济科教高清,http://gs.jianghua.fun:8888/udp/239.77.0.85:5146
-经济科教超清,http://gs.jianghua.fun:8888/udp/239.77.0.167:5146
-大湾区卫视高清,http://gs.jianghua.fun:8888/udp/239.77.0.215:5146
-广东影视高清,http://gs.jianghua.fun:8888/udp/239.77.0.217:5146
-广东少儿高清,http://gs.jianghua.fun:8888/udp/239.77.0.250:5146
-嘉佳卡通高清,http://gs.jianghua.fun:8888/udp/239.77.0.179:5146
-南方购物-精选,http://gs.jianghua.fun:8888/udp/239.77.0.19:5146
-南方购物,http://gs.jianghua.fun:8888/udp/239.77.0.22:5146
-广东综艺 4K50p,http://gs.jianghua.fun:8888/udp/239.77.1.236:5146
-广州综合高清,http://gs.jianghua.fun:8888/udp/239.253.43.71:5146
-广州新闻高清,http://gs.jianghua.fun:8888/udp/239.253.43.72:5146
-广州影视高清,http://gs.jianghua.fun:8888/udp/239.253.43.73:5146
-广州法治高清,http://gs.jianghua.fun:8888/udp/239.253.43.74:5146
-南国都市4K,http://gs.jianghua.fun:8888/udp/239.253.43.99:5146
 
 
 
