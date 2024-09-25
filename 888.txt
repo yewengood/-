@@ -35,9 +35,9 @@
 明珠台,http://php.jdshipin.com/TVOD/iptv.php?id=mzt
 华丽翡翠台,http://php.jdshipin.com/TVOD/iptv.php?id=huali
 TVB星河,http://php.jdshipin.com/TVOD/iptv.php?id=xinghe
-HOY TV,http://php.jdshipin.com/TVOD/iptv.php?id=hoytv
+HOY-TV,http://php.jdshipin.com/TVOD/iptv.php?id=hoytv
 千禧经典台,http://php.jdshipin.com/TVOD/iptv.php?id=tvbc
-Astro AOD,http://php.jdshipin.com/TVOD/iptv.php?id=aod
+Astro-AOD,http://php.jdshipin.com/TVOD/iptv.php?id=aod
 重温经典,http://php.jdshipin.com/TVOD/iptv.php?id=cwjd
 重温经典,http://ali.hlspull.yximgs.com/live/awei_cwjd.flv
 广东珠江频道,http://43.136.119.99/douyin.php?id=gdtvzjpd
