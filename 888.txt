@@ -44,6 +44,7 @@ HOY-TV,http://php.jdshipin.com/TVOD/iptv.php?id=hoytv
 千禧经典台,http://php.jdshipin.com/TVOD/iptv.php?id=tvbc
 Astro-AOD,http://php.jdshipin.com/TVOD/iptv.php?id=aod
 广东珠江频道,http://43.136.119.99/douyin.php?id=gdtvzjpd
+重温经典,http://tv.dlwmkj.com/php2021/bfy.php?id=635
 星光视界,http://ali.hlspull.yximgs.com/live/zxcvbnm9852.flv
 金马影院,http://pull.kktv8.com/livekktv/128600025.flv 
 央视频道,#genre#
