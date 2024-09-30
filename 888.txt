@@ -47,10 +47,6 @@ Astro-AOD,http://php.jdshipin.com/TVOD/iptv.php?id=aod
 广东珠江频道,http://43.136.119.99/douyin.php?id=gdtvzjpd
 央视频道,#genre#
 
-
-CCTV-4K,http://43.136.119.99/cqyx.php?id=cctv4k
-CCTV16-4K,http://43.136.119.99/cqyx.php?id=cctv16_4k
-
 CCTV1-高码,http://49.234.186.50:35455/ysptp/cctv1.m3u8
 CCTV1,http://49.234.186.50:35455/itv/6000000001000029752.m3u8?cdn=wasusyt
 CCTV1-50-FPS,http://49.234.186.50:35455/itv/5000000004000002226.m3u8?cdn=bestzb
@@ -208,26 +204,6 @@ CCTV8k_36m,http://1.14.19.228:35455/ysptp/cctv8k_36m.m3u8
 CCTV8k_120m,http://1.14.19.228:35455/ysptp/cctv8k_120m.m3u8
 中国教育电视台-1,http://1.14.19.228:35455/itv/5000000002000002652.m3u8?cdn=bestzb
 中国教育电视台-4,http://1.14.19.228:35455/itv/5000000011000031126.m3u8?cdn=bestzb
-
-CCTV1,http://43.136.119.99/cqyx.php?id=cctv1
-CCTV2,http://43.136.119.99/cqyx.php?id=cctv2
-CCTV3,http://43.136.119.99/cqyx.php?id=cctv3
-CCTV4,http://43.136.119.99/cqyx.php?id=cctv4
-CCTV5,http://43.136.119.99/cqyx.php?id=cctv5
-CCTV5+,http://43.136.119.99/cqyx.php?id=cctv5p
-CCTV6,http://43.136.119.99/cqyx.php?id=cctv6
-CCTV7,http://43.136.119.99/cqyx.php?id=cctv7
-CCTV8,http://43.136.119.99/cqyx.php?id=cctv8
-CCTV9,http://43.136.119.99/cqyx.php?id=cctv9
-CCTV10,http://43.136.119.99/cqyx.php?id=cctv10
-CCTV11,http://43.136.119.99/cqyx.php?id=cctv11
-CCTV12,http://43.136.119.99/cqyx.php?id=cctv12
-CCTV13,http://43.136.119.99/cqyx.php?id=cctv13
-CCTV14,http://43.136.119.99/cqyx.php?id=cctv14
-CCTV15,http://43.136.119.99/cqyx.php?id=cctv15
-CCTV16,http://43.136.119.99/cqyx.php?id=cctv16
-CCTV17,http://43.136.119.99/cqyx.php?id=cctv17
-
 
 
 卫视频道,#genre#
