@@ -1404,6 +1404,29 @@ A计划续集,https://vip.ffzy-play7.com/20221115/4412_bf4bdaf6/index.m3u8
 密宗威龙,https://vip.ffzy-play7.com/20221112/3607_e49d9e93/index.m3u8
 羞羞鬼,https://vip.ffzy-play7.com/20221112/3366_3a1a794c/index.m3u8
 
-
-
+不失效源,#genre#
+广东珠江高清,https://stream1.freetv.fun/yan-dong-zhu-jiang-11.m3u8
+广东珠江高清,https://stream1.freetv.fun/yan-dong-zhu-jiang-21.m3u8
+CCTV1,http://eastscreen.tv/ooooo.php?id=CCTV1HD
+CCTV2,http://eastscreen.tv/ooooo.php?id=CCTV2HD
+CCTV3,http://eastscreen.tv/ooooo.php?id=CCTV3HD
+CCTV5,http://eastscreen.tv/ooooo.php?id=CCTV5HD
+CCTV5+,http://eastscreen.tv/ooooo.php?id=CCTV5+HD
+CCTV6,http://eastscreen.tv/ooooo.php?id=CCTV6HD
+CCTV7,http://eastscreen.tv/ooooo.php?id=CCTV7HD
+CCTV8,http://eastscreen.tv/ooooo.php?id=CCTV8HD
+CCTV9,http://eastscreen.tv/ooooo.php?id=CCTV9HD
+CCTV13,http://eastscreen.tv/ooooo.php?id=CCTV13HD
+CCTV16,http://eastscreen.tv/ooooo.php?id=CCTV16HD
+CCTV16-4k,http://eastscreen.tv/ooooo.php?id=CCTV16-4k
+湖南卫视,http://eastscreen.tv/ooooo.php?id=hnwshd
+浙江卫视,http://eastscreen.tv/ooooo.php?id=zjwshd
+东方卫视,http://eastscreen.tv/ooooo.php?id=dfwshd
+广东卫视,http://eastscreen.tv/ooooo.php?id=gdwshd
+CHC家庭电影,http://eastscreen.tv/ooooo.php?id=chcjt
+CHC动作电影,http://eastscreen.tv/ooooo.php?id=chcdz
+CHD高清电影,http://eastscreen.tv/ooooo.php?id=chchd
+求索纪录,http://eastscreen.tv/ooooo.php?id=qsjl
+凤凰中文,http://eastscreen.tv/ooooo.php?id=fhws
+凤凰资讯,http://eastscreen.tv/ooooo.php?id=fhzx
 
