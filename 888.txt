@@ -1,5 +1,5 @@
 广东频道,#genre#
-开心影院,http://pull.kktv8.com/livekktv/128600025.flv
+
 广东卫视高清,http://43.136.119.99/zb0.php?id=239.77.1.19:5146
 广东卫视高清,http://43.136.119.99/zb0.php?id=239.77.1.152:5146
 广东卫视高清,http://43.136.119.99/zb0.php?id=239.77.0.84:5146
@@ -408,7 +408,6 @@ YY電影-歐美動作電影,http://43.136.119.99/yy.php?id=1382745089
 吃米滴虫(粤语）,http://diyp.zxxoo.work/douyu/5033502
 粤语电影,http://diyp.zxxoo.work/douyu/1226741#http://diyp.zxxoo.work/douyu/1226741
 神乐电影（粤语）,http://diyp.zxxoo.work/douyu/6566671
-粤语电影极清,https://pullhw.zhaoyangyang.cn/live/8726106.flv?auth_info=TdTW44Tm98MJbW%2FKohRrFY01PQP07rEA%2F9edVTeweOk%3D.6951654758457745353376437657496b#https://pullhw.zhaoyangyang.cn/live/8726106.flv?auth_info=TdTW44Tm98MJbW%2FKohRrFY01PQP07rEA%2F9edVTeweOk%3D.6951654758457745353376437657496b
 周星驰电影,http://diyp.zxxoo.work/douyu/3637778
 麓山迷踪㊣版,http://diyp.zxxoo.work/douyu/4505431
 瑶瑶恐怖㊣版,http://diyp.zxxoo.work/douyu/2935323
