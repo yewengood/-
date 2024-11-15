@@ -1,6 +1,6 @@
 广东频道,#genre#
 
-
+广东珠江高清,https://stream1.freetv.fun/yan-dong-zhu-jiang-4.ctv
 南国都市4K,http://php.jdshipin.com/TVOD/iptv.php?id=ngds4k
 北京IPTV4K,http://php.jdshipin.com/TVOD/iptv.php?id=bj4k
 广东珠江高清,http://cdn6.1678520.xyz/live/live1.1.php?id=gdzj
