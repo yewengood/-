@@ -39,8 +39,20 @@ case $city_choice in
         stream="rtp/239.3.1.236:2000"
         ;;
 
-    0)
-@@ -64,77 +60,70 @@
+ 0)
+        # 如果选择是“全部选项”，则逐个处理每个选项
+        for option in {1..19}; do
+          bash  "$0" $option  # 假定fofa.sh是当前脚本的文件名，$option将递归调用
+        done
+        exit 0
+        ;;
+
+    *)
+        echo "错误：无效的选择。"
+        exit 1
+        ;;
+esac
+
 # 使用城市名作为默认文件名，格式为 CityName.ip
 ipfile="ip/${city}.ip"
 only_good_ip="ip/${city}.onlygood.ip"
