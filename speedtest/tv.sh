@@ -33,10 +33,12 @@ case $city_choice in
    1)
         city="Sichuan"
         stream="udp/239.93.42.33:5140"
+        channel_key="四川电信"
         ;;
     2)
         city="Beijing"
         stream="rtp/239.3.1.236:2000"
+        channel_key="北京联通"
         ;;
 
  0)
