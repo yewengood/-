@@ -56,7 +56,7 @@ case $city_choice in
 esac
 
 # 使用城市名作为默认文件名，格式为 CityName.ip
-ipfile="ip/${city}.ip"
+ipfile="ip/Sichuan.ip"
 only_good_ip="ip/${city}.onlygood.ip"
 
 # 遍历文件 A 中的每个 IP 地址
