@@ -31,11 +31,11 @@ fi
 case $city_choice in
 
    1)
-        city="Sichuan_333"
+        city="Sichuan"
         stream="udp/239.93.42.33:5140"
         ;;
     2)
-        city="Beijing_liantong_145"
+        city="Beijing"
         stream="rtp/239.3.1.236:2000"
         ;;
 
