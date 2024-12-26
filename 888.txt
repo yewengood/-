@@ -1,6 +1,6 @@
 
 央卫,#genre#
-美亚电影台,https://iptv.vip-tptv.xyz/tv.php?id=1
+美亚电影台(台),https://iptv.vip-tptv.xyz/tv.php?id=1
 天映频道,https://iptv.vip-tptv.xyz/tv.php?id=2
 纬来电影台,https://iptv.vip-tptv.xyz/tv.php?id=3
 东森电影台,https://iptv.vip-tptv.xyz/tv.php?id=4
