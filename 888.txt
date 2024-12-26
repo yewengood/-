@@ -1,5 +1,28 @@
 
 央卫,#genre#
+美亚电影台,https://iptv.vip-tptv.xyz/tv.php?id=1
+天映频道,https://iptv.vip-tptv.xyz/tv.php?id=2
+纬来电影台,https://iptv.vip-tptv.xyz/tv.php?id=3
+东森电影台,https://iptv.vip-tptv.xyz/tv.php?id=4
+东森洋片台,https://iptv.vip-tptv.xyz/tv.php?id=5
+纬来日本台,https://iptv.vip-tptv.xyz/tv.php?id=6
+纬来体育台,https://iptv.vip-tptv.xyz/tv.php?id=7
+东森幼幼台,https://iptv.vip-tptv.xyz/tv.php?id=8
+爱尔达影剧台,https://iptv.vip-tptv.xyz/tv.php?id=9
+i-Fun 動漫台,https://iptv.vip-tptv.xyz/litv.php?id=litv-ftv15
+Astro QJ,https://iptv.vip-tptv.xyz/tv.php?id=12
+Astro AEC,https://iptv.vip-tptv.xyz/tv.php?id=17
+Astro AOD 511 SG,https://iptv.vip-tptv.xyz/tv.php?id=22
+Astro AOD HD SG,https://iptv.vip-tptv.xyz/tv.php?id=23
+Astro Supersports 1,https://iptv.vip-tptv.xyz/tv.php?id=25
+Astro Supersports 2,https://iptv.vip-tptv.xyz/tv.php?id=26
+Astro Supersports 3,https://iptv.vip-tptv.xyz/tv.php?id=27
+Astro Supersports 4,https://iptv.vip-tptv.xyz/tv.php?id=28
+Astro Supersports 5,https://iptv.vip-tptv.xyz/tv.php?id=29
+One SG,https://iptv.vip-tptv.xyz/tv.php?id=18
+天映频道SG,https://iptv.vip-tptv.xyz/tv.php?id=11
+TVB星河台 L-HL,https://iptv.vip-tptv.xyz/tv.php?id=14
+TVB星河台 HK-HL,https://iptv.vip-tptv.xyz/tv.php?id=21
 周星驰,https://live.metshop.top/huya/11342412
 刘德华,https://live.metshop.top/huya/11342424
 1905极限反转,http://php.jdshipin.com/1905.php?id=1905dy
