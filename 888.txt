@@ -1,4 +1,28 @@
 
+不失效源,#genre#
+CCTV1,http://eastscreen.tv/ooooo.php?id=CCTV1HD
+CCTV2,http://eastscreen.tv/ooooo.php?id=CCTV2HD
+CCTV3,http://eastscreen.tv/ooooo.php?id=CCTV3HD
+CCTV5,http://eastscreen.tv/ooooo.php?id=CCTV5HD
+CCTV5+,http://eastscreen.tv/ooooo.php?id=CCTV5+HD
+CCTV6,http://eastscreen.tv/ooooo.php?id=CCTV6HD
+CCTV7,http://eastscreen.tv/ooooo.php?id=CCTV7HD
+CCTV8,http://eastscreen.tv/ooooo.php?id=CCTV8HD
+CCTV9,http://eastscreen.tv/ooooo.php?id=CCTV9HD
+CCTV13,http://eastscreen.tv/ooooo.php?id=CCTV13HD
+CCTV16,http://eastscreen.tv/ooooo.php?id=CCTV16HD
+CCTV16-4k,http://eastscreen.tv/ooooo.php?id=CCTV16-4k
+湖南卫视,http://eastscreen.tv/ooooo.php?id=hnwshd
+浙江卫视,http://eastscreen.tv/ooooo.php?id=zjwshd
+东方卫视,http://eastscreen.tv/ooooo.php?id=dfwshd
+广东卫视,http://eastscreen.tv/ooooo.php?id=gdwshd
+CHC家庭电影,http://eastscreen.tv/ooooo.php?id=chcjt
+CHC动作电影,http://eastscreen.tv/ooooo.php?id=chcdz
+CHD高清电影,http://eastscreen.tv/ooooo.php?id=chchd
+求索纪录,http://eastscreen.tv/ooooo.php?id=qsjl
+凤凰中文,http://eastscreen.tv/ooooo.php?id=fhws
+凤凰资讯,http://eastscreen.tv/ooooo.php?id=fhzx
+
 央卫,#genre#
 广东珠江高清,http://cdn2.132.us.kg/live/gdzj/stream.m3u8
 美亚电影台(台),https://iptv.vip-tptv.xyz/tv.php?id=1
@@ -37,29 +61,10 @@ TVB星河台 HK-HL,https://iptv.vip-tptv.xyz/tv.php?id=21
 南国都市4K,http://php.jdshipin.com/TVOD/iptv.php?id=ngds4k
 北京IPTV4K,http://php.jdshipin.com/TVOD/iptv.php?id=bj4k
 广东珠江高清,http://eastscreen.tv/ooooo.php?id=gdzj
-广东卫视高清,http://43.136.119.99/zb0.php?id=239.77.1.19:5146
-广东卫视高清,http://43.136.119.99/zb0.php?id=239.77.1.152:5146
-广东卫视高清,http://43.136.119.99/zb0.php?id=239.77.0.84:5146
-广东卫视超清,http://43.136.119.99/zb0.php?id=239.77.0.166:5146
-广东珠江高清,http://43.136.119.99/zb0.php?id=239.77.0.1:5146
-广东珠江超清,http://43.136.119.99/zb0.php?id=239.77.0.114:5146
 广东珠江IPV6,http://[2409:8087:5e00:24::1e]:6060/000000001000/1000000004000011655/1.m3u8
 广东珠江IPV6,http://[2409:8087:5e00:24::1e]:6060/200000001898/460000089800010091/1.m3u8
 广东珠江IPV6,http://[2409:8087:5e08:24::12]:6610/000000001000/2000000003000000033/index.m3u8?stbId=3&livemode=1&hlsProfileId=&channel-id=hnbblive&Contentid=2000000003000000033&IASHttpSessionId=OTT19019320240419154124000281&yang-1989
 广东珠江频道,http://43.136.119.99/douyin.php?id=gdtvzjpd
-广东新闻高清,http://43.136.119.99/zb0.php?id=239.77.0.173:5146
-广东民生高清,http://43.136.119.99/zb0.php?id=239.77.0.225:5146
-广东体育高清-测试,http://43.136.119.99/zb0.php?id=239.77.0.112:5146
-广东体育超清,http://43.136.119.99/zb0.php?id=239.77.0.168:5146
-经济科教高清,http://43.136.119.99/zb0.php?id=239.77.0.85:5146
-经济科教超清,http://43.136.119.99/zb0.php?id=239.77.0.167:5146
-大湾区卫视高清,http://43.136.119.99/zb0.php?id=239.77.0.215:5146
-广东影视高清,http://43.136.119.99/zb0.php?id=239.77.0.217:5146
-广东少儿高清,http://43.136.119.99/zb0.php?id=239.77.0.250:5146
-嘉佳卡通高清,http://43.136.119.99/zb0.php?id=239.77.0.179:5146
-南方购物-精选,http://43.136.119.99/zb0.php?id=239.77.0.19:5146
-南方购物,http://43.136.119.99/zb0.php?id=239.77.0.22:5146
-广东综艺 4K50p,http://43.136.119.99/zb0.php?id=239.77.1.236:5146
 广州综合高清,http://php.jdshipin.com:8880/gztv.php?id=zhonghe
 广州新闻高清,http://php.jdshipin.com:8880/gztv.php?id=xinwen
 广州竞赛高清,http://php.jdshipin.com:8880/gztv.php?id=jingsai
@@ -1148,27 +1153,4 @@ HD看电影,http://wouu.net:9977/udp/239.93.42.47:5140
 4K乐享超清,http://wouu.net:9977/udp/239.93.0.43:5140
 
 
-不失效源,#genre#
-CCTV1,http://eastscreen.tv/ooooo.php?id=CCTV1HD
-CCTV2,http://eastscreen.tv/ooooo.php?id=CCTV2HD
-CCTV3,http://eastscreen.tv/ooooo.php?id=CCTV3HD
-CCTV5,http://eastscreen.tv/ooooo.php?id=CCTV5HD
-CCTV5+,http://eastscreen.tv/ooooo.php?id=CCTV5+HD
-CCTV6,http://eastscreen.tv/ooooo.php?id=CCTV6HD
-CCTV7,http://eastscreen.tv/ooooo.php?id=CCTV7HD
-CCTV8,http://eastscreen.tv/ooooo.php?id=CCTV8HD
-CCTV9,http://eastscreen.tv/ooooo.php?id=CCTV9HD
-CCTV13,http://eastscreen.tv/ooooo.php?id=CCTV13HD
-CCTV16,http://eastscreen.tv/ooooo.php?id=CCTV16HD
-CCTV16-4k,http://eastscreen.tv/ooooo.php?id=CCTV16-4k
-湖南卫视,http://eastscreen.tv/ooooo.php?id=hnwshd
-浙江卫视,http://eastscreen.tv/ooooo.php?id=zjwshd
-东方卫视,http://eastscreen.tv/ooooo.php?id=dfwshd
-广东卫视,http://eastscreen.tv/ooooo.php?id=gdwshd
-CHC家庭电影,http://eastscreen.tv/ooooo.php?id=chcjt
-CHC动作电影,http://eastscreen.tv/ooooo.php?id=chcdz
-CHD高清电影,http://eastscreen.tv/ooooo.php?id=chchd
-求索纪录,http://eastscreen.tv/ooooo.php?id=qsjl
-凤凰中文,http://eastscreen.tv/ooooo.php?id=fhws
-凤凰资讯,http://eastscreen.tv/ooooo.php?id=fhzx
 
