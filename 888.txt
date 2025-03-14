@@ -84,8 +84,8 @@ CGTN俄语,http://goo.bkpcp.top/mg/cgtnr
 央卫,#genre#
 广东珠江高清,http://cdn2.132.us.kg/live/gdzj/stream.m3u8
 广东珠江高清,https://cdn2.163189.xyz/live/gdzj/stream.m3u8
-广东珠江,http://154.7.177.5:5000/TVOD/1000000004000011655/ystenlive/index.m3u8?
-广东珠江,http://itv.scy.ink/TVOD/1000000004000011655/ystenlive/index.m3u8
+广东珠江,http://8.210.132.219:5000/2000000003000000033/hnbblive/index.m3u8
+广东珠江,http://8.209.196.123:32768/2000000003000000033/hnbblive/index.m3u8
 美亚电影台(台),https://iptv.vip-tptv.xyz/tv.php?id=1
 天映频道,https://iptv.vip-tptv.xyz/tv.php?id=2
 纬来电影台,https://iptv.vip-tptv.xyz/tv.php?id=3
