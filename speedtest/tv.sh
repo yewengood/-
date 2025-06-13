@@ -1,3 +1,4 @@
+rm -rf ip/gd.onlygood.ip
 city="gd"
 # 使用城市名作为默认文件名，格式为 CityName.ip
 ipfile="ip/${city}.ip"
